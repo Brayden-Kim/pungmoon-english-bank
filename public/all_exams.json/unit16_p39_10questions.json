@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-39-q01",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse. By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Industrial Wastewater Cannot Be Safely Reused in Agriculture",
+      "From Waste to Wealth: Turning Wastewater Plants into Resource Hubs",
+      "The Financial Burden of Operating Modern Sewage Treatment Facilities",
+      "How Mined Mineral Reserves Replaced Organic Fertilizers in Farming",
+      "Strategies for Reducing Urban Water Consumption During Severe Droughts"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources ~ transforming treatment plants into circular resource-recovery hubs'를 보세요. 하수 처리장이 자원 회수 거점으로 탈바꿈하는 핵심 내용은 무엇일까요?"
+  },
+  {
+    "id": "p-39-q02",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse. By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the environmental and economic benefits of recovering nutrients, energy, and clean water from wastewater",
+      "methods engineers use to discharge industrial effluents into rivers without filtration",
+      "reasons why urban residents hesitate to drink purified recycled wastewater",
+      "differences between anaerobic digestion and traditional chemical fertilizer production",
+      "how global drought patterns have increased the cost of mining phosphorus"
+    ],
+    "answer": 0,
+    "explanation": "구문: 하수 슬러지에서 비료 성분을 추출하고, 바이오가스를 포집하며, 고도 막 여과로 물을 재이용함으로써 비용 절감과 탄소 감축, 가뭄 대응력을 높이는 자원 순환 시스템을 종합해 보세요."
+  },
+  {
+    "id": "p-39-q03",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse. By <u>transforming treatment plants into circular resource-recovery hubs</u>, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "question": "밑줄 친 'transforming treatment plants into circular resource-recovery hubs'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "redesigning wastewater facilities to harvest fertilizers, renewable energy, and reusable water",
+      "relocating urban sewage plants to rural farming regions to reduce transportation expenses",
+      "replacing biological treatment processes with chemical disinfectants to speed up discharge",
+      "requiring industrial factories to store their own wastewater permanently underground",
+      "building larger reservoirs to collect rainwater instead of purifying municipal sewage"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장들의 인·질소 비료 추출, 바이오가스 에너지 회수, 음용수 수준 정화 재이용을 종합해 보세요. 처리장을 순환형 자원 회수 거점으로 전환한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-39-q04",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources.\n\n(A) Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse.\n(B) Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves.\n(C) By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 폐수를 귀중한 자원의 저장소로 보는 관점 전환을 제시한 뒤, (B)가 첫 번째 자원 회수 사례(비료 추출)를 소개합니다. 그다음 (A)가 'Simultaneously'로 바이오가스 및 정화수 회수를 덧붙이고, 왜 (C)가 결론을 내릴까요?"
+  },
+  {
+    "id": "p-39-q05",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nSimultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse.\n\nFor decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. ( ① ) Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources. ( ② ) Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. ( ③ ) By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 하수 슬러지로부터 인과 질소를 추출해 비료를 만드는 첫 번째 자원 회수 과정을 설명한 직후, ③ 자리에서 'Simultaneously(동시에)'로 바이오가스 생산과 물 정화 과정을 병렬적으로 덧붙이는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "p-39-q06",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water ________________________. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse. By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "as a toxic byproduct that must be buried in deep underground landfills",
+      "not as waste, but as a concentrated reservoir of valuable resources",
+      "solely as a source of pollution that increases municipal tax burdens",
+      "as an unavoidable expense that cannot be offset by modern technology",
+      "not as a recyclable liquid, but as an obstacle to urban expansion"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'however(그러나)'로 앞 문장의 전통적 관점('environmental hazard ~ at considerable expense')과 대조되며, 뒤 문장들의 비료·바이오가스·정화수 추출을 포괄하는 관점 전환 표현을 찾으세요."
+  },
+  {
+    "id": "p-39-q07",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated reservoir of valuable resources. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, reducing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration purifies water to drinking-grade standards for urban reuse. By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.\n\n[요약문]\nRather than treating wastewater merely as a costly (A)________, modern facilities increasingly recover fertilizers, renewable energy, and purified water from it, creating sustainable, drought-resilient (B)________ systems.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) hazard - (B) circular",
+      "(A) fertilizer - (B) linear",
+      "(A) hazard - (B) mined",
+      "(A) reserve - (B) industrial",
+      "(A) fuel - (B) expensive"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'environmental hazard ~ at considerable expense'와 'circular resource-recovery hubs'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-39-q08",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "For decades, municipal water treatment facilities and industrial plants have treated wastewater primarily as an environmental ① hazard to be cleaned and discharged at considerable expense. Increasingly, however, environmental engineers view used water not as waste, but as a concentrated ② reservoir of valuable resources. Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture slow-release agricultural fertilizers, ③ increasing reliance on mined mineral reserves. Simultaneously, anaerobic digesters break down organic matter to capture biogas—a renewable methane fuel capable of powering the treatment facility itself—while advanced membrane filtration ④ purifies water to drinking-grade standards for urban reuse. By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build ⑤ resilience against severe droughts.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 하수 슬러지에서 인과 질소를 추출해 완효성 농업용 비료를 제조하면 채굴된 광물 자원에 대한 의존도를 높이는(increasing) 것이 아니라 '줄이게(reducing)' 됩니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-39-q09",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "처리장을 순환형 자원 회수 거점으로 전환함으로써, 도시들은 운영 비용을 절감하고, 온실가스 배출량을 낮추며, 극심한 가뭄에 대한 회복력을 구축한다.",
+    "chunks": [
+      "By transforming treatment plants",
+      "into circular resource-recovery hubs,",
+      "cities cut operational costs,",
+      "lower greenhouse gas emissions,",
+      "and build resilience against severe droughts."
+    ],
+    "answer": "By transforming treatment plants into circular resource-recovery hubs, cities cut operational costs, lower greenhouse gas emissions, and build resilience against severe droughts.",
+    "explanation": "구문: 'transform A into B(A를 B로 전환하다)' 구문 뒤에 복수 주어 'cities'에 세 개의 동사 'cut ~, lower ~, and build ~'가 병렬 연결되어 있습니다. 왜 'builds'가 아니라 'build'를 쓸까요?"
+  },
+  {
+    "id": "p-39-q10",
+    "passageId": "p-39",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 38번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Modern recovery systems can extract phosphorus and nitrogen from sewage sludge to manufacture agricultural fertilizers, ",
+      " reliance on mined mineral reserves, while anaerobic digesters capture biogas capable of ",
+      " the facility itself."
+    ],
+    "choices": [
+      [
+        "reduced",
+        "reducing"
+      ],
+      [
+        "power",
+        "powering"
+      ]
+    ],
+    "answers": [
+      "reducing",
+      "powering"
+    ],
+    "explanation": "문법: ① 콤마 뒤에서 목적어 'reliance'를 취하며 결과를 나타내는 능동 분사구문 자리이므로 'reducing'이 옵니다. ② 형용사구 'capable of(~할 수 있는)'에서 전치사 'of'의 목적어 자리이므로 왜 동명사 'powering'을 쓸까요?"
+  }
+]

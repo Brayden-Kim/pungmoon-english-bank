@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-43-q01",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Corporate Consulting Prepares Workers for Mechanical Repair",
+      "A Ticking Tribute: Finding New Purpose Through Restoring a Watch",
+      "Why Traditional Watchmaking Workshops Are Disappearing in Cities",
+      "The Financial Value of Antique Brass Pocket Watches",
+      "How a Retired Fisherman Taught Watch Repair to a Young Consultant"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose'를 보세요. 할아버지의 미완성 회중시계를 고쳐 주면서 클라라가 깨달은 삶의 의미는 무엇일까요?"
+  },
+  {
+    "id": "p-43-q02",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "how completing her late grandfather's watch helped Clara discover a meaningful new purpose",
+      "methods watchmakers use to clean antique brass gears and springs",
+      "reasons why Clara decided to sell her family's coastal workshop immediately",
+      "differences between corporate consulting and coastal fishing industries",
+      "how Mr. Brennan repaired his own pocket watch using old diagrams"
+    ],
+    "answer": 0,
+    "explanation": "구문: 처음에는 작업실을 팔려던 클라라가 할아버지의 설계도를 보며 시계를 완성해 브레넌 씨에게 전달한 뒤 삶의 목적의식을 되찾게 된 과정을 종합해 보세요."
+  },
+  {
+    "id": "p-43-q03",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that <u>restoring broken things could also restore a sense of purpose</u>.",
+    "question": "밑줄 친 'restoring broken things could also restore a sense of purpose'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "patiently repairing an unfinished timepiece brought genuine meaning back into Clara's own life",
+      "selling antique watches at high prices allowed Clara to fund a coastal museum",
+      "fixing mechanical clocks proved much easier than managing corporate consulting projects",
+      "returning to her city office helped Clara forget the grief of losing her grandfather",
+      "teaching retired fishermen how to repair watches became a profitable coastal business"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장들의 'quiet discipline she had never experienced behind a computer screen'과 'the elderly man's tearful gratitude'를 연결해 보세요. 고장 난 물건을 복원하는 일이 목적의식까지 회복시켜 준다는 것은 클라라에게 어떤 변화가 일어났다는 뜻일까요?"
+  },
+  {
+    "id": "p-43-q04",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan.\n\n(A) Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen.\n(B) Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft.\n(C) On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 미완성 회중시계를 발견한 뒤, (B)가 호기심에 시계를 완성하기로 결심하고 저녁마다 설계도를 공부하는 시작 과정을 보여 줍니다. 그다음 (A)가 수 주간의 시행착오와 배움을 설명하고, 왜 (C)가 시계 전달과 깨달음으로 마무리할까요?"
+  },
+  {
+    "id": "p-43-q05",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWeeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen.\n\nWhen Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. ( ① ) While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. ( ② ) Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. ( ③ ) On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 클라라가 저녁마다 도면과 도구를 연구하며 시계 완성에 착수한 직후, ③ 자리에서 수 주간의 시행착오와 조율 과정('Weeks of frustrating trial and error ~')이 이어져야 뒤 문장의 'finally delivered the ticking watch'와 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "p-43-q06",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "selling the workshop immediately would have been far more profitable",
+      "restoring broken things could also restore a sense of purpose",
+      "corporate consulting required much greater patience than watchmaking",
+      "antique timepieces rarely functioned accurately after decades of neglect",
+      "her grandfather had never intended to finish the pocket watch"
+    ],
+    "answer": 1,
+    "explanation": "구문: 브레넌 씨의 눈물 어린 감사를 마주하며 클라라가 얻은 궁극적 깨달음입니다. 고장 나 멈춰 있던 시계를 고치는 행위가 그녀 내면에 어떤 변화를 가져왔을까요?"
+  },
+  {
+    "id": "p-43-q07",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "When Clara inherited her grandfather's dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet discipline she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose.\n\n[요약문]\nAlthough Clara originally intended to sell her grandfather's workshop, patiently completing an unfinished pocket watch for a local fisherman taught her quiet (A)________ and renewed her sense of (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) discipline - (B) purpose",
+      "(A) frustration - (B) consulting",
+      "(A) discipline - (B) property",
+      "(A) curiosity - (B) wealth",
+      "(A) impatience - (B) gratitude"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'taught her a quiet discipline'과 'restore a sense of purpose'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-43-q08",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "When Clara inherited her grandfather's ① dilapidated watchmaker's workshop in a quiet coastal town, she initially planned to sell the property and return to her corporate consulting job in the city. While sorting through dusty drawers of brass gears and tiny springs, however, she discovered an ② unfinished pocket watch accompanied by a handwritten ledger addressed to a local retired fisherman, Mr. Brennan. Out of curiosity, Clara spent evenings studying her grandfather's technical diagrams and delicate tools, ③ determined to complete the timepiece as a final tribute to his craft. Weeks of frustrating trial and error tested her patience, yet each tiny mechanical adjustment taught her a quiet ④ recklessness she had never experienced behind a computer screen. On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful ⑤ gratitude made Clara realize that restoring broken things could also restore a sense of purpose.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 수 주간의 답답한 시행착오가 그녀의 인내심을 시험했지만, 각각의 미세한 기계적 조율은 컴퓨터 화면 뒤에서는 결코 경험하지 못했던 조용한 무모함(recklessness)이 아니라 '수양(절제된 규율, discipline)'을 가르쳐 주었습니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-43-q09",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "그녀가 마침내 째깍거리는 시계를 브레넌 씨에게 전달한 날 오후, 그 노인의 눈물 어린 감사는 클라라로 하여금 망가진 것을 복원하는 일이 목적의식 또한 회복시켜 줄 수 있음을 깨닫게 했다.",
+    "chunks": [
+      "On the afternoon she finally delivered the ticking watch to Mr. Brennan,",
+      "the elderly man's tearful gratitude",
+      "made Clara realize",
+      "that restoring broken things",
+      "could also restore a sense of purpose."
+    ],
+    "answer": "On the afternoon she finally delivered the ticking watch to Mr. Brennan, the elderly man's tearful gratitude made Clara realize that restoring broken things could also restore a sense of purpose.",
+    "explanation": "구문: 관계부사 'when'이 생략된 'On the afternoon she ~' 뒤에 사역동사 'made + 목적어(Clara) + 동사원형(realize)'과 접속사 'that'절이 이어집니다. 왜 'to realize'가 아니라 원형 'realize'를 쓸까요?"
+  },
+  {
+    "id": "p-43-q10",
+    "passageId": "p-43",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 43~45번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "She discovered an unfinished pocket watch ",
+      " by a handwritten ledger ",
+      " to a local retired fisherman, Mr. Brennan."
+    ],
+    "choices": [
+      [
+        "accompanying",
+        "accompanied"
+      ],
+      [
+        "addressing",
+        "addressed"
+      ]
+    ],
+    "answers": [
+      "accompanied",
+      "addressed"
+    ],
+    "explanation": "문법: ① 수식받는 'an unfinished pocket watch'가 장부를 '동반한(수반된)' 수동 관계이므로 과거분사 'accompanied'가 옵니다. ② 수식받는 'a handwritten ledger'가 브레넌 씨 앞으로 '수신인이 적힌' 수동 관계이므로 왜 과거분사 'addressed'를 쓸까요?"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-24-q01",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Initial Login Rates Guarantee Long-Term Software Success",
+      "Beyond Installation: Turning New Tools Into Daily Habits",
+      "How Spreadsheets Outperform Modern Digital Platforms",
+      "Strategies for Reducing Software Licensing Costs in Companies",
+      "The Role of Automated Metrics in Tracking Employee Logins"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working'을 보세요. 단순 설치나 초기 접속률을 넘어 일상 습관과 인센티브를 정렬해야 하는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-24-q02",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the necessity of aligning routines, coaching, and incentives for genuine technology adoption",
+      "methods for designing user-friendly interfaces for legacy spreadsheet software",
+      "reasons why employees resist learning any new digital communication tools",
+      "ways to monitor employee login frequency during the first month of onboarding",
+      "the financial risks of purchasing expensive enterprise software licenses"
+    ],
+    "answer": 0,
+    "explanation": "구문: 겉핥기식 도입(shallow adoption)을 피하고 진정한 기술 통합을 이루기 위해 필요한 일상 재설계, 동료 코칭, 전환 이정표, 기존 습관 폐지 허용 등을 종합해 보세요."
+  },
+  {
+    "id": "p-24-q03",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when <u>people's habits and incentives align with the new way of working</u>.",
+    "question": "밑줄 친 'people's habits and incentives align with the new way of working'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "employees' daily workflows and reward structures genuinely support using the new system",
+      "workers are penalized financially whenever they log into older spreadsheet programs",
+      "managers force staff to memorize software manuals before starting daily projects",
+      "new digital platforms automatically replicate every step of legacy manual routines",
+      "initial login counts remain high regardless of whether core tasks are completed"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'not when technology is merely installed, but when ~' 구조를 보세요. 기술의 단순 설치가 아니라 구성원의 일상 루틴과 보상·동기 체계가 새로운 업무 방식과 일치한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-24-q04",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds.\n\n(A) Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware.\n(B) True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks.\n(C) Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 'shallow adoption(피상적 도입)'에 대비하여 (B)가 'True technological integration'의 조건을 제시합니다. 그다음 (A)가 구체적 지원 요소 부재 시의 결과를 경고하고, 왜 (C)가 결론을 맺을까요?"
+  },
+  {
+    "id": "p-24-q05",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nTrue technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks.\n\nWhen an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. ( ① ) Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. ( ② ) Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. ( ③ ) Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 초기 접속률만 높은 피상적 도입의 한계를 지적한 뒤, ② 자리에서 진정한 기술 통합의 핵심 요건을 제시해야 뒤 문장의 구체적 실행 조건(동료 코칭, 전환 이정표 등)과 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "p-24-q06",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "leaders track daily login numbers more strictly",
+      "people's habits and incentives align with the new way of working",
+      "employees continue using familiar spreadsheets alongside new apps",
+      "organizations purchase the most expensive software available",
+      "training sessions are replaced by automated login reminders"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'not when technology is merely installed, but when ~' 구조에서 단순 설치와 대비되는 지속 가능한 변화의 핵심 조건을 찾으세요. 무엇이 새로운 업무 방식과 맞물려야 할까요?"
+  },
+  {
+    "id": "p-24-q07",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, where people click around briefly before reverting to familiar spreadsheets and manual workarounds. True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to phase out legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when people's habits and incentives align with the new way of working.\n\n[요약문]\nBecause high early login counts often hide (A)________ adoption, lasting digital transformation requires redesigning daily workflows and aligning employee (B)________ with the new system.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) shallow - (B) habits",
+      "(A) permanent - (B) logins",
+      "(A) shallow - (B) spreadsheets",
+      "(A) automatic - (B) habits",
+      "(A) costly - (B) resistance"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'mask shallow adoption'과 'people's habits and incentives align with the new way of working'이 요약문의 빈칸 (A), (B)에 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-24-q08",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "When an organization adopts a new software platform or workflow, leaders often measure success by counting how many employees log in during the first month. Yet high initial login rates frequently ① mask shallow adoption, where people click around briefly before ② reverting to familiar spreadsheets and manual workarounds. True technological integration requires ③ redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks. Without hands-on peer coaching, clear transition milestones, and explicit permission to ④ preserve legacy habits, even powerful digital tools end up as expensive shelfware. Sustainable change happens not when technology is merely installed, but when people's habits and incentives ⑤ align with the new way of working.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 새로운 도구가 정착하려면 구식 업무 습관을 보존하는(preserve) 것이 아니라 '단계적으로 폐지할(phase out)' 수 있도록 명시적인 허락을 주어야 합니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-24-q09",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "진정한 기술적 통합은 새로운 도구가 핵심 과업을 완수하는 가장 쉽고 신뢰할 수 있는 경로가 되도록 일상적인 루틴을 재설계하는 것을 요구한다.",
+    "chunks": [
+      "True technological integration requires",
+      "redesigning daily routines",
+      "so that the new tool becomes",
+      "the easiest, most reliable path",
+      "to completing core tasks."
+    ],
+    "answer": "True technological integration requires redesigning daily routines so that the new tool becomes the easiest, most reliable path to completing core tasks.",
+    "explanation": "구문: 동사 'requires'의 목적어로 동명사 'redesigning'이 오고, 목적을 나타내는 'so that'절 뒤에 'path to + 동명사(completing)' 전치사구가 이어집니다. 왜 'complete'가 아니라 'completing'을 쓸까요?"
+  },
+  {
+    "id": "p-24-q10",
+    "passageId": "p-24",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 23번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Leaders often measure success by ",
+      " how many employees log in during the first month. Yet high initial login rates frequently mask shallow adoption, ",
+      " people click around briefly before reverting to familiar spreadsheets."
+    ],
+    "choices": [
+      [
+        "count",
+        "counting"
+      ],
+      [
+        "which",
+        "where"
+      ]
+    ],
+    "answers": [
+      "counting",
+      "where"
+    ],
+    "explanation": "문법: ① 전치사 'by' 뒤에는 동명사가 와야 하므로 'counting'이 옵니다. ② 콤마 뒤 선행사 'shallow adoption'이라는 추상적 상황·공간을 부연 설명하며 뒤에 완전한 절이 이어지므로 왜 관계부사 'where'를 쓸까요?"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-42-q01",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Uniform Ornamental Trees Outperform Native Woodlands in Cities",
+      "Urban Micro-Forests: Turning Vacant City Spaces into Biodiversity Hubs",
+      "How Synthetic Fertilizers Accelerate Growth in Street-Side Plantings",
+      "The Economic Cost of Removing Concrete from Urban Highway Medians",
+      "Strategies for Controlling Pollinator Populations in Crowded Parks"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors'를 보세요. 도심 속 자투리 공간을 토종 소규모 숲(micro-forests)으로 전환할 때 얻는 생태적·환경적 이점은 무엇일까요?"
+  },
+  {
+    "id": "p-42-q02",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the ecological and climate benefits of planting dense native micro-forests in cities",
+      "methods landscapers use to prune fast-growing ornamental street trees",
+      "reasons why urban soil lacks beneficial fungi for commercial agriculture",
+      "differences between tropical rainforests and temperate suburban gardens",
+      "how city planners budget for pesticide spraying in public parks"
+    ],
+    "answer": 0,
+    "explanation": "구문: 미야와키 생태 복원 원리에 기반한 도심 토종 소규모 숲이 단종 조경과 달리 자생적 균근 네트워크를 형성하고 탄소 격리·열섬 완화·생물다양성 증진에 기여하는 바를 종합해 보세요."
+  },
+  {
+    "id": "p-42-q03",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus <u>turns fragmented city spaces into resilient biodiversity corridors</u>.",
+    "question": "밑줄 친 'turns fragmented city spaces into resilient biodiversity corridors'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "connects isolated urban patches into thriving, self-sustaining habitats for diverse wildlife",
+      "replaces all commercial buildings with uniform rows of non-native ornamental trees",
+      "separates residential neighborhoods from public parks using dense concrete barriers",
+      "requires continuous chemical maintenance to keep insect populations out of schoolyards",
+      "converts agricultural farmland outside cities into paved highway transportation routes"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장의 'provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects'와 연결해 보세요. 파편화된 도시 공간을 회복력 있는 생물다양성 통로로 바꾼다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-42-q04",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions.\n\n(A) Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect.\n(B) Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks.\n(C) Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 토종 소규모 숲을 소개한 뒤, (B)가 기존 단종 조경과 대비되는 자생적 균근 네트워크 형성을 설명합니다. 그다음 (A)가 'these compact woodlands'로 받아 빠른 성장과 기후 조절 효과를 제시하고, 왜 (C)가 'Moreover'로 생물다양성 이점을 덧붙이며 마무리할까요?"
+  },
+  {
+    "id": "p-42-q05",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWithin just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect.\n\nTraditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. ( ① ) Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. ( ② ) Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks. ( ③ ) Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. ( ④ ) Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 토종 소규모 숲이 자생적인 지하 균근 네트워크를 빠르게 구축한다는 내용을 제시한 직후, ③ 자리에서 'these compact woodlands'로 받아 성장 속도와 탄소 격리·열섬 완화 효과를 설명해야 뒤 문장의 'Moreover(게다가)'로 생물다양성 이점이 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "p-42-q06",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests ________________________. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "require constant chemical inputs to survive urban air pollution",
+      "rapidly establish self-sustaining underground mycorrhizal networks",
+      "grow much more slowly than uniform rows of ornamental street trees",
+      "prevent songbirds and pollinators from nesting near residential streets",
+      "increase the urban heat island effect by blocking coastal wind currents"
+    ],
+    "answer": 1,
+    "explanation": "구문: 잦은 관개와 합성 비료, 살충제를 요구하는 기존 단종 조경('conventional monoculture landscaping')과 정반대되는 토종 소규모 숲의 생태적 자립 특성을 찾으세요."
+  },
+  {
+    "id": "p-42-q07",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Traditional urban forestry programs often treat trees primarily as aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish self-sustaining underground mycorrhizal networks. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by mitigating the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.\n\n[요약문]\nUnlike resource-intensive ornamental plantings, dense multi-layered (A)________ micro-forests become ecologically self-sustaining, accelerate carbon capture, cool urban neighborhoods, and restore local (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) native - (B) biodiversity",
+      "(A) synthetic - (B) irrigation",
+      "(A) native - (B) monoculture",
+      "(A) uniform - (B) climate",
+      "(A) ornamental - (B) habitats"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'native micro-forests'와 'resilient biodiversity corridors'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-42-q08",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Traditional urban forestry programs often treat trees primarily as ① aesthetic enhancements, planting uniform rows of fast-growing ornamental species along streets and parks. Yet ecologists increasingly advocate designing urban micro-forests modeled on Miyawaki ecological restoration principles—dense, multi-layered plantings of native trees, shrubs, and understory herbs tailored to local soil and climate conditions. Unlike conventional monoculture landscaping that demands frequent irrigation, synthetic fertilizers, and pesticide spraying, native micro-forests rapidly establish ② self-sustaining underground mycorrhizal networks. Within just a few years, these compact woodlands grow up to ten times faster than conventional plantations, sequester substantially more carbon per square meter, and cool surrounding neighborhoods by ③ intensifying the urban heat island effect. Moreover, their structural complexity provides vital nesting habitats and food sources for pollinators, songbirds, and ④ beneficial insects. Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into ⑤ resilient biodiversity corridors.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 이 소규모 삼림지는 주변 지역을 시원하게 해 주므로(`cool surrounding neighborhoods`) 도시 열섬 효과를 심화시키는(intensifying) 것이 아니라 '완화함으로써(mitigating)' 냉각 효과를 냅니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-42-q09",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "따라서 활용도가 낮은 공터, 학교 운동장, 고속도로 중앙분리대를 토종 소규모 숲으로 전환하는 것은 파편화된 도시 공간을 회복력 있는 생물다양성 통로로 바꾼다.",
+    "chunks": [
+      "Transforming underutilized vacant lots, schoolyards, and highway medians",
+      "into native micro-forests",
+      "thus turns fragmented city spaces",
+      "into resilient biodiversity corridors."
+    ],
+    "answer": "Transforming underutilized vacant lots, schoolyards, and highway medians into native micro-forests thus turns fragmented city spaces into resilient biodiversity corridors.",
+    "explanation": "구문: 동명사구 주어 'Transforming ~ into native micro-forests' 뒤에 단수 동사 'turns'와 목적어 'fragmented city spaces', 전치사구 'into resilient biodiversity corridors'가 이어집니다. 왜 'turn'이 아니라 'turns'를 쓸까요?"
+  },
+  {
+    "id": "p-42-q10",
+    "passageId": "p-42",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 41~42번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Ecologists increasingly advocate ",
+      " urban micro-forests ",
+      " on Miyawaki ecological restoration principles."
+    ],
+    "choices": [
+      [
+        "to design",
+        "designing"
+      ],
+      [
+        "modeling",
+        "modeled"
+      ]
+    ],
+    "answers": [
+      "designing",
+      "modeled"
+    ],
+    "explanation": "문법: ① 동사 'advocate'는 목적어로 동명사를 취하므로 'designing'이 옵니다. ② 수식받는 'urban micro-forests'가 미야와키 생태 복원 원리를 '본떠 만들어진' 수동 관계이므로 왜 과거분사 'modeled'를 쓸까요?"
+  }
+]

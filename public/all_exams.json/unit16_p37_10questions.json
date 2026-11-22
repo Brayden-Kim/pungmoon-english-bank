@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-37-q01",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust. Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Airlines Eliminate Seasonal Ticket Price Fluctuations",
+      "Dynamic Pricing: Balancing Market Efficiency and Consumer Fairness",
+      "Why Ride-Sharing Drivers Avoid Working During Severe Weather",
+      "The History of Fixed Pricing in Urban Public Transportation",
+      "Strategies for Maximizing Surge Fares Without Losing Customers"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms'를 보세요. 동적 가격 책정의 경제적 효율성과 소비자 공정성 사이의 균형 과제는 무엇일까요?"
+  },
+  {
+    "id": "p-37-q02",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust. Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the economic rationale behind dynamic pricing and the fairness concerns it raises",
+      "methods algorithms use to predict urban weather patterns before rush hour",
+      "reasons why hotel chains refuse to adjust room rates during peak holidays",
+      "differences between public transit subsidies and private ride-sharing fares",
+      "how consumers can bypass surge pricing by booking flights months in advance"
+    ],
+    "answer": 0,
+    "explanation": "구문: 수급 조절이라는 경제학자들의 옹호 논리와 위기 상황에서의 착취적 인상 및 신뢰 저하라는 비판적 시각의 대립을 종합해 보세요."
+  },
+  {
+    "id": "p-37-q03",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that <u>surge pricing performs an essential signaling function</u>: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust. Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "question": "밑줄 친 'surge pricing performs an essential signaling function'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "rising prices communicate scarcity so supply increases and excess demand cools down",
+      "higher fares warn passengers to cancel their accounts permanently due to unfair fees",
+      "automated alerts notify city officials whenever traffic congestion exceeds safe limits",
+      "companies use temporary discounts to signal that extra drivers are available nearby",
+      "price fluctuations prevent drivers from entering crowded neighborhoods during storms"
+    ],
+    "answer": 0,
+    "explanation": "구문: 콜론(:) 뒤의 'higher fares motivate additional drivers to enter ~ while encouraging price-sensitive riders to wait'가 직접적 설명입니다. 할증 요금이 필수적인 신호 기능을 수행한다는 것은 시장을 어떻게 조절한다는 뜻일까요?"
+  },
+  {
+    "id": "p-37-q04",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply.\n\n(A) Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust.\n(B) When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit.\n(C) Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 동적 가격 책정을 소개한 뒤, (B)가 구체적 사례(폭우·콘서트 후 요금 인상)와 경제학자들의 옹호 논리를 제시합니다. 그다음 (A)가 'by contrast'로 비판적 시각을 대조하고, 왜 (C)가 'therefore'로 결론을 내릴까요?"
+  },
+  {
+    "id": "p-37-q05",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nCritics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust.\n\nIn most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. ( ① ) However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. ( ② ) When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. ( ③ ) Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. ( ④ ) Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: ③ 뒤에서 경제학자들이 할증 요금의 순기능을 옹호한 직후, ④ 자리에서 'Critics, by contrast(반면 비판론자들은)'로 대조되는 입장이 나와야 마지막 문장의 양립 과제로 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-37-q06",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust. ________________________ therefore remains a central challenge for modern service platforms.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "Eliminating real-time algorithms from mobile booking apps",
+      "Balancing algorithmic efficiency with perceived fairness",
+      "Forcing all drivers to accept fixed fares during rainstorms",
+      "Preventing riders from using public transit after major events",
+      "Replacing dynamic pricing with permanent seasonal discounts"
+    ],
+    "answer": 1,
+    "explanation": "구문: 경제학자들이 강조하는 수급 조절 효율성과 비판론자들이 지적하는 소비자 신뢰·공정성 문제를 모두 아우르는 결론입니다. 현대 서비스 플랫폼의 핵심 과제는 무엇일까요?"
+  },
+  {
+    "id": "p-37-q07",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares motivate additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and erodes consumer trust. Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.\n\n[요약문]\nWhile dynamic pricing helps match shifting (A)________ and demand through real-time price signals, service platforms must also protect consumer (B)________ by avoiding perceptions of unfair exploitation.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) supply - (B) trust",
+      "(A) weather - (B) algorithms",
+      "(A) supply - (B) efficiency",
+      "(A) transit - (B) fairness",
+      "(A) stability - (B) profit"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'fluctuating demand and available supply'와 'erodes consumer trust'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-37-q08",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In most economic transactions, both buyers and sellers expect prices to remain relatively ① stable over short periods. However, in certain markets—most notably airlines, hotels, and ride-sharing platforms—companies rely on dynamic pricing, adjusting rates in real time based on ② fluctuating demand and available supply. When a sudden rainstorm hits a city or a major concert ends, ride-sharing algorithms immediately raise fares to reflect the ③ spike in requests. Economists argue that surge pricing performs an essential signaling function: higher fares ④ discourage additional drivers to enter the busy area while encouraging price-sensitive riders to wait or choose public transit. Critics, by contrast, contend that raising prices during emergencies or severe weather feels exploitative and ⑤ erodes consumer trust. Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 할증 요금이 신호 기능을 수행하려면 더 높은 요금이 추가 운전자들이 혼잡 지역으로 진입하도록 단념시키는(discourage) 것이 아니라 '동기를 부여해야(motivate)' 합니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-37-q09",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "따라서 알고리즘적 효율성과 인식되는 공정성 사이의 균형을 맞추는 것은 현대 서비스 플랫폼의 핵심 과제로 남아 있다.",
+    "chunks": [
+      "Balancing algorithmic efficiency",
+      "with perceived fairness",
+      "therefore remains",
+      "a central challenge",
+      "for modern service platforms."
+    ],
+    "answer": "Balancing algorithmic efficiency with perceived fairness therefore remains a central challenge for modern service platforms.",
+    "explanation": "구문: 동명사구 주어 'Balancing algorithmic efficiency with perceived fairness' 뒤에 단수 동사 'remains'와 주격보어 명사구 'a central challenge ~'가 이어집니다. 왜 'remain'이 아니라 'remains'를 쓸까요?"
+  },
+  {
+    "id": "p-37-q10",
+    "passageId": "p-37",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 36번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Companies rely on dynamic pricing, ",
+      " rates in real time based on fluctuating demand. Critics contend that ",
+      " prices during emergencies feels exploitative and erodes consumer trust."
+    ],
+    "choices": [
+      [
+        "adjusted",
+        "adjusting"
+      ],
+      [
+        "raise",
+        "raising"
+      ]
+    ],
+    "answers": [
+      "adjusting",
+      "raising"
+    ],
+    "explanation": "문법: ① 콤마 뒤에서 목적어 'rates'를 취하며 부연 설명하는 능동 분사구문 자리이므로 'adjusting'이 옵니다. ② 접속사 'that' 뒤에서 동사 'feels ~ and erodes ~'의 주어 역할을 하는 동명사가 필요하므로 왜 'raising'을 쓸까요?"
+  }
+]

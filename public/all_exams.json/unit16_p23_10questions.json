@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-23-q01",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from poorly designed systems rather than human flaws.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Experienced Pilots Still Make Frequent Training Mistakes",
+      "Designing for Humans: How Shape Coding Reduced Aviation Errors",
+      "The History of Landing Gear Technology in World War II",
+      "How Smartphone Interfaces Replaced Traditional Control Panels",
+      "Why Standardization Slows Down Engineering Innovation"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'redesigned the cockpit using shape coding ~ dramatically reduced accidents'와 마지막 문장을 보세요. 인간 실수를 탓하는 대신 도구의 형태를 직관적으로 바꾼 설계가 왜 사고를 줄였을까요?"
+  },
+  {
+    "id": "p-23-q02",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from poorly designed systems rather than human flaws.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the origin and lasting impact of human-centered design in preventing user errors",
+      "methods for training military pilots to memorize identical cockpit levers",
+      "differences between mechanical aviation controls and digital touchscreens",
+      "reasons why World War II aircraft required frequent mechanical repairs",
+      "the psychological stress experienced by pilots during emergency landings"
+    ],
+    "answer": 0,
+    "explanation": "구문: 조종석 모양 부호화(shape coding)의 탄생 배경과 그것이 오늘날 의료기기·스마트폰 등 인간공학 설계 전반에 미친 영향을 종합해 보세요."
+  },
+  {
+    "id": "p-23-q03",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that <u>errors often stem from poorly designed systems rather than human flaws</u>.",
+    "question": "밑줄 친 'errors often stem from poorly designed systems rather than human flaws'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "user mistakes are frequently caused by unintuitive interfaces rather than personal incompetence",
+      "advanced machines rarely malfunction unless operated by untrained personnel",
+      "engineers should focus on disciplining careless workers instead of changing equipment",
+      "standardizing physical controls eliminates all technical failures in modern aviation",
+      "human operators naturally prefer identical levers to save space in cockpits"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'Rather than blaming pilot carelessness(조종사 부주의를 탓하기보다는)'와 연결해 보세요. 똑같이 생긴 레버 때문에 생긴 실수는 사람의 결함이 아니라 무엇의 문제일까요?"
+  },
+  {
+    "id": "p-23-q04",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical.\n\n(A) This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training.\n(B) Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps.\n(C) Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from poorly designed systems rather than human flaws.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 레버 혼동 문제에 대한 해결책으로 (B)가 'shape coding' 재설계를 제시합니다. 그다음 (A)가 'This intuitive alignment'로 사고 감소 효과를 말하고, 왜 (C)가 현대적 의의로 확장할까요?"
+  },
+  {
+    "id": "p-23-q05",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThis intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training.\n\nIn the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. ( ① ) During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. ( ② ) Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. ( ③ ) Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from poorly designed systems rather than human flaws. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'This intuitive alignment between physical shape and mechanical function'은 ② 뒤에서 설명한 '착륙 장치에 작은 바퀴 모양, 플랩에 쐐기 모양을 부여한 모양 부호화'를 가리킵니다. 왜 ③이 유일한 자리일까요?"
+  },
+  {
+    "id": "p-23-q06",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "poorly designed systems rather than human flaws",
+      "a lack of strict punishment for careless operators",
+      "excessive reliance on tactile feedback in cockpits",
+      "standardized controls that limit user flexibility",
+      "insufficient flight hours among veteran pilots"
+    ],
+    "answer": 0,
+    "explanation": "구문: 인간공학 설계의 근본 원리가 우리에게 일깨워 주는 교훈입니다. 실수의 원인을 사람의 결함(human flaws)이 아닌 무엇에서 찾아야 할까요?"
+  },
+  {
+    "id": "p-23-q07",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In the early days of aviation, cockpit design lacked standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from poorly designed systems rather than human flaws.\n\n[요약문]\nBy matching the physical (A)________ of cockpit controls to their specific functions, shape coding prevented pilot mistakes and established a core principle of human-centered (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) shape - (B) design",
+      "(A) weight - (B) punishment",
+      "(A) shape - (B) training",
+      "(A) color - (B) automation",
+      "(A) size - (B) carelessness"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'alignment between physical shape and mechanical function'과 'guides the design of everything'이 요약문의 빈칸 (A), (B)에 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-23-q08",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In the early days of aviation, cockpit design lacked ① standardization, leading to frequent pilot errors even among experienced flyers. During World War II, engineers noticed that pilots repeatedly confused nearby levers for landing gear and wing flaps because the controls looked and felt ② identical. Rather than blaming pilot carelessness, psychologists and engineers redesigned the cockpit using 'shape coding'—giving each control a ③ distinct tactile form, such as a small wheel for the landing gear and a wedge for the flaps. This ④ counterintuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training. Today, this foundational principle of human factors engineering guides the design of everything from medical devices to smartphone interfaces, reminding us that errors often stem from ⑤ poorly designed systems rather than human flaws.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 추가 훈련 없이도 사고를 극적으로 줄이려면 물리적 형태와 기계적 기능 사이의 연결이 직관에 어긋나는(counterintuitive) 것이 아니라 '직관적인(intuitive)' 일치가 되어야 합니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-23-q09",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "물리적 형태와 기계적 기능 사이의 이러한 직관적인 일치는 추가 훈련을 요구하지 않고도 사고를 극적으로 줄였다.",
+    "chunks": [
+      "This intuitive alignment",
+      "between physical shape and mechanical function",
+      "dramatically reduced accidents",
+      "without requiring extra training."
+    ],
+    "answer": "This intuitive alignment between physical shape and mechanical function dramatically reduced accidents without requiring extra training.",
+    "explanation": "구문: 주어 'This intuitive alignment between A and B' 뒤에 과거동사 'reduced'가 오고, 전치사 'without' 뒤에 동명사 'requiring'이 이어집니다. 왜 'between'이 두 명사를 연결할까요?"
+  },
+  {
+    "id": "p-23-q10",
+    "passageId": "p-23",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 22번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "In the early days of aviation, cockpit design lacked standardization, ",
+      " to frequent pilot errors even among experienced flyers. Today, this principle guides the design of everything from medical devices to smartphone interfaces, ",
+      " us that errors often stem from poorly designed systems."
+    ],
+    "choices": [
+      [
+        "lead",
+        "leading"
+      ],
+      [
+        "reminded",
+        "reminding"
+      ]
+    ],
+    "answers": [
+      "leading",
+      "reminding"
+    ],
+    "explanation": "문법: ① 콤마 뒤 접속사 없이 결과를 나타내는 능동 분사구문 자리이므로 'leading'이 옵니다. ② 역시 콤마 뒤에서 목적어 'us'를 취하며 부대상황·결과를 나타내는 능동 분사구문 자리이므로 왜 'reminding'을 쓸까요?"
+  }
+]

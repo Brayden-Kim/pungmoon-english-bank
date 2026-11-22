@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-45-q01",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "심경변화",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.",
+    "question": "다음 글에 드러난 Daniel의 심경 변화로 가장 적절한 것은?",
+    "options": [
+      "anxious → absorbed",
+      "relieved → disappointed",
+      "bored → enthusiastic",
+      "confident → embarrassed",
+      "grateful → regretful"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'felt his palms grow damp ~ Daniel's heartbeat seemed to drown out the opening chords'에서 긴장되고 불안한(anxious) 심경이 드러나고, 'his nervousness melted into pure focus, and his fingers moved effortlessly'에서 몰입한(absorbed) 상태로 변화했습니다."
+  },
+  {
+    "id": "p-45-q02",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "how thorough preparation helped Daniel overcome stage fright during his solo debut",
+      "methods symphony conductors use to coordinate opening chords with soloists",
+      "reasons why concert hall acoustics affect the resonance of violin strings",
+      "differences between practicing a concerto alone and rehearsing with an orchestra",
+      "how musicians recover from physical hand injuries caused by excessive practice"
+    ],
+    "answer": 0,
+    "explanation": "구문: 첫 협연 독주 무대 직전의 극심한 긴장을 6개월간의 꾸준한 연습에 기반한 몰입으로 극복한 Daniel의 경험을 종합해 보세요."
+  },
+  {
+    "id": "p-45-q03",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, <u>his nervousness melted into pure focus</u>, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.",
+    "question": "밑줄 친 'his nervousness melted into pure focus'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "his initial anxiety disappeared completely as he became deeply immersed in playing",
+      "the bright stage lights made him dizzy and forced him to pause the performance",
+      "he forgot the opening chords of the concerto because the audience was too loud",
+      "the conductor slowed down the orchestra so Daniel could catch his breath",
+      "his aching fingers prevented him from moving smoothly across the fingerboard"
+    ],
+    "answer": 0,
+    "explanation": "구문: 뒤의 'his fingers moved effortlessly across the fingerboard, carried by months of patient preparation'과 연결해 보세요. 긴장감이 순수한 집중으로 녹아들었다는 것은 어떤 심리 상태일까요?"
+  },
+  {
+    "id": "p-45-q04",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra.\n\n(A) Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings.\n(B) When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords.\n(C) As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 무대 뒤 긴장감을 묘사한 뒤, (B)가 악장의 조율과 지휘자의 지휘봉이 올라가며 심장 박동이 커지는 최고조의 긴장을 보여 줍니다. 그다음 (A)가 숨을 고르고 무대에 올라 활을 드는 장면을, (C)가 연주 시작 후 몰입하는 결말을 제시합니다."
+  },
+  {
+    "id": "p-45-q05",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nTaking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings.\n\nStanding behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. ( ① ) For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. ( ② ) When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. ( ③ ) As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 지휘자가 지휘봉을 들고 시작 화음이 울리는 순간이 나온 뒤, ③ 자리에서 Daniel이 무대로 걸어 나가 현에 활을 대야 뒤 문장의 첫 음이 강당을 채우는 장면과 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-45-q06",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "distracted by the loud murmur of the audience",
+      "carried by months of patient preparation",
+      "struggling to follow the conductor's sudden tempo changes",
+      "hesitating before every difficult passage in the concerto",
+      "worried that his strings might go out of tune"
+    ],
+    "answer": 1,
+    "explanation": "구문: 둘째 문장의 'For six months, he had practiced the violin concerto until his fingers ached'와 연결됩니다. Daniel의 손가락이 지판 위를 거침없이 움직일 수 있었던 원동력은 무엇일까요?"
+  },
+  {
+    "id": "p-45-q07",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to drown out the opening chords. Taking a slow, deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.\n\n[요약문]\nAlthough Daniel initially felt intense (A)________ before his first solo orchestral performance, six months of dedicated (B)________ enabled him to focus completely once he began playing.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) nervousness - (B) preparation",
+      "(A) confidence - (B) improvisation",
+      "(A) nervousness - (B) hesitation",
+      "(A) relief - (B) applause",
+      "(A) pride - (B) tuning"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'his nervousness'와 'months of patient preparation'이 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-45-q08",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Standing behind the backstage curtain of the municipal concert hall, Daniel felt his palms grow ① damp as the murmur of the audience swelled beyond the velvet folds. For six months, he had practiced the violin concerto until his fingers ached, yet tonight marked his first solo performance with a full symphony orchestra. When the concertmaster tuned the strings and the conductor raised his baton, Daniel's heartbeat seemed to ② drown out the opening chords. Taking a slow, ③ deliberate breath, he stepped onto the brightly lit stage and lifted his bow to the strings. As the first clear, resonant notes filled the auditorium, his nervousness melted into pure ④ focus, and his fingers moved ⑤ clumsily across the fingerboard, carried by months of patient preparation.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 긴장이 순수한 몰입으로 바뀌고 수개월간의 인내심 있는 연습에 이끌렸으므로, 손가락이 지판 위를 서투르게(clumsily) 움직인 것이 아니라 '힘들이지 않고 능숙하게(effortlessly)' 움직였습니다. 왜 ⑤가 반의어일까요?"
+  },
+  {
+    "id": "p-45-q09",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "첫 번째 맑고 울림 있는 음들이 강당을 채우자, 그의 긴장은 순수한 집중으로 녹아들었고, 수개월간의 인내심 있는 준비에 이끌려 그의 손가락은 지판 위를 거침없이 움직였다.",
+    "chunks": [
+      "As the first clear, resonant notes filled the auditorium,",
+      "his nervousness melted into pure focus,",
+      "and his fingers moved effortlessly across the fingerboard,",
+      "carried by months of patient preparation."
+    ],
+    "answer": "As the first clear, resonant notes filled the auditorium, his nervousness melted into pure focus, and his fingers moved effortlessly across the fingerboard, carried by months of patient preparation.",
+    "explanation": "구문: 시간의 접속사 'As'절 뒤에 두 개의 절이 'and'로 연결되고, 문말에는 의미상 주어 'his fingers'가 오랜 준비에 의해 '이끌리는' 수동 분사구문 'carried by ~'가 이어집니다. 왜 'carrying'이 아니라 'carried'를 쓸까요?"
+  },
+  {
+    "id": "p-45-q10",
+    "passageId": "p-45",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 19번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "",
+      " behind the backstage curtain of the municipal concert hall, Daniel felt his palms ",
+      " damp as the murmur of the audience swelled."
+    ],
+    "choices": [
+      [
+        "Stood",
+        "Standing"
+      ],
+      [
+        "grew",
+        "grow"
+      ]
+    ],
+    "answers": [
+      "Standing",
+      "grow"
+    ],
+    "explanation": "문법: ① 주절 주어 'Daniel'이 커튼 뒤에 '서 있는' 능동 관계이므로 분사구문 'Standing'이 옵니다. ② 지각동사 'felt + 목적어(his palms) + 원형부정사' 구문이므로 왜 동사원형 'grow'를 쓸까요?"
+  }
+]

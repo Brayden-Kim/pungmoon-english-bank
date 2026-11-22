@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-33-q01",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal. Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Ancient Humans Survived Sudden Predators and Storms",
+      "Shifting Baselines: Why Our Brains Miss Gradual Environmental Decline",
+      "Why Personal Memory Is More Reliable Than Historical Data",
+      "The Role of Short-Term Intuition in Modern Climate Policy",
+      "Comparing Soil Depletion Across Different Agricultural Generations"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts'와 'shifting baseline syndrome'을 보세요. 우리 뇌가 점진적인 악화를 놓치는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-33-q02",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal. Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the evolutionary origin of shifting baseline syndrome and how to overcome it",
+      "methods scientists use to measure soil depletion over several decades",
+      "reasons why modern humans face fewer physical threats than ancient ancestors",
+      "differences between ecological decline and short-term weather patterns",
+      "how personal childhood memories improve environmental conservation efforts"
+    ],
+    "answer": 0,
+    "explanation": "구문: 즉각적 위협에만 민감하도록 진화한 뇌의 한계인 '기준선 이동 증후군'의 원인과, 장기 역사 데이터 및 과학적 기준점을 통한 극복 방안을 종합해 보세요."
+  },
+  {
+    "id": "p-33-q03",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal. Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive blind spot requires <u>deliberately anchoring our decisions in long-term historical data and scientific benchmarks</u> rather than relying solely on personal memory or short-term intuition.",
+    "question": "밑줄 친 'deliberately anchoring our decisions in long-term historical data and scientific benchmarks'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "grounding policies and judgments in objective multi-generational records rather than subjective impressions",
+      "ignoring contemporary scientific measurements in favor of ancestral survival instincts",
+      "waiting until gradual ecological damage becomes an immediate crisis before acting",
+      "teaching younger generations to accept degraded ecosystems as a natural baseline",
+      "replacing historical environmental archives with short-term economic forecasts"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'rather than relying solely on personal memory or short-term intuition(개인적 기억이나 단기적 직관에만 의존하기보다는)'과 대조해 보세요. 장기 역사 데이터와 과학적 기준점에 의사결정을 의도적으로 고정한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-33-q04",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts.\n\n(A) Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm.\n(B) Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal.\n(C) Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 'this tendency'를 받아 (B)가 'shifting baseline syndrome'이라는 용어를 정의합니다. 그다음 (A)가 생태계 쇠퇴가 경보를 울리지 못하는 이유를 설명하고, 왜 (C)가 극복 방안으로 마무리할까요?"
+  },
+  {
+    "id": "p-33-q05",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nBecause ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm.\n\nThroughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. ( ① ) Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. ( ② ) Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal. ( ③ ) Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 세대마다 악화된 환경을 정상으로 받아들이는 '기준선 이동 증후군'을 정의한 뒤, ③ 자리에서 생태계 쇠퇴 등이 수십 년에 걸쳐 점진적으로 일어나기 때문에 지각 체계가 경보를 울리지 못한다는 인과 설명이 이어지고, 그 뒤 'this cognitive blind spot'으로 받아 극복 방안을 제시합니다."
+  },
+  {
+    "id": "p-33-q06",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which ________________________. Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "each generation accepts the degraded environmental or social conditions they grow up with as normal",
+      "individuals react with extreme panic to minor seasonal weather changes",
+      "societies rely exclusively on ancient historical records to predict future storms",
+      "human brains evolve rapidly to detect slow changes in soil chemistry",
+      "people exaggerate minor ecological shifts based on childhood memories"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'shifting baseline syndrome(기준선 이동 증후군)'의 정의에 해당하는 관계절입니다. 점진적 변화를 알아차리지 못할 때 각 세대는 자신들이 자라면서 겪는 악화된 조건을 어떻게 받아들일까요?"
+  },
+  {
+    "id": "p-33-q07",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely indifferent to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal. Because ecological decline, climate warming, or soil depletion unfolds incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive blind spot requires deliberately anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.\n\n[요약문]\nBecause human perception evolved to detect immediate threats rather than (A)________ decline, countering shifting baseline syndrome requires basing decisions on objective (B)________ records.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) gradual - (B) historical",
+      "(A) sudden - (B) intuitive",
+      "(A) gradual - (B) personal",
+      "(A) visible - (B) scientific",
+      "(A) urgent - (B) generational"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'gradual, long-term shifts'와 'long-term historical data and scientific benchmarks'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-33-q08",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Throughout evolutionary history, human survival depended on navigating immediate physical threats such as predators, sudden storms, and food scarcity. Consequently, the human brain developed an acute sensitivity to urgent, visible dangers while remaining largely ① attentive to gradual, long-term shifts. Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the ② degraded environmental or social conditions they grow up with as normal. Because ecological decline, climate warming, or soil depletion unfolds ③ incrementally over decades rather than overnight, our perceptual systems fail to trigger an alarm. Overcoming this cognitive ④ blind spot requires deliberately ⑤ anchoring our decisions in long-term historical data and scientific benchmarks rather than relying solely on personal memory or short-term intuition.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "explanation": "구문: 인간의 뇌는 긴급하고 눈에 보이는 위험에는 예민한 감수성을 발달시킨 반면, 점진적이고 장기적인 변화에는 주의를 기울이는(attentive) 것이 아니라 대체로 '무관심하게(indifferent)' 남았습니다. 왜 ①이 반의어일까요?"
+  },
+  {
+    "id": "p-33-q09",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "심리학자들은 이러한 경향을 '기준선 이동 증후군'이라고 부르는데, 이는 각 세대가 자신들이 자라면서 겪는 악화된 환경적 또는 사회적 조건을 정상으로 받아들이는 현상이다.",
+    "chunks": [
+      "Psychologists call this tendency 'shifting baseline syndrome'—",
+      "a phenomenon in which each generation accepts",
+      "the degraded environmental or social conditions",
+      "they grow up with",
+      "as normal."
+    ],
+    "answer": "Psychologists call this tendency 'shifting baseline syndrome'—a phenomenon in which each generation accepts the degraded environmental or social conditions they grow up with as normal.",
+    "explanation": "구문: 'in which'가 이끄는 관계절 안에서 'accept + 목적어(the degraded ~ conditions) + as normal' 구조가 쓰였으며, 목적격 관계대명사가 생략된 'they grow up with'가 명사구를 수식합니다. 왜 'accept'가 아니라 'accepts'를 쓸까요?"
+  },
+  {
+    "id": "p-33-q10",
+    "passageId": "p-33",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 32번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "The human brain developed an acute sensitivity to urgent, visible dangers while ",
+      " largely indifferent to gradual shifts. Overcoming this cognitive blind spot ",
+      " deliberately anchoring our decisions in long-term historical data."
+    ],
+    "choices": [
+      [
+        "remained",
+        "remaining"
+      ],
+      [
+        "require",
+        "requires"
+      ]
+    ],
+    "answers": [
+      "remaining",
+      "requires"
+    ],
+    "explanation": "문법: ① 주절 주어 'The human brain'이 무관심한 상태로 '남아 있는' 능동 관계이므로 접속사 잔류 분사구문 'remaining'이 옵니다. ② 동명사구 주어 'Overcoming this cognitive blind spot'은 단수 취급하므로 왜 단수 동사 'requires'를 쓸까요?"
+  }
+]

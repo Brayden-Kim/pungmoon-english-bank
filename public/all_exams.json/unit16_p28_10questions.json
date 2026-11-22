@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-28-q01",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, objective facts collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Galileo Used Telescopes to Map the Solar System",
+      "Why Scientific Progress Requires Intellectual Humility",
+      "The History of Handwashing Practices in Modern Hospitals",
+      "Why Empirical Evidence Always Convinces Skeptical Experts",
+      "Comparing Astronomical and Medical Discoveries in Europe"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility'를 보세요. 객관적 증거만큼이나 과학 발전에 필수적인 태도는 무엇일까요?"
+  },
+  {
+    "id": "p-28-q02",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, objective facts collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the psychological and cultural resistance to paradigm-shifting scientific evidence",
+      "methods used by nineteenth-century doctors to prevent hospital infections",
+      "reasons why ancient philosophers rejected astronomical mathematics",
+      "ways to collect empirical data in modern clinical trials",
+      "the role of professional pride in motivating medical researchers"
+    ],
+    "answer": 0,
+    "explanation": "구문: 코페르니쿠스·갈릴레이와 제멜바이스의 사례를 통해 기존 세계관과 자존심에 부딪혀 거부당했던 과학적 발견의 역사와 지적 겸손의 필요성을 종합해 보세요."
+  },
+  {
+    "id": "p-28-q03",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, <u>objective facts collided with emotional attachment to established beliefs and professional pride</u>. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.",
+    "question": "밑줄 친 'objective facts collided with emotional attachment to established beliefs and professional pride'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "empirical evidence was rejected because it threatened people's deeply held identities and ego",
+      "scientists lacked accurate instruments to prove their theories to medical authorities",
+      "physicians eagerly abandoned outdated habits as soon as new statistics were published",
+      "philosophical traditions encouraged researchers to question their own professional authority",
+      "emotional debates helped astronomers refine their mathematical calculations faster"
+    ],
+    "answer": 0,
+    "explanation": "구문: 지동설과 손 씻기 데이터가 거부당한 이유를 보세요. 객관적 사실이 기존 신념에 대한 애착 및 직업적 자존심과 충돌했다는 것은 어떤 심리적 저항을 뜻할까요?"
+  },
+  {
+    "id": "p-28-q04",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews.\n\n(A) In both cases, objective facts collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.\n(B) Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients.\n(C) When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 4,
+    "explanation": "구문: 주어진 글의 일반 진술에 이어 (C)가 첫 번째 역사적 사례(천문학)를 제시하고, (B)가 'Similarly'로 두 번째 사례(의학)를 덧붙입니다. 그다음 왜 (A)가 'In both cases'로 두 사례를 묶어 결론을 내릴까요?"
+  },
+  {
+    "id": "p-28-q05",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nIn both cases, objective facts collided with emotional attachment to established beliefs and professional pride.\n\nThroughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. ( ① ) When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. ( ② ) Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. ( ③ ) Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'In both cases'는 ① 뒤의 천문학 사례(코페르니쿠스·갈릴레이)와 ② 뒤의 의학 사례(제멜바이스) 두 가지를 모두 가리킵니다. 왜 ③이 유일한 자리일까요?"
+  },
+  {
+    "id": "p-28-q06",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, objective facts collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on ________________________ when reality demands it.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "defending traditional authority against experimental challenges",
+      "cultivating the intellectual humility required to revise cherished assumptions",
+      "ignoring statistical anomalies that contradict established textbooks",
+      "protecting professional reputation from public scrutiny",
+      "relying solely on philosophical consensus rather than observation"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'not only on gathering rigorous empirical evidence, but also on ~' 구조입니다. 현실이 요구할 때 소중히 여겨 온 가정을 수정하기 위해 과학자들에게 필요한 태도는 무엇일까요?"
+  },
+  {
+    "id": "p-28-q07",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ridiculed Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, objective facts collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.\n\n[요약문]\nBecause groundbreaking discoveries often challenge established (A)________ and professional ego, scientific advancement requires both solid evidence and the intellectual (B)________ to overturn old beliefs.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) worldviews - (B) humility",
+      "(A) instruments - (B) pride",
+      "(A) worldviews - (B) stubbornness",
+      "(A) infections - (B) authority",
+      "(A) assumptions - (B) attachment"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'threatened deeply entrenched worldviews'와 'cultivating the intellectual humility'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-28-q08",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Throughout history, major scientific breakthroughs have often met fierce ① resistance not because the evidence was weak, but because the new findings threatened deeply entrenched worldviews. When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations showing that Earth revolves around the Sun, their conclusions challenged centuries of philosophical authority and human self-importance. Similarly, nineteenth-century physicians initially ② praised Ignaz Semmelweis when he demonstrated that simple handwashing dramatically reduced fatal infections in maternity wards, as accepting his data meant acknowledging that doctors themselves had been unintentionally harming patients. In both cases, objective facts ③ collided with emotional attachment to established beliefs and professional pride. Progress in science therefore depends not only on gathering rigorous ④ empirical evidence, but also on cultivating the intellectual humility required to ⑤ revise cherished assumptions when reality demands it.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 그의 데이터를 받아들이는 것이 곧 의사 자신들이 의도치 않게 환자를 해쳐 왔음을 인정하는 것이었으므로, 19세기 의사들은 제멜바이스를 칭찬한(praised) 것이 아니라 처음에 '조롱했습니다(ridiculed)'. 왜 ②가 반의어일까요?"
+  },
+  {
+    "id": "p-28-q09",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "따라서 과학의 진보는 엄격한 경험적 증거를 수집하는 것뿐만 아니라 현실이 요구할 때 소중히 여겨 온 가정을 수정하는 데 필요한 지적 겸손을 기르는 것에도 달려 있다.",
+    "chunks": [
+      "Progress in science therefore depends",
+      "not only on gathering rigorous empirical evidence,",
+      "but also on cultivating the intellectual humility",
+      "required to revise cherished assumptions",
+      "when reality demands it."
+    ],
+    "answer": "Progress in science therefore depends not only on gathering rigorous empirical evidence, but also on cultivating the intellectual humility required to revise cherished assumptions when reality demands it.",
+    "explanation": "구문: 'depend not only on A, but also on B' 병렬 구조에서 전치사 'on' 뒤에 동명사 'gathering'과 'cultivating'이 짝을 이루며, 과거분사 'required'가 'humility'를 후치 수식합니다. 왜 양쪽 모두 전치사 'on'이 필요할까요?"
+  },
+  {
+    "id": "p-28-q10",
+    "passageId": "p-28",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 27번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "When Nicolaus Copernicus and later Galileo Galilei presented astronomical observations ",
+      " that Earth revolves around the Sun, accepting his data meant ",
+      " that doctors themselves had been unintentionally harming patients."
+    ],
+    "choices": [
+      [
+        "showed",
+        "showing"
+      ],
+      [
+        "to acknowledge",
+        "acknowledging"
+      ]
+    ],
+    "answers": [
+      "showing",
+      "acknowledging"
+    ],
+    "explanation": "문법: ① 수식받는 'astronomical observations'가 지동설을 '보여주는' 능동 관계이므로 현재분사 'showing'이 옵니다. ② 'mean + 동명사(~하는 것을 의미하다)' 구문(cf. mean to부정사: ~할 의도이다)이므로 왜 'acknowledging'을 쓸까요?"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-34-q01",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals. Far from stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Withholding All Criticism Maximizes Group Creativity",
+      "The Power of Constructive Friction: How Debate Fuels Innovation",
+      "Strategies for Achieving Polite Consensus in Corporate Meetings",
+      "Why Individual Brainstorming Always Outperforms Team Discussions",
+      "How to Eliminate Intellectual Conflict During Creative Workshops"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Constructive friction forces participants to defend weak logic ~ respectful intellectual conflict acts as a catalyst'가 핵심입니다. 비판을 무조건 억누르기보다 건설적인 마찰과 토론을 허용해야 창의적 돌파구가 나오는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-34-q02",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals. Far from stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the role of structured dissent and constructive debate in generating creative solutions",
+      "methods for encouraging shy employees to speak up during initial brainstorming",
+      "reasons why traditional brainstorming sessions take too much organizational time",
+      "differences between individual problem-solving and large-group consensus",
+      "how polite agreement prevents interpersonal tension in workplace teams"
+    ],
+    "answer": 0,
+    "explanation": "구문: 판단 유보만 강조하는 전통적 브레인스토밍의 한계와, 가정을 반박하고 결함을 지적하는 구조화된 이견(structured dissent)이 독창적이고 실용적인 해결책을 낳는 원리를 종합해 보세요."
+  },
+  {
+    "id": "p-34-q03",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals. Far from stifling creativity, <u>respectful intellectual conflict acts as a catalyst</u> that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "밑줄 친 'respectful intellectual conflict acts as a catalyst'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "thoughtful disagreement stimulates deeper thinking and accelerates creative breakthroughs",
+      "personal arguments divide teams into competing factions that abandon common goals",
+      "polite agreement allows groups to finalize proposals without wasting time on revisions",
+      "strict rules against criticism encourage participants to share unrefined ideas freely",
+      "external moderators must settle disputes whenever team members hold different views"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'pushes teams beyond obvious clichés toward genuine breakthroughs(팀을 뻔한 진부함을 넘어 진정한 돌파구로 밀어붙인다)'가 직접적 설명입니다. 존중을 바탕으로 한 지적 갈등이 촉매제 역할을 한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-34-q04",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate.\n\n(A) Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals.\n(B) In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions.\n(C) Far from stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 예의 바른 합의가 엄격한 토론을 대체할 때의 문제를 지적한 뒤, (B)가 'structured dissent(구조화된 이견)' 연구 결과를 제시합니다. 그다음 (A)가 건설적 마찰의 작동 방식을 설명하고, 왜 (C)가 결론을 맺을까요?"
+  },
+  {
+    "id": "p-34-q05",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nConstructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals.\n\nMany people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. ( ① ) While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. ( ② ) In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. ( ③ ) Far from stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 가정을 반박하고 결함을 지적하도록 장려받은 팀이 더 독창적이고 실용적인 해결책을 냈다는 연구 결과를 제시한 뒤, ③ 자리에서 그 구체적 메커니즘('Constructive friction forces ~')을 설명해야 뒤 문장의 결론과 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-34-q06",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals. Far from stifling creativity, ________________________ that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "withholding all critical feedback remains the safest strategy",
+      "respectful intellectual conflict acts as a catalyst",
+      "avoiding difficult questions ensures faster group consensus",
+      "deferring judgment permanently eliminates weak proposals",
+      "polite agreement prevents teams from wasting mental energy"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Far from stifling creativity(창의성을 억누르기는커녕)'와 대비되며, 팀을 뻔한 진부함을 넘어 진정한 돌파구로 이끄는 핵심 동력을 찾으세요. 어떤 형태의 갈등이 촉매제 역할을 할까요?"
+  },
+  {
+    "id": "p-34-q07",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Many people assume that effective brainstorming requires withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals. Far from stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs.\n\n[요약문]\nAlthough suspending criticism may increase initial idea quantity, encouraging structured (A)________ and constructive debate enables teams to refine weak concepts into genuinely (B)________ solutions.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) dissent - (B) original",
+      "(A) consensus - (B) mediocre",
+      "(A) dissent - (B) obvious",
+      "(A) compliance - (B) practical",
+      "(A) judgment - (B) half-formed"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'structured dissent'와 'more original and practical solutions'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-34-q08",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Many people assume that effective brainstorming requires ① withholding all criticism so that participants feel free to share wild ideas. While deferring judgment helps generate initial volume, organizational psychologists have found that groups often settle on ② mediocre concepts when polite consensus replaces rigorous debate. In studies comparing traditional brainstorming with structured dissent, teams encouraged to challenge assumptions and point out flaws produced significantly more ③ original and practical solutions. Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into ④ fragile proposals. Far from ⑤ stifling creativity, respectful intellectual conflict acts as a catalyst that pushes teams beyond obvious clichés toward genuine breakthroughs.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 건설적인 마찰은 참가자들이 약한 논리를 방어하고 경쟁하는 관점을 결합해 설익은 생각을 연약한(fragile) 제안이 아니라 '탄탄한(robust)' 제안으로 다듬게 만듭니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-34-q09",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "건설적인 마찰은 참가자들로 하여금 약한 논리를 방어하고, 경쟁하는 관점들을 결합하며, 설익은 생각들을 탄탄한 제안으로 다듬도록 만든다.",
+    "chunks": [
+      "Constructive friction forces participants",
+      "to defend weak logic,",
+      "combine competing perspectives,",
+      "and refine half-formed thoughts",
+      "into robust proposals."
+    ],
+    "answer": "Constructive friction forces participants to defend weak logic, combine competing perspectives, and refine half-formed thoughts into robust proposals.",
+    "explanation": "구문: 'force + 목적어 + to부정사(to defend ~, combine ~, and refine ~)' 구조에서 세 개의 동사원형이 'to'에 병렬 연결되어 있습니다. 왜 'combine'과 'refine'이 원형일까요?"
+  },
+  {
+    "id": "p-34-q10",
+    "passageId": "p-34",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 33번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "In studies ",
+      " traditional brainstorming with structured dissent, teams ",
+      " to challenge assumptions produced significantly more original solutions."
+    ],
+    "choices": [
+      [
+        "compared",
+        "comparing"
+      ],
+      [
+        "encouraging",
+        "encouraged"
+      ]
+    ],
+    "answers": [
+      "comparing",
+      "encouraged"
+    ],
+    "explanation": "문법: ① 수식받는 'studies'가 두 방식을 '비교하는' 능동 관계이므로 현재분사 'comparing'이 옵니다. ② 수식받는 'teams'가 가정을 반박하도록 '장려받은' 수동 관계이므로 왜 과거분사 'encouraged'를 쓸까요?"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-29-q01",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior. By curating a smaller, well-structured set of distinct options, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Expanding Product Lines Always Boosts Customer Loyalty",
+      "Less Is More: How Curated Choices Overcome Decision Paralysis",
+      "Strategies for Designing Identical Product Varieties in Retail",
+      "How Behavioral Economists Measure Consumer Memory Capacity",
+      "Why Shoppers Prefer Endless Menus Over Simple Selections"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'By curating a smaller, well-structured set of distinct options, businesses reduce mental friction ~'가 핵심입니다. 선택지가 너무 많을 때 생기는 결정 마비를 줄이려면 어떻게 해야 할까요?"
+  },
+  {
+    "id": "p-29-q02",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior. By curating a smaller, well-structured set of distinct options, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the negative effects of excessive choice and the business benefits of curated options",
+      "methods for training retail staff to explain complex product attributes",
+      "reasons why consumers ignore price differences when comparing similar items",
+      "how digital storefronts display hundreds of varieties without confusing buyers",
+      "the psychological causes of impulse buying in crowded supermarkets"
+    ],
+    "answer": 0,
+    "explanation": "구문: 선택의 역설(paradox of choice)로 인한 구매 포기 및 후회와, 잘 선별된 적은 수의 선택지가 가져오는 긍정적 비즈니스 효과를 종합해 보세요."
+  },
+  {
+    "id": "p-29-q03",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior. By curating a smaller, well-structured set of distinct options, businesses <u>reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates</u> and greater customer loyalty.",
+    "question": "밑줄 친 'reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "make choosing easier so customers feel assured and are more likely to complete a purchase",
+      "force shoppers to buy expensive items by hiding all affordable product alternatives",
+      "eliminate the need for product descriptions by offering only a single generic item",
+      "encourage buyers to spend more hours comparing minor differences before paying",
+      "prevent customers from returning defective merchandise after leaving the store"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'cognitive capacity ~ decision paralysis ~ walk away without purchasing'과 대조해 보세요. 정신적 마찰을 줄이고 구매자 확신을 높여 전환율을 높인다는 것은 어떤 결과일까요?"
+  },
+  {
+    "id": "p-29-q04",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis.\n\n(A) Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior.\n(B) When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection.\n(C) By curating a smaller, well-structured set of distinct options, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 'decision paralysis(결정 마비)'를 (B)가 구체적인 비교 피로와 걱정으로 풀어냅니다. 그다음 (A)가 'Consequently'로 구매 포기와 후회라는 결과를 제시하고, 왜 (C)가 해결책으로 마무리할까요?"
+  },
+  {
+    "id": "p-29-q05",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nConsequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior.\n\nConsumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. ( ① ) Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. ( ② ) When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. ( ③ ) By curating a smaller, well-structured set of distinct options, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'Consequently(그 결과)'는 ② 뒤에서 설명한 '사소한 속성을 비교하느라 정신 에너지를 소모하고 최선이 아닌 선택을 할까 봐 극도로 걱정하는 과정'의 직접적 결과입니다. 왜 ③이 유일한 자리일까요?"
+  },
+  {
+    "id": "p-29-q06",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior. By ________________________, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "expanding menus to include dozens of nearly identical items",
+      "curating a smaller, well-structured set of distinct options",
+      "encouraging shoppers to compare every minor product attribute",
+      "hiding customer reviews until after a purchase is completed",
+      "increasing the number of brands available in each category"
+    ],
+    "answer": 1,
+    "explanation": "구문: 정신적 마찰을 줄이고 구매자 확신을 높여 전환율과 충성도를 높이는 기업의 전략입니다. 과도한 선택지와 대비되는 어떤 선택지 구성이 필요할까요?"
+  },
+  {
+    "id": "p-29-q07",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers expend significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering regret after choosing because they imagine the unchosen alternatives might have been superior. By curating a smaller, well-structured set of distinct options, businesses reduce mental friction, build buyer confidence, and frequently achieve higher conversion rates and greater customer loyalty.\n\n[요약문]\nBecause excessive alternatives cause cognitive overload and decision (A)________, offering a smaller set of clearly distinct options boosts customer (B)________ and sales.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) paralysis - (B) confidence",
+      "(A) loyalty - (B) regret",
+      "(A) paralysis - (B) friction",
+      "(A) satisfaction - (B) confidence",
+      "(A) abundance - (B) hesitation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'triggers decision paralysis'와 'build buyer confidence'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-29-q08",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Consumers often assume that adding more options to a menu or product line invariably increases satisfaction and sales. Yet behavioral economists have repeatedly demonstrated the paradox of choice, in which an abundance of alternatives ① overwhelms cognitive capacity and triggers decision paralysis. When faced with dozens of nearly identical varieties, shoppers ② conserve significant mental energy comparing minor attributes and worry intensely about making a suboptimal selection. Consequently, many walk away without purchasing anything at all, or experience lingering ③ regret after choosing because they imagine the unchosen alternatives might have been superior. By curating a smaller, well-structured set of distinct options, businesses reduce mental ④ friction, build buyer confidence, and frequently achieve higher ⑤ conversion rates and greater customer loyalty.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 거의 똑같은 수십 가지 종류에 직면하면 소비자들은 사소한 속성을 비교하느라 상당한 정신 에너지를 아끼는(conserve) 것이 아니라 '소모합니다(expend)'. 왜 ②가 반의어일까요?"
+  },
+  {
+    "id": "p-29-q09",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "더 작고 잘 구조화된 뚜렷한 선택지 세트를 선별함으로써, 기업들은 정신적 마찰을 줄이고 구매자의 확신을 구축한다.",
+    "chunks": [
+      "By curating a smaller,",
+      "well-structured set of distinct options,",
+      "businesses reduce mental friction",
+      "and build buyer confidence."
+    ],
+    "answer": "By curating a smaller, well-structured set of distinct options, businesses reduce mental friction and build buyer confidence.",
+    "explanation": "구문: 수단을 나타내는 전치사구 'By + 동명사(curating)' 뒤에 주절 주어 'businesses'와 병렬 동사 'reduce ~ and build ~'가 이어집니다. 왜 'build'가 동사원형일까요?"
+  },
+  {
+    "id": "p-29-q10",
+    "passageId": "p-29",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 28번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Behavioral economists have demonstrated the paradox of choice, ",
+      " an abundance of alternatives overwhelms cognitive capacity. When ",
+      " with dozens of nearly identical varieties, shoppers expend significant mental energy."
+    ],
+    "choices": [
+      [
+        "which",
+        "in which"
+      ],
+      [
+        "facing",
+        "faced"
+      ]
+    ],
+    "answers": [
+      "in which",
+      "faced"
+    ],
+    "explanation": "문법: ① 선행사 'the paradox of choice' 뒤에서 주어·동사·목적어를 모두 갖춘 완전한 절이 이어지므로 '전치사 + 관계대명사'인 'in which'가 옵니다. ② 주절 주어 'shoppers'가 수많은 선택지에 '직면하게 된(be faced with)' 수동 관계의 접속사 잔류 분사구문이므로 왜 과거분사 'faced'를 쓸까요?"
+  }
+]

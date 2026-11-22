@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-21-q01",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery. However, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Highlighting Textbooks Improves Long-Term Exam Scores",
+      "The Illusion of Fluency: Why Active Retrieval Beats Passive Review",
+      "How to Eliminate Frustration When Studying Complex Material",
+      "Comparing Flashcards and Group Discussions in Modern Classrooms",
+      "Why Rereading Notes Remains the Fastest Way to Master Concepts"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'create a powerful illusion of mastery'와 'durable learning requires effortful retrieval rather than passive review'를 대조하세요. 익숙함의 착각을 깨고 능동적 인출 연습을 해야 하는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-21-q02",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery. However, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the cognitive benefits of effortful retrieval practice over passive rereading",
+      "methods for organizing textbook highlights before final examinations",
+      "reasons why students feel anxious when taking standardized tests",
+      "ways to reduce the time spent reviewing lecture notes",
+      "the biological structure of neural pathways in human memory"
+    ],
+    "answer": 0,
+    "explanation": "구문: 수동적 복습(rereading, highlighting)의 한계와 능동적 인출(active testing)이 장기 기억 응고화에 미치는 효과를 종합해 보세요."
+  },
+  {
+    "id": "p-21-q03",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create <u>a powerful illusion of mastery</u>. However, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "question": "밑줄 친 'a powerful illusion of mastery'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "a false belief that one deeply understands material simply because it looks familiar",
+      "an advanced cognitive strategy that guarantees high scores without testing",
+      "the ability to memorize entire textbook chapters after a single reading",
+      "a temporary state of confusion caused by solving too many practice problems",
+      "the confidence gained from explaining difficult concepts to classmates"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'feel smooth and familiar(매끄럽고 익숙하게 느껴진다)'는 원인에서 비롯된 착각입니다. 내용을 실제로 인출할 수 없는데도 익숙함 때문에 완전히 이해했다고 믿는 현상은 무엇일까요?"
+  },
+  {
+    "id": "p-21-q04",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery.\n\n(A) When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding.\n(B) However, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review.\n(C) Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 수동적 학습법 착각을 (B)가 'However'로 반전시키며 'effortful retrieval'을 제시합니다. 그다음 (A)가 구체적인 인출 방법을 설명하고, 왜 (C)가 'retrieval practice'의 어려움을 결론으로 승화할까요?"
+  },
+  {
+    "id": "p-21-q05",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nHowever, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review.\n\nMany learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. ( ① ) Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery. ( ② ) When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. ( ③ ) Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤까지 수동적 학습법이 숙달의 착각을 만든다는 점을 설명한 뒤, ② 자리에서 'However'로 역접하여 능동적 인출의 필요성을 제시해야 뒤 문장의 'actively test themselves'와 연결됩니다."
+  },
+  {
+    "id": "p-21-q06",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery. However, cognitive psychologists have repeatedly demonstrated that durable learning requires ________________________. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "repeated highlighting of key definitions",
+      "effortful retrieval rather than passive review",
+      "eliminating all cognitive friction during study",
+      "rereading notes immediately before sleeping",
+      "relying on familiar visual cues in textbooks"
+    ],
+    "answer": 1,
+    "explanation": "구문: 수동적 복습(passive review)과 대비되는 지문의 핵심 키워드를 찾으세요. 지속 가능한 학습(durable learning)을 위해 무엇이 필요할까요?"
+  },
+  {
+    "id": "p-21-q07",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these passive techniques feel smooth and familiar, they create a powerful illusion of mastery. However, cognitive psychologists have repeatedly demonstrated that durable learning requires effortful retrieval rather than passive review. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and expose hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to consolidate memories for the long term.\n\n[요약문]\nUnlike passive review that fosters an (A)________ of mastery, active retrieval practice uses productive (B)________ to reveal knowledge gaps and strengthen long-term memory.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) illusion - (B) difficulty",
+      "(A) avoidance - (B) familiarity",
+      "(A) illusion - (B) fluency",
+      "(A) assurance - (B) repetition",
+      "(A) elimination - (B) difficulty"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'illusion of mastery'와 'that very difficulty is what signals the brain to consolidate memories'가 요약문의 빈칸 (A), (B)에 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-21-q08",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Many learners believe that highlighting passages and rereading textbooks are the most effective ways to prepare for an exam. Because these ① passive techniques feel smooth and familiar, they create a powerful ② illusion of mastery. However, cognitive psychologists have repeatedly demonstrated that ③ durable learning requires effortful retrieval rather than passive review. When students close their books and actively test themselves—whether through flashcards, practice questions, or explaining concepts aloud—they strengthen neural pathways and ④ conceal hidden gaps in their understanding. Although retrieval practice initially feels slower and more frustrating than simply reviewing notes, that very difficulty is what signals the brain to ⑤ consolidate memories for the long term.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 학생들이 책을 덮고 능동적으로 스스로를 시험할 때 이해의 숨겨진 빈틈을 감추는(conceal) 것이 아니라 '드러낸다(expose)'가 맞습니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-21-q09",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "바로 그 어려움이 뇌에 장기 기억을 공고히 하도록 신호를 보내는 것이다.",
+    "chunks": [
+      "that very difficulty",
+      "is what signals the brain",
+      "to consolidate memories",
+      "for the long term."
+    ],
+    "answer": "that very difficulty is what signals the brain to consolidate memories for the long term.",
+    "explanation": "구문: 'that very + 명사(바로 그 ~)' 주어 뒤에 선행사를 포함한 관계대명사 'what'이 보어절을 이끌며, 'signal + 목적어 + to부정사' 구조가 이어집니다. 왜 'which' 대신 'what'을 쓸까요?"
+  },
+  {
+    "id": "p-21-q10",
+    "passageId": "p-21",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 20번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Many learners believe that highlighting passages and ",
+      " textbooks are the most effective ways to prepare for an exam. Cognitive psychologists have repeatedly demonstrated that durable learning ",
+      " effortful retrieval."
+    ],
+    "choices": [
+      [
+        "reread",
+        "rereading"
+      ],
+      [
+        "require",
+        "requires"
+      ]
+    ],
+    "answers": [
+      "rereading",
+      "requires"
+    ],
+    "explanation": "문법: ① 동명사 'highlighting passages'와 등위접속사 'and'로 병렬 연결되므로 'rereading'이 옵니다. ② 'that'절의 주어가 불가산 단수 명사 'durable learning'이므로 왜 단수 동사 'requires'를 쓸까요?"
+  }
+]

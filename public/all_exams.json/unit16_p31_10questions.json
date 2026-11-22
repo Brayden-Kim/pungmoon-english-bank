@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-31-q01",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Modern Refrigeration Replaced Traditional Food Preservation",
+      "From Survival Strategy to Wellness Staple: The Enduring Value of Fermentation",
+      "Why Beneficial Bacteria Harm Perishable Harvests in Winter",
+      "Comparing Dairy and Soybean Production Across Ancient Civilizations",
+      "The Role of Global Supply Chains in Reducing Food Spoilage"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness'가 핵심입니다. 식량 보존을 위한 생존 전략으로 시작된 발효가 오늘날까지 지속되는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-31-q02",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the evolution of fermentation from an ancient preservation method to a modern health staple",
+      "chemical techniques used to eliminate bacteria from fermented dairy products",
+      "reasons why ancient civilizations struggled to harvest vegetables in winter",
+      "differences between alcoholic fermentation and modern refrigeration systems",
+      "ways to measure gut microbiome diversity in clinical nutrition studies"
+    ],
+    "answer": 0,
+    "explanation": "구문: 과거의 식품 저장 수단이었던 발효가 풍미와 소화율을 높이고 오늘날 장내 미생물과 면역 건강을 돕는 필수 식품으로 자리 잡은 과정을 종합해 보세요."
+  },
+  {
+    "id": "p-31-q03",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. <u>What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness</u>.",
+    "question": "밑줄 친 'What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "a technique originally created to store food now remains vital for gastronomy and health",
+      "ancient preservation methods are kept alive solely as museum demonstrations of history",
+      "modern nutritionists recommend replacing all fresh vegetables with fermented alternatives",
+      "preventing food spoilage is no longer possible without traditional bacterial cultures",
+      "culinary traditions have abandoned fermentation in favor of faster chemical preservatives"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'practical necessity for preventing spoilage(부패 방지를 위한 실용적 필요)'에서 'cornerstone of both culinary heritage and preventive wellness(미식 유산과 예방적 건강 관리의 초석)'로의 확장을 보세요. 발효의 역할이 어떻게 계승·발전되었을까요?"
+  },
+  {
+    "id": "p-31-q04",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters.\n\n(A) Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health.\n(B) Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients.\n(C) What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 저장 기간 연장 기능에 이어 (B)가 'Beyond extending shelf life'로 풍미와 소화율이라는 부가 이점을 설명합니다. 그다음 (A)가 'Today'로 현대 영양학의 재발견을 제시하고, 왜 (C)가 'thus'로 결론을 내릴까요?"
+  },
+  {
+    "id": "p-31-q05",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nBeyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients.\n\nBefore the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. ( ① ) By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. ( ② ) Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. ( ③ ) What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 문장의 'Beyond extending shelf life(유통기한을 연장하는 것을 넘어)'는 ① 뒤에서 설명한 '혹독한 겨울을 버틸 수 있는 영양가 있는 주식으로 바꾼 저장 기능'을 직접 받아 확장합니다. 왜 ②가 유일한 자리일까요?"
+  },
+  {
+    "id": "p-31-q06",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. What began as a practical necessity for preventing spoilage has thus endured as ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "a temporary substitute for modern refrigeration",
+      "a cornerstone of both culinary heritage and preventive wellness",
+      "an obsolete technique limited to rural farming communities",
+      "a primary cause of digestive discomfort in modern diets",
+      "an industrial shortcut for mass-producing synthetic flavors"
+    ],
+    "answer": 1,
+    "explanation": "구문: 부패 방지를 위한 실용적 필요에서 시작된 발효가 오늘날까지 지속되며 차지하고 있는 위상입니다. 지문에서 다룬 미식(풍미)과 건강(장내 미생물·면역) 두 축을 모두 아우르는 표현은 무엇일까요?"
+  },
+  {
+    "id": "p-31-q07",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and improved digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have rediscovered what traditional food cultures knew intuitively: fermented foods enrich the gut microbiome, supporting immune function and metabolic health. What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness.\n\n[요약문]\nOriginally valued for preventing food (A)________ before refrigeration existed, fermentation remains essential today because it enriches flavor, aids digestion, and strengthens gut (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) spoilage - (B) health",
+      "(A) harvesting - (B) fibers",
+      "(A) spoilage - (B) refrigeration",
+      "(A) acidity - (B) complexity",
+      "(A) digestion - (B) supply"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'preventing spoilage'와 'enrich the gut microbiome, supporting immune function and metabolic health'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-31-q08",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Before the advent of modern refrigeration and global supply chains, preserving food through fermentation was a vital survival strategy across nearly every civilization. By encouraging beneficial bacteria and yeasts to convert sugars into acids or alcohol, communities transformed ① perishable harvests like cabbage, milk, and soybeans into nutritious staples that could last through harsh winters. Beyond extending shelf life, fermentation unexpectedly enhanced flavor complexity and ② impaired digestibility by breaking down tough plant fibers and antinutrients. Today, nutritional scientists have ③ rediscovered what traditional food cultures knew intuitively: fermented foods ④ enrich the gut microbiome, supporting immune function and metabolic health. What began as a practical necessity for preventing spoilage has thus ⑤ endured as a cornerstone of both culinary heritage and preventive wellness.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 질긴 식물 섬유소와 항영양소를 분해하면 소화 가능성이 손상되는(impaired) 것이 아니라 '향상됩니다(improved)'. 왜 ②가 반의어일까요?"
+  },
+  {
+    "id": "p-31-q09",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "부패를 방지하기 위한 실용적 필요로 시작된 것이 이처럼 요리 유산과 예방적 건강 관리 모두의 초석으로 지속되어 왔다.",
+    "chunks": [
+      "What began as a practical necessity",
+      "for preventing spoilage",
+      "has thus endured as a cornerstone",
+      "of both culinary heritage",
+      "and preventive wellness."
+    ],
+    "answer": "What began as a practical necessity for preventing spoilage has thus endured as a cornerstone of both culinary heritage and preventive wellness.",
+    "explanation": "구문: 선행사를 포함한 관계대명사절 'What began ~ spoilage'가 단수 주어 역할을 하여 현재완료 단수 동사 'has ~ endured'가 이어지며, 'both A and B' 상관접속사가 두 명사구를 연결합니다. 왜 'have'가 아니라 'has'를 쓸까요?"
+  },
+  {
+    "id": "p-31-q10",
+    "passageId": "p-31",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 30번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "By encouraging beneficial bacteria and yeasts ",
+      " sugars into acids or alcohol, communities transformed perishable harvests into staples. Fermented foods enrich the gut microbiome, ",
+      " immune function and metabolic health."
+    ],
+    "choices": [
+      [
+        "converting",
+        "to convert"
+      ],
+      [
+        "supported",
+        "supporting"
+      ]
+    ],
+    "answers": [
+      "to convert",
+      "supporting"
+    ],
+    "explanation": "문법: ① 'encourage + 목적어 + to부정사(~하도록 장려하다)' 5형식 구조이므로 'to convert'가 옵니다. ② 콤마 뒤에서 목적어 'immune function ~'를 취하는 능동 분사구문 자리이므로 왜 'supporting'을 쓸까요?"
+  }
+]

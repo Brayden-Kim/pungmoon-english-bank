@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-22-q01",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Modern Legal Contracts Replaced Traditional Group Rituals",
+      "The Evolutionary Glue: How Shared Rhythm Builds Social Cohesion",
+      "Why Solo Musical Training Enhances Individual Memory",
+      "Differences Between Religious Chanting and Secular Dance",
+      "The Biological Role of Endorphins in Physical Pain Management"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts ~'가 핵심입니다. 함께 박자를 맞추어 움직이는 행위가 왜 인간 집단의 결속력을 높였을까요?"
+  },
+  {
+    "id": "p-22-q02",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the evolutionary and neurochemical mechanisms by which synchronous movement fosters cooperation",
+      "methods anthropologists use to record ancient tribal drumming patterns",
+      "reasons why strangers hesitate to share resources in large cities",
+      "the decline of communal dance in contemporary digital societies",
+      "how legal institutions enforce trust among competing social groups"
+    ],
+    "answer": 0,
+    "explanation": "구문: 동시적 움직임이 자아와 타인의 경계를 흐리고 엔도르핀 분비를 촉진해 협력을 이끌어내는 진화적·신경화학적 원리를 종합해 보세요."
+  },
+  {
+    "id": "p-22-q03",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time <u>blurs the psychological boundaries between self and others</u>. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "question": "밑줄 친 'blurs the psychological boundaries between self and others'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "diminishes the sense of individual separation and fosters a shared collective identity",
+      "causes participants to lose their physical balance during complex dance routines",
+      "prevents individuals from recognizing the personal achievements of group leaders",
+      "creates confusion over who owns shared resources within a community",
+      "eliminates all cultural differences between neighboring societies"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'forging social cohesion(사회적 결속력 형성)'과 연결해 보세요. 나와 타인 사이의 심리적 경계가 흐려진다는 것은 어떤 유대감을 뜻할까요?"
+  },
+  {
+    "id": "p-22-q04",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others.\n\n(A) Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward.\n(B) Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants.\n(C) Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 심리적 효과에 이어 (B)가 신경화학적 근거(엔도르핀 분비와 신뢰 형성)를 제시합니다. 그다음 (A)가 낯선 사람들 간의 실제 협력 행동으로 확장하고, 왜 (C)가 진화적 의의로 마무리할까요?"
+  },
+  {
+    "id": "p-22-q05",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nRemarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward.\n\nAcross diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. ( ① ) Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others. ( ② ) Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. ( ③ ) Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 동시적 활동이 동료 참가자에 대한 신뢰와 따뜻함을 키운다고 설명한 뒤, ③ 자리에서 낯선 사람들조차 짧은 합동 행동만으로 협력하고 자원을 나누게 된다는 구체적 행동 결과를 제시하는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "p-22-q06",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as ________________________ that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "a formal legal system",
+      "an evolutionary glue",
+      "a competitive barrier",
+      "an individual distraction",
+      "a technological invention"
+    ],
+    "answer": 1,
+    "explanation": "구문: 대규모 인간 집단이 노력을 조율하고 갈등을 해결하며 함께 번영하게 해 준 핵심 비유를 찾으세요. 현대 제도가 생기기 전 사회를 하나로 묶어 준 매개체는 무엇일까요?"
+  },
+  {
+    "id": "p-22-q07",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time blurs the psychological boundaries between self and others. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.\n\n[요약문]\nBy stimulating endorphin release and dissolving self-other boundaries, synchronized (A)________ promotes interpersonal trust and serves as a vital mechanism for group (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) movement - (B) cohesion",
+      "(A) competition - (B) isolation",
+      "(A) movement - (B) hierarchy",
+      "(A) legislation - (B) cohesion",
+      "(A) solitude - (B) cooperation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'synchronized movement'와 'forging social cohesion'이 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 지문의 원인-결과 구조를 정확히 요약할까요?"
+  },
+  {
+    "id": "p-22-q08",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Across diverse cultures, rhythmic music and synchronized movement have long served as powerful tools for forging social ① cohesion. Whether through communal drumming, religious chanting, or group dance, moving together in time ② sharpens the psychological boundaries between self and others. Anthropologists and neuroscientists suggest that synchronous activity triggers the release of endorphins, which elevate pain thresholds and foster feelings of ③ trust and warmth toward fellow participants. Remarkably, even brief periods of coordinated action—such as marching in step or singing in unison—can make strangers more willing to ④ cooperate and share resources afterward. Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and ⑤ thrive collectively.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 함께 박자를 맞추어 움직이면 사회적 결속력이 강해지므로 자아와 타인 사이의 심리적 경계가 날카로워지는(sharpens) 것이 아니라 '흐려진다(blurs)'가 맞습니다. 왜 ②가 반의어일까요?"
+  },
+  {
+    "id": "p-22-q09",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "현대 제도나 법적 계약이 존재하기 훨씬 전에, 공유된 리듬은 대규모 인간 집단이 노력을 조율하고 갈등을 해결하며 집단적으로 번영할 수 있게 해 준 진화적 접착제 역할을 했다.",
+    "chunks": [
+      "Long before modern institutions or legal contracts existed,",
+      "shared rhythm functioned as an evolutionary glue",
+      "that enabled large human groups",
+      "to coordinate efforts, resolve conflicts,",
+      "and thrive collectively."
+    ],
+    "answer": "Long before modern institutions or legal contracts existed, shared rhythm functioned as an evolutionary glue that enabled large human groups to coordinate efforts, resolve conflicts, and thrive collectively.",
+    "explanation": "구문: 주격 관계대명사 'that'이 'an evolutionary glue'를 수식하며, 'enable + 목적어 + to부정사(to coordinate ~, resolve ~, and thrive ~)'의 병렬 구조가 이어집니다. 왜 'resolve'와 'thrive'가 동사원형일까요?"
+  },
+  {
+    "id": "p-22-q10",
+    "passageId": "p-22",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 21번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Whether through communal drumming, religious chanting, or group dance, ",
+      " together in time blurs the psychological boundaries between self and others. Even brief periods of coordinated action can make strangers more willing ",
+      " and share resources afterward."
+    ],
+    "choices": [
+      [
+        "move",
+        "moving"
+      ],
+      [
+        "cooperating",
+        "to cooperate"
+      ]
+    ],
+    "answers": [
+      "moving",
+      "to cooperate"
+    ],
+    "explanation": "문법: ① 주절의 단수 동사 'blurs'의 주어 역할을 하는 동명사구 자리이므로 'moving'이 옵니다. ② 'be willing + to부정사(기꺼이 ~하다)' 관용표현이므로 왜 'to cooperate'를 쓸까요?"
+  }
+]

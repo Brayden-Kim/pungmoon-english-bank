@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-40-q01",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Generative AI Will Soon Eliminate Human Writing Skills",
+      "Algorithmic Literacy: Thinking Critically in the Age of Generative AI",
+      "How Large Language Models Verify Historical Primary Sources",
+      "The Decline of Printed Books in Modern University Education",
+      "Strategies for Automating Academic Research Without Human Oversight"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy ~ Only by combining human judgment with technological fluency can individuals remain active thinkers'를 보세요. 생성형 AI 시대에 비판적 사고를 지키기 위해 필요한 역량은 무엇일까요?"
+  },
+  {
+    "id": "p-40-q02",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the necessity of algorithmic literacy to critically evaluate generative AI outputs",
+      "methods engineers use to eliminate statistical bias from training datasets",
+      "reasons why fluent prose guarantees factual accuracy in automated summaries",
+      "differences between traditional printing presses and modern software coding",
+      "how students can finish academic essays faster using automated drafting tools"
+    ],
+    "answer": 0,
+    "explanation": "구문: 그럴듯한 단어 배열을 예측하는 AI의 작동 원리와 한계(환각·편향)를 인식하고, 출처를 교차 검증하며 비판적으로 질문하는 알고리즘 리터러시의 필요성을 종합해 보세요."
+  },
+  {
+    "id": "p-40-q03",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they <u>risk mistaking fluent, confident prose for verified truth</u>. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.",
+    "question": "밑줄 친 'risk mistaking fluent, confident prose for verified truth'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "may falsely assume that well-written AI text is factually accurate just because it sounds persuasive",
+      "prefer reading unedited human drafts over polished articles generated by automated software",
+      "struggle to understand complex vocabulary produced by advanced statistical language models",
+      "refuse to use automated tools even when primary sources confirm their factual reliability",
+      "believe that human writers fabricate citations more frequently than generative algorithms"
+    ],
+    "answer": 0,
+    "explanation": "구문: 뒤 문장의 'predict plausible word sequences rather than verifying facts against reality, they can fabricate citations(사실을 현실과 대조해 검증하기보다 그럴듯한 단어 순서를 예측하므로 인용문을 지어낼 수 있다)'와 연결해 보세요. 유창하고 자신감 있는 산문을 검증된 진실로 착각할 위험이 있다는 것은 무슨 뜻일까요?"
+  },
+  {
+    "id": "p-40-q04",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy.\n\n(A) Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate.\n(B) When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data.\n(C) Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 알고리즘 리터러시의 필요성을 제기한 뒤, (B)가 AI 출력물을 맹신할 때의 위험성과 그 이유(통계적 예측의 한계)를 설명합니다. 그다음 (A)가 알고리즘 리터러시 함양의 구체적 방법을 제시하고, 왜 (C)가 결론을 내릴까요?"
+  },
+  {
+    "id": "p-40-q05",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nBecause large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data.\n\nThroughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. ( ① ) Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. ( ② ) When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. ( ③ ) Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. ( ④ ) Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 사용자들이 유창한 산문을 검증된 진실로 착각할 위험이 있다고 언급한 직후, ③ 자리에서 그 원인('Because large language models predict plausible word sequences ~')을 설명해야 뒤 문장의 해결책과 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-40-q06",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "dependent on automated tools for every analytical decision",
+      "active thinkers rather than passive consumers of automated content",
+      "confident that fluent prose always reflects verified empirical truth",
+      "unaware of hidden biases embedded in large training datasets",
+      "reluctant to verify citations against original primary sources"
+    ],
+    "answer": 1,
+    "explanation": "구문: 인간의 판단력과 기술적 유창성을 결합함으로써 개인이 지향해야 할 주체적 태도입니다. 자동화된 콘텐츠의 수동적 소비자와 대비되는 모습은 무엇일까요?"
+  },
+  {
+    "id": "p-40-q07",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can fabricate citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.\n\n[요약문]\nBecause generative AI produces fluent text by predicting plausible words rather than verifying (A)________, users must develop algorithmic literacy to critically question outputs and preserve independent human (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) facts - (B) judgment",
+      "(A) sequences - (B) fluency",
+      "(A) facts - (B) automation",
+      "(A) biases - (B) consumption",
+      "(A) citations - (B) imitation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'rather than verifying facts against reality'와 'combining human judgment'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-40-q08",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Throughout most of human history, literacy was defined as the ability to decode printed text and construct clear written arguments. Today, however, rapid advances in generative artificial intelligence require ① expanding that definition to include algorithmic literacy. When students and professionals rely on automated tools to draft essays, summarize research, or write software code, they risk ② mistaking fluent, confident prose for verified truth. Because large language models predict plausible word sequences rather than verifying facts against reality, they can ③ verify citations, overlook subtle context, or reproduce hidden biases in their training data. Cultivating algorithmic literacy means training users to ④ interrogate machine outputs critically, cross-check claims against primary sources, and understand how statistical models operate. Only by combining human judgment with technological fluency can individuals remain ⑤ active thinkers rather than passive consumers of automated content.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 대규모 언어 모델은 사실을 현실과 대조해 검증하기보다 그럴듯한 단어 배열을 예측하므로, 인용문을 검증하는(verify) 것이 아니라 없는 출처를 '지어낼(fabricate)' 수 있습니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-40-q09",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "오직 인간의 판단력과 기술적 유창성을 결합함으로써만 개인들은 자동화된 콘텐츠의 수동적 소비자가 아니라 능동적인 사고가로 남을 수 있다.",
+    "chunks": [
+      "Only by combining human judgment with technological fluency",
+      "can individuals remain active thinkers",
+      "rather than passive consumers",
+      "of automated content."
+    ],
+    "answer": "Only by combining human judgment with technological fluency can individuals remain active thinkers rather than passive consumers of automated content.",
+    "explanation": "구문: 부사구 'Only by ~'가 문두로 이동하면서 주절의 조동사 'can'과 주어 'individuals'가 도치('can individuals remain')된 어순에 유의하세요. 왜 'individuals can remain'이 아니라 도치 어순을 쓸까요?"
+  },
+  {
+    "id": "p-40-q10",
+    "passageId": "p-40",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 39번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Cultivating algorithmic literacy means ",
+      " users to interrogate machine outputs critically and understand ",
+      " statistical models operate."
+    ],
+    "choices": [
+      [
+        "to train",
+        "training"
+      ],
+      [
+        "what",
+        "how"
+      ]
+    ],
+    "answers": [
+      "training",
+      "how"
+    ],
+    "explanation": "문법: ① 'mean + 동명사(~하는 것을 의미하다)' 구문이므로 'training'이 옵니다. ② 동사 'understand'의 목적어인 간접의문문 뒤에서 주어 'statistical models'와 자동사 'operate'로 이루어진 완전한 절이 이어지므로 왜 의문부사 'how'를 쓸까요?"
+  }
+]

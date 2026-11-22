@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p-44-q01",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "글의 목적",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. Warm regards, Elena Morales, Garden Coordinator",
+    "question": "다음 글의 목적으로 가장 적절한 것은?",
+    "options": [
+      "지역 초등학교의 봄철 현장 학습 일정 변경을 공지하려고",
+      "온실 시설 확충을 위한 지역사회 모금 및 물품 기부를 독려하려고",
+      "식물원 내 토종 벌과 나비 서식지 보호 구역 출입을 통제하려고",
+      "자원봉사자 교육 프로그램의 수료 기준 강화를 안내하려고",
+      "원예 도구 대여 서비스의 이용 요금 인상을 설명하려고"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education'을 보세요. 글쓴이가 지역사회 주민들에게 요청하는 핵심 내용은 무엇일까요?"
+  },
+  {
+    "id": "p-44-q02",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. Warm regards, Elena Morales, Garden Coordinator",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "a community fundraising appeal to upgrade greenhouse facilities for youth environmental workshops",
+      "methods botanists use to protect native butterflies during unpredictable spring storms",
+      "reasons why local elementary schools decided to cancel outdoor gardening classes",
+      "differences between insulated glass panels and traditional wooden greenhouse frames",
+      "how volunteer coordinators schedule weekly maintenance at neighborhood botanical gardens"
+    ],
+    "answer": 0,
+    "explanation": "구문: 청소년 수분 매개자 교육 프로그램의 수요 증가에 맞춰 온실 시설을 개선하기 위한 기금 모금 및 기부·봉사 참여 요청을 종합해 보세요."
+  },
+  {
+    "id": "p-44-q03",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. Warm regards, Elena Morales, Garden Coordinator",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "이웃 식물원은 봄을 맞아 연례 청소년 수분 매개자 교육 프로그램을 시작할 준비를 하고 있다.",
+      "지난 3년간 인근 학교들의 프로그램 참여 수요는 두 배로 증가했다.",
+      "기존의 목재 온실은 예측하기 어려운 봄 날씨에 실습 워크숍을 열기에 공간과 온도 조절 장비가 충분하다.",
+      "금전적 기부뿐만 아니라 원예 도구와 화분용 흙의 기부도 환영받는다.",
+      "4월 15일까지 웹사이트를 방문해 후원을 약정하거나 워크숍 자원봉사자로 신청할 수 있다."
+    ],
+    "answer": 2,
+    "explanation": "구문: 'our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather'를 보세요. 기존 목재 온실은 공간과 온도 조절 장비가 충분한 것이 아니라 부족합니다."
+  },
+  {
+    "id": "p-44-q04",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation.\n\n(A) To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables.\n(B) Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather.\n(C) Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 교육 프로그램 시작을 알린 뒤, (B)가 수요 증가에 비해 기존 온실 시설이 부족하다는 문제를 제기합니다. 그다음 (A)가 시설 확충을 위한 모금 운동 계획을 제시하고, 왜 (C)가 기부 방식과 마감 기한 안내로 마무리할까요?"
+  },
+  {
+    "id": "p-44-q05",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nTo expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables.\n\nDear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. ( ① ) Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. ( ② ) Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. ( ③ ) Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. ( ④ ) Warm regards, Elena Morales, Garden Coordinator ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 기존 온실의 공간과 온도 조절 장비가 부족하다는 문제 상황을 제시한 직후, ② 자리에서 수용 능력을 확장하기 위한 모금 운동 계획이 나와야 뒤 문장의 구체적 기부 방식 안내로 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-44-q06",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will ________________________. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. Warm regards, Elena Morales, Garden Coordinator",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "replace all outdoor butterfly habitats with indoor storage rooms",
+      "directly support environmental education for our children",
+      "reduce the number of elementary schools invited to spring workshops",
+      "prevent neighborhood residents from volunteering at the botanical garden",
+      "eliminate the need for insulated glass panels in the wooden greenhouse"
+    ],
+    "answer": 1,
+    "explanation": "구문: 지역사회 주민들의 금전적 후원이나 원예 물품 기부가 궁극적으로 기여하는 대상입니다. 이 모금 캠페인이 누구의 어떤 교육을 돕기 위한 것일까요?"
+  },
+  {
+    "id": "p-44-q07",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has doubled, yet our existing wooden greenhouse lacks the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly support environmental education for our children. Please visit our website by April 15 to pledge your support or sign up as a workshop volunteer. Warm regards, Elena Morales, Garden Coordinator\n\n[요약문]\nBecause rising school demand exceeds the capacity of its current greenhouse, the botanical garden is requesting financial or material (A)________ and volunteers to expand its youth environmental (B)________ program.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) donations - (B) education",
+      "(A) restrictions - (B) construction",
+      "(A) donations - (B) commerce",
+      "(A) fees - (B) entertainment",
+      "(A) inspections - (B) preservation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'financial contribution—or donation of gardening tools and potting soil'과 'environmental education'이 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-44-q08",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Dear Members of the Harborview Community Association, As spring approaches, our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, which ① introduces local elementary students to native bees, butterflies, and backyard conservation. Over the past three years, demand from neighborhood schools has ② doubled, yet our existing wooden greenhouse ③ possesses the space and climate-control equipment needed to host hands-on workshops safely during unpredictable spring weather. To ④ expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables. Any financial contribution—or donation of gardening tools and potting soil—will directly ⑤ support environmental education for our children.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 역접 접속사 'yet(그러나)'으로 이어지며 수용 능력을 확장하기 위한 모금 운동이 필요하므로 기존 온실이 공간과 장비를 보유하고 있는(possesses) 것이 아니라 '부족합니다(lacks)'. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-44-q09",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이번 시즌에 수용 능력을 확장하고 400명이 넘는 학생들을 맞이하기 위해, 우리는 단열 유리 패널과 높이 조절식 재배 테이블을 설치하기 위한 지역사회 모금 운동을 조직하고 있습니다.",
+    "chunks": [
+      "To expand our capacity and welcome more than four hundred students this season,",
+      "we are organizing a community fundraising drive",
+      "to install insulated glass panels",
+      "and raised planting tables."
+    ],
+    "answer": "To expand our capacity and welcome more than four hundred students this season, we are organizing a community fundraising drive to install insulated glass panels and raised planting tables.",
+    "explanation": "구문: 목적을 나타내는 to부정사구 'To expand ~ and (to) welcome ~'이 문두에 오고, 주절 'we are organizing ~' 뒤에 또 다른 목적의 to부정사구 'to install ~'가 이어집니다. 왜 'welcoming'이 아니라 원형 'welcome'을 쓸까요?"
+  },
+  {
+    "id": "p-44-q10",
+    "passageId": "p-44",
+    "unit": "Unit 17",
+    "passageTitle": "Unit 17 - 18번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Our neighborhood botanical garden is preparing to launch its annual Youth Pollinator Education Program, ",
+      " introduces local elementary students to native bees. Our existing wooden greenhouse lacks the space and equipment ",
+      " to host hands-on workshops safely."
+    ],
+    "choices": [
+      [
+        "that",
+        "which"
+      ],
+      [
+        "needing",
+        "needed"
+      ]
+    ],
+    "answers": [
+      "which",
+      "needed"
+    ],
+    "explanation": "문법: ① 콤마 뒤에서 선행사를 부연 설명하는 계속적 용법의 주격 관계대명사 자리이므로 'which'가 옵니다('that'은 계속적 용법 불가). ② 수식받는 'the space and equipment'가 워크숍 개최를 위해 '필요로 되는' 수동 관계이므로 왜 과거분사 'needed'를 쓸까요?"
+  }
+]

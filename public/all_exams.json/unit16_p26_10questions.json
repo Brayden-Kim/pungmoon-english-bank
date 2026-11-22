@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-26-q01",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment. Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Technical Training Should Replace Team Discussions",
+      "Psychological Safety: The Hidden Driver of Team Learning and Adaptability",
+      "How Regulatory Compliance Prevents Corporate Mistakes",
+      "Strategies for Eliminating Errors in Data Analytics Teams",
+      "Why Leaders Must Hide Their Own Mistakes From Employees"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'organizations frequently overlook the equally critical role of psychological safety within teams ~ teams learn faster from setbacks and adapt more effectively'를 보세요. 기술 역량만큼 중요한 심리적 안전감이 팀의 학습과 적응력을 어떻게 높일까요?"
+  },
+  {
+    "id": "p-26-q02",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment. Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the importance of fostering psychological safety to enable team learning and risk communication",
+      "methods for evaluating employees' technical mastery of new software platforms",
+      "reasons why organizations prioritize regulatory compliance over creativity",
+      "differences between individual accountability and collective punishment in workplaces",
+      "how Amy Edmondson designed technical training curricula for corporations"
+    ],
+    "answer": 0,
+    "explanation": "구문: 심리적 안전감의 정의, 부재 시의 위험 신호 은폐, 그리고 리더의 태도를 통한 팀 학습 촉진 효과를 종합해 보세요."
+  },
+  {
+    "id": "p-26-q03",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment. Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when <u>leaders model vulnerability and respond to errors with curiosity rather than blame</u>, teams learn faster from setbacks and adapt more effectively to complex challenges.",
+    "question": "밑줄 친 'leaders model vulnerability and respond to errors with curiosity rather than blame'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "managers openly acknowledge their own fallibility and treat mistakes as opportunities to learn",
+      "supervisors ignore operational failures to avoid upsetting sensitive team members",
+      "executives require workers to report every minor flaw to human resources immediately",
+      "team leaders delegate all risky experiments to junior staff without oversight",
+      "organizations replace technical skill assessments with informal personality interviews"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'without fear of humiliation or punishment(굴욕이나 처벌에 대한 두려움 없이)'과 연결해 보세요. 리더가 먼저 자신의 불완전함을 솔직히 드러내고 실수를 비난 대신 탐구의 계기로 삼는 것은 어떤 태도일까요?"
+  },
+  {
+    "id": "p-26-q04",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams.\n\n(A) Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions.\n(B) Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment.\n(C) Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 'psychological safety'를 처음 언급한 뒤, (B)가 그 개념을 정의합니다. 그다음 (A)가 'this foundation'으로 받아 부재 시의 문제를 지적하고, 왜 (C)가 'Conversely'로 대조적 결과를 제시할까요?"
+  },
+  {
+    "id": "p-26-q05",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWithout this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions.\n\nIn an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. ( ① ) While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. ( ② ) Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment. ( ③ ) Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'this foundation'은 ② 뒤에서 정의된 '심리적 안전감(psychological safety)'을 가리키며, ③ 뒤의 'Conversely(반대로)'와도 대조를 이룹니다. 왜 ③이 유일한 자리일까요?"
+  },
+  {
+    "id": "p-26-q06",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas ________________________. Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "only after receiving formal approval from senior executives",
+      "without fear of humiliation or punishment",
+      "by replacing technical training with informal group chats",
+      "while avoiding any disagreement with team consensus",
+      "solely during annual performance evaluation meetings"
+    ],
+    "answer": 1,
+    "explanation": "구문: 팀원들이 질문하고 실수를 인정하며 반대 의견을 낼 수 있는 공유된 믿음의 핵심 조건입니다. 구성원들이 무엇에 대한 두려움 없이 목소리를 낼 수 있어야 할까요?"
+  },
+  {
+    "id": "p-26-q07",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice dissenting ideas without fear of humiliation or punishment. Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when leaders model vulnerability and respond to errors with curiosity rather than blame, teams learn faster from setbacks and adapt more effectively to complex challenges.\n\n[요약문]\nAlongside technical skills, teams require psychological (A)________ so that members can openly report risks and learn from (B)________ rather than hiding mistakes out of fear.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) safety - (B) setbacks",
+      "(A) compliance - (B) punishment",
+      "(A) safety - (B) humiliation",
+      "(A) hierarchy - (B) setbacks",
+      "(A) vulnerability - (B) consensus"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'psychological safety'와 'learn faster from setbacks'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-26-q08",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In an era of rapid technological change, corporate training programs often focus almost exclusively on technical skills—new software tools, data analytics, or regulatory compliance. While these competencies are essential, organizations frequently ① overlook the equally critical role of psychological safety within teams. Coined by organizational researcher Amy Edmondson, psychological safety refers to a shared belief that team members can ask questions, admit mistakes, and voice ② dissenting ideas without fear of humiliation or punishment. Without this foundation, employees ③ share valuable warnings about emerging risks and hesitate to experiment with novel solutions. Conversely, when leaders model ④ vulnerability and respond to errors with curiosity rather than blame, teams learn faster from ⑤ setbacks and adapt more effectively to complex challenges.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 심리적 안전감이라는 토대가 없으면 직원들은 새롭게 떠오르는 위험에 대한 귀중한 경고를 공유하는(share) 것이 아니라 '숨기게(withhold)' 됩니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-26-q09",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이러한 토대가 없다면, 직원들은 새롭게 떠오르는 위험에 대한 귀중한 경고를 숨기고 새로운 해결책을 실험하기를 주저한다.",
+    "chunks": [
+      "Without this foundation,",
+      "employees withhold valuable warnings",
+      "about emerging risks",
+      "and hesitate to experiment",
+      "with novel solutions."
+    ],
+    "answer": "Without this foundation, employees withhold valuable warnings about emerging risks and hesitate to experiment with novel solutions.",
+    "explanation": "구문: 주어 'employees'에 두 개의 복수 동사 'withhold'와 'hesitate'가 'and'로 병렬 연결되며, 'hesitate + to부정사(~하기를 주저하다)' 구조가 이어집니다. 왜 'experimenting'이 아니라 'to experiment'를 쓸까요?"
+  },
+  {
+    "id": "p-26-q10",
+    "passageId": "p-26",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 25번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      " ",
+      " by organizational researcher Amy Edmondson, psychological safety refers to a shared belief ",
+      " team members can ask questions and admit mistakes without fear."
+    ],
+    "choices": [
+      [
+        "Coining",
+        "Coined"
+      ],
+      [
+        "which",
+        "that"
+      ]
+    ],
+    "answers": [
+      "Coined",
+      "that"
+    ],
+    "explanation": "문법: ① 주절 주어 'psychological safety'는 에드먼슨에 의해 '만들어진(신조어로 명명된)' 수동 관계이므로 과거분사 'Coined'가 옵니다. ② 추상명사 'a shared belief'의 구체적 내용을 보충하며 뒤에 완전한 절이 이어지므로 왜 동격 접속사 'that'을 쓸까요?"
+  }
+]

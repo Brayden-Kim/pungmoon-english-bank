@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-27-q01",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the thriving of the other.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Acacia Trees Survive Without Insect Pollinators",
+      "Nature's Bodyguards: The Mutualistic Partnership of Ants and Acacias",
+      "Why Herbivorous Mammals Avoid Tropical Acacia Forests",
+      "The Competitive Struggle Between Vines and Stinging Ants",
+      "How Ecologists Measure Nectar Production in Tropical Plants"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'coevolution can bind two vastly different organisms into a single functional unit'가 핵심입니다. 아카시아 나무와 개미는 서로 무엇을 주고받으며 생존을 도울까요?"
+  },
+  {
+    "id": "p-27-q02",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the thriving of the other.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the mutually beneficial coevolution between acacia trees and protective ants",
+      "methods ecologists use to eliminate invasive vines in tropical ecosystems",
+      "reasons why stinging ants abandon hollow thorns during dry seasons",
+      "the chemical composition of nectar produced by specialized plant glands",
+      "how grazing mammals shape the distribution of tropical tree species"
+    ],
+    "answer": 0,
+    "explanation": "구문: 아카시아가 개미에게 서식처와 꿀을 제공하고 개미가 나무를 방어하는 공진화적 상리공생(mutualism) 관계를 파악해 보세요."
+  },
+  {
+    "id": "p-27-q03",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how <u>coevolution can bind two vastly different organisms into a single functional unit</u>, where the survival of each partner depends directly on the thriving of the other.",
+    "question": "밑줄 친 'coevolution can bind two vastly different organisms into a single functional unit'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "distinct species can evolve deeply interdependent roles so that they operate and survive together",
+      "unrelated animals eventually merge genetically into a single biological species over time",
+      "plants lose their ability to photosynthesize once insects begin living inside their thorns",
+      "predators and prey establish peaceful territories without competing for sunlight",
+      "ecologists must artificially combine different organisms to restore damaged forests"
+    ],
+    "answer": 0,
+    "explanation": "구문: 뒤의 관계부사절 'where the survival of each partner depends directly on the thriving of the other'가 직접적 설명입니다. 전혀 다른 두 생물이 하나의 기능적 단위처럼 결합한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-27-q04",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions.\n\n(A) When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation.\n(B) The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight.\n(C) This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the thriving of the other.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 아카시아와 개미의 상리공생을 소개한 뒤, (B)가 구체적인 상호 이익 교환 내용을 설명합니다. 그다음 (A)가 개미 제거 실험으로 그 필수성을 입증하고, 왜 (C)가 결론을 맺을까요?"
+  },
+  {
+    "id": "p-27-q05",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWhen ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation.\n\nIn nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. ( ① ) A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. ( ② ) The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. ( ③ ) This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the thriving of the other. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 개미가 초식 곤충, 포유류, 덩굴로부터 나무를 방어한다고 설명한 직후, ③ 자리에서 개미를 제거했을 때 실제로 잎이 손상되고 주변 식물에 뒤덮였다는 실험적 증거가 이어지는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "p-27-q06",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "one species gradually eliminates its partner to monopolize sunlight",
+      "the survival of each partner depends directly on the thriving of the other",
+      "both organisms adapt to live completely independently in harsh climates",
+      "insects rely solely on neighboring vines for shelter and nectar",
+      "ecological balance requires removing predators from tropical forests"
+    ],
+    "answer": 1,
+    "explanation": "구문: 하나의 기능적 단위로 묶인 공진화적 파트너십의 핵심 특징입니다. 각 동반자의 생존이 상대방의 무엇에 직접적으로 달려 있을까요?"
+  },
+  {
+    "id": "p-27-q07",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In nature, few species exist in isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally removed the ants from acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the thriving of the other.\n\n[요약문]\nThrough a mutualistic relationship in which acacia trees supply (A)________ and food while stinging ants provide active (B)________, both species rely on each other for survival.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) shelter - (B) defense",
+      "(A) sunlight - (B) nectar",
+      "(A) shelter - (B) competition",
+      "(A) isolation - (B) defense",
+      "(A) vines - (B) nourishment"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'provides the ants with shelter inside hollow thorns and nutritious nectar'와 'fiercely defend the tree'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 상호 교환 내용을 정확히 요약할까요?"
+  },
+  {
+    "id": "p-27-q08",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In nature, few species exist in ① isolation; instead, organisms constantly interact through intricate networks of competition, predation, and mutualism. A classic example of mutualism occurs between acacia trees and certain species of stinging ants in tropical regions. The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely ② defend the tree against herbivorous insects, browsing mammals, and even encroaching vines that might block sunlight. When ecologists experimentally ③ introduced the ants to acacia trees, the plants quickly suffered severe leaf damage and were overgrown by neighboring vegetation. This partnership illustrates how coevolution can ④ bind two vastly different organisms into a single functional unit, where the survival of each partner depends directly on the ⑤ thriving of the other.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 아카시아 나무가 심각한 잎 손상을 입고 주변 식물에 뒤덮인 것은 개미를 나무에 도입해서(introduced)가 아니라 실험적으로 '제거했을(removed)' 때 일어난 결과입니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-27-q09",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "아카시아는 개미에게 속이 빈 가시 안의 서식처와 특수 분비샘에서 나오는 영양가 풍부한 꿀을 제공하는 반면, 개미는 초식 곤충으로부터 나무를 격렬히 방어한다.",
+    "chunks": [
+      "The acacia provides the ants",
+      "with shelter inside hollow thorns",
+      "and nutritious nectar from specialized glands,",
+      "while the ants fiercely defend the tree",
+      "against herbivorous insects."
+    ],
+    "answer": "The acacia provides the ants with shelter inside hollow thorns and nutritious nectar from specialized glands, while the ants fiercely defend the tree against herbivorous insects.",
+    "explanation": "구문: 'provide A with B(A에게 B를 제공하다)' 구문과 대조의 접속사 'while(~인 반면)'이 두 주체의 상호 역할을 대비시키고 있습니다. 왜 'provides'에 '-s'가 붙을까요?"
+  },
+  {
+    "id": "p-27-q10",
+    "passageId": "p-27",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 26번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "This partnership illustrates how coevolution can bind two vastly different organisms into a single functional unit, ",
+      " the survival of each partner ",
+      " directly on the thriving of the other."
+    ],
+    "choices": [
+      [
+        "which",
+        "where"
+      ],
+      [
+        "depend",
+        "depends"
+      ]
+    ],
+    "answers": [
+      "where",
+      "depends"
+    ],
+    "explanation": "문법: ① 선행사 'a single functional unit'이라는 개념적 공간을 부연 설명하며 뒤에 완전한 절이 이어지므로 관계부사 'where'가 옵니다. ② 주어 'the survival of each partner'의 핵이 단수 명사 'survival'이므로 왜 단수 동사 'depends'를 쓸까요?"
+  }
+]

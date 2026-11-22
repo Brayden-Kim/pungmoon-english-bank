@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-38-q01",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact. Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Physical Restoration Remains Superior to Digital Imaging",
+      "Digital Twins of Heritage: Preserving Culture in the Information Age",
+      "How Climate Control Prevents Erosion in Ancient Monuments",
+      "The Financial Cost of 3D Laser Scanning in Small Museums",
+      "Why Digital Replicas Will Soon Replace Original Masterpieces"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'digital preservation technologies ~ are revolutionizing how heritage is documented and protected'와 마지막 문장을 보세요. 디지털 보존 기술이 문화유산을 어떻게 보호하고 접근성을 높일까요?"
+  },
+  {
+    "id": "p-38-q02",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact. Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the benefits of digital preservation technologies in safeguarding and studying cultural heritage",
+      "methods archivists use to manufacture acid-free paper for ancient manuscripts",
+      "reasons why museums restrict public access to fragile sculptures during restoration",
+      "differences between 3D laser scanning and traditional oil painting techniques",
+      "how armed conflicts have destroyed historical archives across the globe"
+    ],
+    "answer": 0,
+    "explanation": "구문: 3D 레이저 스캐닝과 다중 스펙트럼 이미징을 통한 디지털 트윈 제작이 물리적 손상 방지, 비침습적 학술 연구, 대중 접근성 확대에 기여하는 바를 종합해 보세요."
+  },
+  {
+    "id": "p-38-q03",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact. Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they <u>ensure that humanity's collective memory remains accessible</u> to global audiences and future generations.",
+    "question": "밑줄 친 'ensure that humanity's collective memory remains accessible'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "allow people worldwide and in the future to experience and study shared cultural heritage",
+      "require every museum to transfer its physical artifacts into private digital archives",
+      "prove that digital photographs evoke stronger emotional reactions than real sculptures",
+      "prevent modern scholars from altering historical interpretations of ancient manuscripts",
+      "eliminate the need for climate-controlled storage rooms in national museums"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞의 'immune to physical erosion, natural disasters, or armed conflict'와 뒤의 'to global audiences and future generations'를 연결해 보세요. 인류의 집단 기억이 계속 접근 가능하도록 보장한다는 것은 무엇을 뜻할까요?"
+  },
+  {
+    "id": "p-38-q04",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected.\n\n(A) Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact.\n(B) By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict.\n(C) Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 디지털 보존 기술을 소개한 뒤, (B)가 'digital twins' 제작을 통한 물리적 손상 방지 효과를 설명합니다. 그다음 (A)가 'Furthermore'로 학술적 발견이라는 추가 이점을 제시하고, 왜 (C)가 양보절과 함께 결론을 맺을까요?"
+  },
+  {
+    "id": "p-38-q05",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nFurthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact.\n\nMuseum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. ( ① ) Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. ( ② ) By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict. ( ③ ) Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'Furthermore(게다가)'는 ② 뒤에서 설명한 '디지털 트윈 생성을 통한 물리적 위협으로부터의 보호'라는 첫 번째 이점에 이어, 다중 스펙트럼 분석의 학술적 이점을 덧붙이는 ③ 자리에 들어가야 합니다."
+  },
+  {
+    "id": "p-38-q06",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain ________________________. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact. Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "dependent on constant manual restoration by museum staff",
+      "immune to physical erosion, natural disasters, or armed conflict",
+      "invisible to modern researchers without invasive chemical testing",
+      "restricted to private collectors who fund archaeological excavations",
+      "vulnerable to sudden changes in museum storage humidity"
+    ],
+    "answer": 1,
+    "explanation": "구문: 실물 문화유산이 겪는 부패나 파손과 대비되는 '디지털 트윈(digital twins)'의 가장 큰 보존상 강점입니다. 디지털 데이터가 영향을 받지 않고 면역력을 지니는 대상은 무엇일까요?"
+  },
+  {
+    "id": "p-38-q07",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Museum curators and archivists have long relied on meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain immune to physical erosion, natural disasters, or armed conflict. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact. Although digital replicas can never fully replace the emotional resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains accessible to global audiences and future generations.\n\n[요약문]\nBy creating durable digital (A)________ of fragile artifacts, modern imaging technologies protect cultural heritage from physical destruction, enable non-invasive research, and keep history (B)________ worldwide.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) twins - (B) accessible",
+      "(A) pigments - (B) invasive",
+      "(A) twins - (B) fragile",
+      "(A) archives - (B) immune",
+      "(A) monuments - (B) manual"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'enduring digital twins'와 'remains accessible to global audiences'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-38-q08",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Museum curators and archivists have long relied on ① meticulous climate control, acid-free storage, and manual restoration to safeguard cultural artifacts against decay. Today, however, digital preservation technologies—such as high-resolution 3D laser scanning, multispectral imaging, and photogrammetry—are revolutionizing how heritage is documented and protected. By capturing the exact geometry, surface texture, and subsurface pigments of fragile sculptures, manuscripts, and ancient monuments, researchers create enduring digital twins that remain ② vulnerable to physical erosion, natural disasters, or armed conflict. Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking ③ invasive physical contact. Although digital replicas can never fully replace the emotional ④ resonance of standing before an original masterpiece, they ensure that humanity's collective memory remains ⑤ accessible to global audiences and future generations.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 디지털 트윈의 핵심 장점은 물리적 침식, 자연재해, 무력 충돌에 취약한(vulnerable) 것이 아니라 '영향을 받지 않는(immune)' 상태를 유지한다는 점입니다. 왜 ②가 반의어일까요?"
+  },
+  {
+    "id": "p-38-q09",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "게다가, 다중 스펙트럼 분석은 육안으로 보이지 않는 희미해진 비문과 숨겨진 밑그림을 종종 드러내어, 침습적인 물리적 접촉의 위험 없이 역사 학문을 심화시킨다.",
+    "chunks": [
+      "Furthermore, multispectral analysis often reveals",
+      "faded inscriptions and hidden underdrawings",
+      "invisible to the naked eye,",
+      "deepening historical scholarship",
+      "without risking invasive physical contact."
+    ],
+    "answer": "Furthermore, multispectral analysis often reveals faded inscriptions and hidden underdrawings invisible to the naked eye, deepening historical scholarship without risking invasive physical contact.",
+    "explanation": "구문: 형용사구 'invisible to the naked eye'가 명사구를 후치 수식하고, 콤마 뒤 능동 분사구문 'deepening ~'과 전치사구 'without + 동명사(risking)'가 이어집니다. 왜 'risking'이 동명사 형태일까요?"
+  },
+  {
+    "id": "p-38-q10",
+    "passageId": "p-38",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 37번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Researchers create enduring digital twins ",
+      " remain immune to physical erosion. Although digital replicas can never fully replace the emotional resonance of ",
+      " before an original masterpiece, they ensure global access."
+    ],
+    "choices": [
+      [
+        "what",
+        "that"
+      ],
+      [
+        "stand",
+        "standing"
+      ]
+    ],
+    "answers": [
+      "that",
+      "standing"
+    ],
+    "explanation": "문법: ① 선행사 'enduring digital twins'가 있고 뒤에 주어가 빠진 불완전한 절이 이어지므로 주격 관계대명사 'that'이 옵니다. ② 전치사 'of'의 목적어 자리이므로 왜 동명사 'standing'을 쓸까요?"
+  }
+]

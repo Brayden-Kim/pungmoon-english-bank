@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-30-q01",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Highway Expansion Eliminates Urban Carbon Emissions",
+      "The Paradox of Induced Demand: Why Wider Roads Don't Solve Traffic",
+      "Strategies for Reducing Road Maintenance Costs in Growing Cities",
+      "Why Commuters Prefer Driving Over Walkable Neighborhoods",
+      "The History of Dedicated Bus Lanes in Modern Metropolitan Areas"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand'가 핵심입니다. 도로를 넓혀도 장기적으로 정체가 줄지 않는 역설적 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-30-q02",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "why road widening fails to ease congestion and the need for transit-oriented alternatives",
+      "methods urban planners use to calculate highway construction budgets",
+      "reasons why commuters avoid public transit during off-peak hours",
+      "the environmental benefits of building wider multi-lane expressways",
+      "how walkable neighborhoods increase private automobile ownership"
+    ],
+    "answer": 0,
+    "explanation": "구문: 유발 수요(induced demand)로 인해 도로 확장이 실패하는 원리와, 대중교통·전용차로·보행 친화적 설계라는 대안을 종합해 보세요."
+  },
+  {
+    "id": "p-30-q03",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore <u>depends less on pouring more asphalt and more on investing in reliable mass transit</u>, dedicated bus lanes, and walkable neighborhood design.",
+    "question": "밑줄 친 'depends less on pouring more asphalt and more on investing in reliable mass transit'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "requires shifting focus from building more roads to strengthening public transportation",
+      "means paving existing bus lanes with higher-quality asphalt to speed up private cars",
+      "suggests abandoning urban infrastructure maintenance in favor of rural highway projects",
+      "proves that commuters will never use trains unless highway tolls are doubled",
+      "indicates that widening roads is effective only when combined with wider parking lots"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'pouring more asphalt(더 많은 아스팔트를 붓는 것 = 도로 확장)'과 'investing in reliable mass transit(신뢰할 수 있는 대중교통에 투자하는 것)'의 대비를 보세요. 지속적인 정체 해소를 위해 무엇에서 무엇으로 정책 초점을 옮겨야 할까요?"
+  },
+  {
+    "id": "p-30-q04",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand.\n\n(A) Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs.\n(B) When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road.\n(C) Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 'induced demand(유발 수요)' 개념에 이어 (B)가 통근자들의 운전 전환 과정을 설명합니다. 그다음 (A)가 몇 년 내 교통량이 다시 차오르는 결과를 보여 주고, 왜 (C)가 'therefore'로 대안을 제시하며 마무리할까요?"
+  },
+  {
+    "id": "p-30-q05",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWithin a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs.\n\nIn urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. ( ① ) Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. ( ② ) When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. ( ③ ) Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 대중교통 이용자나 비혼잡 시간대 이동자들이 넓어진 도로로 다시 차를 몰고 나온다고 설명한 뒤, ③ 자리에서 몇 년 안에 차량 통행량이 늘어난 용량과 맞먹게 되어 이동 시간이 원래의 느린 수준으로 돌아간다는 결과가 이어지는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "p-30-q06",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore depends less on pouring more asphalt and more on ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "constructing wider highways in suburban areas",
+      "investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design",
+      "encouraging commuters to drive during peak hours",
+      "lowering fuel taxes to stimulate private vehicle use",
+      "eliminating pedestrian walkways near major intersections"
+    ],
+    "answer": 1,
+    "explanation": "구문: 도로 확장('pouring more asphalt')과 대비되는 지속적인 교통 정체 완화 방안입니다. 도시가 어떤 교통·공간 인프라에 투자해야 할까요?"
+  },
+  {
+    "id": "p-30-q07",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In urban planning, city officials often try to relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly switch back to driving on the newly widened road. Within a few years, vehicle volume rises to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in reliable mass transit, dedicated bus lanes, and walkable neighborhood design.\n\n[요약문]\nBecause expanding road capacity attracts more drivers through (A)________ demand and soon restores gridlock, sustainable traffic relief requires investing in public (B)________ and walkable infrastructure.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) induced - (B) transit",
+      "(A) declining - (B) highways",
+      "(A) induced - (B) asphalt",
+      "(A) seasonal - (B) transit",
+      "(A) reduced - (B) emissions"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'induced demand'와 'investing in reliable mass transit'가 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-30-q08",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In urban planning, city officials often try to ① relieve traffic congestion by widening highways or constructing additional lanes. Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely ② reduces gridlock over the long term—a phenomenon known as induced demand. When a congested route becomes faster, commuters who previously took public transit, traveled during off-peak hours, or avoided unnecessary trips quickly ③ switch back to driving on the newly widened road. Within a few years, vehicle volume ④ drops to match the expanded capacity, returning travel times to their previous sluggish levels while increasing carbon emissions and maintenance costs. Lasting relief from congestion therefore depends less on pouring more asphalt and more on investing in ⑤ reliable mass transit, dedicated bus lanes, and walkable neighborhood design.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 통근자들이 새로 넓어진 도로로 다시 차를 몰고 나오므로 몇 년 안에 차량 통행량은 감소하는(drops) 것이 아니라 확장된 수용 능력에 맞먹을 만큼 '증가합니다(rises)'. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-30-q09",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "역설적으로, 교통 연구자들은 도로 수용 능력을 확장하는 것이 장기적으로 교통 체증을 거의 줄이지 못한다는 점을 일관되게 관찰해 왔다.",
+    "chunks": [
+      "Paradoxically, transportation researchers",
+      "have consistently observed",
+      "that expanding road capacity",
+      "rarely reduces gridlock",
+      "over the long term."
+    ],
+    "answer": "Paradoxically, transportation researchers have consistently observed that expanding road capacity rarely reduces gridlock over the long term.",
+    "explanation": "구문: 현재완료 동사 'have consistently observed'의 목적어로 명사절 접속사 'that'이 오며, 절 내부의 동명사 주어 'expanding road capacity' 뒤에 단수 동사 'reduces'가 이어집니다. 왜 'reduce'가 아니라 'reduces'를 쓸까요?"
+  },
+  {
+    "id": "p-30-q10",
+    "passageId": "p-30",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 29번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Within a few years, vehicle volume rises to match the expanded capacity, ",
+      " travel times to their previous sluggish levels while ",
+      " carbon emissions and maintenance costs."
+    ],
+    "choices": [
+      [
+        "returned",
+        "returning"
+      ],
+      [
+        "increased",
+        "increasing"
+      ]
+    ],
+    "answers": [
+      "returning",
+      "increasing"
+    ],
+    "explanation": "문법: ① 콤마 뒤에서 목적어 'travel times'를 취하며 결과를 나타내는 능동 분사구문 자리이므로 'returning'이 옵니다. ② 접속사 'while' 뒤에서 목적어 'carbon emissions ~'를 취하는 능동 분사구문 자리이므로 왜 'increasing'을 쓸까요?"
+  }
+]
