@@ -43,7 +43,7 @@ class LocalStorageService {
     this.bundledAttempted = true;
 
     try {
-      const res = await fetch('/all_exams.json');
+      const res = await fetch('/all_questions.json');
       if (res.ok) {
         const text = await res.text();
         const validation = parseAndValidateExamJson(text);
