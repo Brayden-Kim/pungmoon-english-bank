@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-15-q01",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Warehouse Scanners Eliminate Workplace Accidents",
+      "The Hidden Costs of Algorithmic Surveillance in the Workplace",
+      "Why Remote Workers Prefer Data-Driven Performance Reviews",
+      "Strategies for Designing Bias-Free Management Software",
+      "Increasing Employee Creativity Through Real-Time Tracking"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'constant algorithmic monitoring often backfires ~ undermines the trust and engagement essential for sustainable organizational success'를 보세요. 데이터 기반 감시가 조직에 초래하는 역효과는 무엇일까요?"
+  },
+  {
+    "id": "p-15-q02",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "ways to train managers to use productivity-tracking software",
+      "negative psychological and behavioral impacts of algorithmic employee monitoring",
+      "the financial savings achieved by automating warehouse logistics",
+      "differences between remote work and on-site warehouse management",
+      "legal guidelines for protecting employee privacy in digital workplaces"
+    ],
+    "answer": 1,
+    "explanation": "구문: 역접 'However' 이후 제시되는 직원의 스트레스·번아웃 증가, 내적 동기 저하, 지표 조작(gaming the metrics) 등의 부작용을 종합해 보세요."
+  },
+  {
+    "id": "p-15-q03",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. Moreover, employees frequently adapt by <u>gaming the metrics</u>—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.",
+    "question": "밑줄 친 'gaming the metrics'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "developing recreational video games to relieve workplace stress",
+      "manipulating behavior to score well on measurable numbers at the expense of genuine quality",
+      "refusing to use digital scanners and software during working hours",
+      "competing fairly with coworkers to achieve the highest accuracy",
+      "reporting technical glitches in performance-evaluation algorithms"
+    ],
+    "answer": 1,
+    "explanation": "구문: 대시(—) 뒤의 'prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving'이 직접적 풀이입니다. 평가 지표 수치만 높이기 위해 본질적 가치를 희생하는 행동은 무엇일까요?"
+  },
+  {
+    "id": "p-15-q04",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries.\n\n(A) Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.\n(B) Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time.\n(C) However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 글의 'digital surveillance'에 대해 (B)가 지지자들의 긍정적 주장을 먼저 소개합니다. 그다음 (C)가 'However'로 반전시켜 첫째 부작용을 말하고, 왜 (A)가 'Moreover'로 둘째 부작용과 결론을 이을까요?"
+  },
+  {
+    "id": "p-15-q05",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nHowever, mounting research suggests that constant algorithmic monitoring often backfires.\n\nOver the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. ( ① ) From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. ( ② ) Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. ( ③ ) When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. ( ④ ) Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. ( ⑤ ) Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤까지는 알고리즘 감시 도구의 장점(효율성 증대, 편향 제거 등)을 설명하다가, ③ 뒤에서부터 스트레스·번아웃 같은 역효과가 나열됩니다. 왜 ③ 자리에 반전 문장이 들어가야 할까요?"
+  },
+  {
+    "id": "p-15-q06",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "guarantees long-term loyalty among remote employees",
+      "undermines the trust and engagement essential for sustainable organizational success",
+      "eliminates the need for human supervisors in modern companies",
+      "encourages workers to collaborate more closely on complex tasks",
+      "improves both the speed and overall quality of customer service"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Ultimately'로 시작하는 결론 문장입니다. 인간 노동을 단순한 기계적 과정으로 취급할 때 조직의 지속 가능한 성공에 필수적인 무엇이 훼손될까요?"
+  },
+  {
+    "id": "p-15-q07",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity plummet. Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.\n\n[요약문]\nAlthough algorithmic monitoring is intended to maximize workplace (A)________, relentless digital surveillance often causes employee burnout and superficial metric-chasing, ultimately eroding organizational (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) efficiency - (B) trust",
+      "(A) creativity - (B) surveillance",
+      "(A) efficiency - (B) automation",
+      "(A) autonomy - (B) trust",
+      "(A) bias - (B) engagement"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'boost efficiency'와 'undermines the trust and engagement'가 그대로 요약문의 양대 축이 됩니다. 왜 ⓐ가 도입 목적과 최종 피해를 가장 잘 대비할까요?"
+  },
+  {
+    "id": "p-15-q08",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Over the last decade, organizations have increasingly turned to algorithmic management tools to monitor employee performance, assign tasks, and evaluate productivity. From warehouse scanners that track every second of a worker's movement to software that logs keystrokes and mouse clicks for remote staff, digital ① surveillance has become commonplace across industries. Proponents argue that these data-driven systems boost efficiency, eliminate human ② bias in evaluations, and allow managers to optimize workflows in real time. However, mounting research suggests that constant algorithmic monitoring often ③ backfires. When workers feel reduced to mere data points under relentless scrutiny, stress and burnout skyrocket while intrinsic motivation and creativity ④ soar. Moreover, employees frequently adapt by gaming the metrics—prioritizing easily measurable speed over quality, teamwork, or long-term problem-solving. Ultimately, treating human labor as a purely mechanical process ⑤ undermines the trust and engagement essential for sustainable organizational success.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 끊임없는 감시 아래 스트레스와 번아웃이 치솟는(skyrocket) 상황과 대조되어야 하므로, 내적 동기와 창의성은 급상승하는(soar) 것이 아니라 '급락한다(plummet)'가 맞습니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-15-q09",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "궁극적으로, 인간 노동을 순전히 기계적인 과정으로 취급하는 것은 지속 가능한 조직의 성공에 필수적인 신뢰와 몰입을 훼손한다.",
+    "chunks": [
+      "Ultimately, treating human labor",
+      "as a purely mechanical process",
+      "undermines the trust and engagement",
+      "essential for sustainable",
+      "organizational success."
+    ],
+    "answer": "Ultimately, treating human labor as a purely mechanical process undermines the trust and engagement essential for sustainable organizational success.",
+    "explanation": "구문: 동명사 주어 'treating human labor as ~' 뒤에 단수 동사 'undermines'가 오며, 형용사구 'essential for ~'가 앞의 명사구 'the trust and engagement'를 후치 수식합니다. 왜 'undermine'에 '-s'가 붙을까요?"
+  },
+  {
+    "id": "p-15-q10",
+    "passageId": "p-15",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 14번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Proponents argue that these data-driven systems boost efficiency, eliminate human bias in evaluations, and allow managers ",
+      " workflows in real time. When workers feel ",
+      " to mere data points under relentless scrutiny, stress and burnout skyrocket."
+    ],
+    "choices": [
+      [
+        "optimize",
+        "to optimize"
+      ],
+      [
+        "reducing",
+        "reduced"
+      ]
+    ],
+    "answers": [
+      "to optimize",
+      "reduced"
+    ],
+    "explanation": "문법: ① 'allow + 목적어 + to부정사(~가 …하도록 허용하다)' 5형식 구조이므로 'to optimize'가 옵니다. ② 주어 'workers'가 단순 데이터로 전락한(격하된) 느낌을 받는 수동 관계이므로 왜 과거분사 'reduced'를 쓸까요?"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-02-q01",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Traffic Rules Are Established to Prevent Highway Accidents",
+      "The Biological Instinct to Defend Our Sense of Hierarchy",
+      "Effective Ways to Resolve Arguments Between Parents and Children",
+      "Why Modern Workplaces Need Less Strict Hierarchical Structures",
+      "Conscious Decision-Making Under Extreme Emotional Stress"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'reacting to a threat to your inherent sense of hierarchy'와 마지막 문장의 'biological tendencies of reaffirming the hierarchy'를 보세요. 왜 인간이 끼어들기나 말대꾸에 즉각 화를 낼까요?"
+  },
+  {
+    "id": "p-02-q02",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the psychological causes of aggressive driving on crowded highways",
+      "the importance of maintaining equality in family and office relationships",
+      "our instinctive tendency to protect and reassert social hierarchy when threatened",
+      "how conscious reasoning overcomes primitive biological instincts",
+      "the role of social rules in suppressing unconscious anger"
+    ],
+    "answer": 2,
+    "explanation": "구문: 'when someone infringes on our place ~, we react without thinking'이 핵심 조건입니다. 위계 질서가 침해받을 때 이성적 사고 대신 왜 본능적 반응을 보일까요?"
+  },
+  {
+    "id": "p-02-q03",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've <u>stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy</u>.",
+    "question": "밑줄 친 'stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "carefully analyzed the situation to find a fair compromise",
+      "instinctively asserted authority rather than using rational persuasion",
+      "acknowledged the other person's higher status to avoid conflict",
+      "forgotten the basic social rules required for peaceful coexistence",
+      "decided to step down from a leadership position due to frustration"
+    ],
+    "answer": 1,
+    "explanation": "구문: 앞 문장의 'Because I said so'와 'Because I'm the boss'가 구체적 사례입니다. 논리적 설명을 멈추고 왜 본능적으로 위계를 재확인하려 했을까요?"
+  },
+  {
+    "id": "p-02-q04",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking.\n\n(A) On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status.\n(B) Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.\n(C) When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 3,
+    "explanation": "구문: 주어진 글의 'react without thinking'에 대한 첫 번째 예시가 (C)의 도로 위 끼어들기입니다. (A)가 도로 위 규칙을 부연한 뒤 왜 (B)가 'Or consider~'로 두 번째 예시를 들었을까요?"
+  },
+  {
+    "id": "p-02-q05",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nCutting someone off violates those rules and implies higher status.\n\nWe're naturally wired to organize the world into a hierarchy. ( ① ) We do this to help make sense of the world, maintain our beliefs, and generally feel better. ( ② ) But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. ( ③ ) When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. ( ④ ) On the road we are all equals. We're all supposed to play by the same rules. ( ⑤ ) Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 주어진 문장의 'those rules'가 가리키는 명사를 찾으세요. ④ 뒤의 'play by the same rules'를 받아야 하므로 왜 ⑤ 자리에 들어가야 자연스러울까요?"
+  },
+  {
+    "id": "p-02-q06",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "seeking equal treatment for everyone",
+      "reaffirming the hierarchy",
+      "suppressing your unconscious emotions",
+      "questioning traditional authority",
+      "cooperating with others under pressure"
+    ],
+    "answer": 1,
+    "explanation": "구문: 전치사 'of'의 목적어로 동명사구가 옵니다. 'Because I'm the boss'라고 외치는 행동은 결국 무엇을 재확인(reaffirming)하려는 본능일까요?"
+  },
+  {
+    "id": "p-02-q07",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "We're naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.\n\n[요약문]\nHumans instinctively perceive the world through a (A)________, and when their perceived position is challenged, they abandon rational thought to (B)________ their status.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) hierarchy - (B) reassert",
+      "(A) contract - (B) conceal",
+      "(A) compromise - (B) lower",
+      "(A) hierarchy - (B) abandon",
+      "(A) partnership - (B) equalize"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'abandon rational thought to (B) their status'는 본문의 'stopped thinking and regressed to ~ reaffirming'의 재진술입니다. 왜 'reassert(재주장하다)'가 정답일까요?"
+  },
+  {
+    "id": "p-02-q08",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "We're naturally ① wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone ② infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that's your unconscious mind saying, \"Who are you to cut me off?\" You're reacting to a threat to your ③ inherent sense of hierarchy. On the road we are all equals. We're all supposed to play by the same rules. Cutting someone off ④ respects those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with \"Because I said so.\" (Or the office equivalent: \"Because I'm the boss.\") In these moments you've stopped thinking and ⑤ regressed to your biological tendencies of reaffirming the hierarchy.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 'Cutting someone off ~ those rules and implies higher status'에서 끼어들기는 평등 규칙을 지키는 것일까요, 위반하는(violates) 것일까요? 왜 ④가 반의어 함정인지 생각해 보세요."
+  },
+  {
+    "id": "p-02-q09",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "하지만 누군가가 세상에서의 우리의 위치와 그것이 작동하는 방식에 대한 우리의 이해를 침해할 때, 우리는 생각하지 않고 반응한다.",
+    "chunks": [
+      "But when someone infringes on",
+      "our place in the world",
+      "and our understanding of",
+      "how it works,",
+      "we react without thinking."
+    ],
+    "answer": "But when someone infringes on our place in the world and our understanding of how it works, we react without thinking.",
+    "explanation": "구문: 전치사 'of'의 목적어로 간접의문문 'how it works(의문사+주어+동사)' 어순이 쓰였습니다. 'infringes on'의 두 목적어('our place'와 'our understanding')를 왜 'and'로 연결했을까요?"
+  },
+  {
+    "id": "p-02-q10",
+    "passageId": "p-02",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 01번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "In these moments you've stopped ",
+      " and regressed to your biological tendencies of ",
+      " the hierarchy."
+    ],
+    "choices": [
+      [
+        "thinking",
+        "to think"
+      ],
+      [
+        "reaffirm",
+        "reaffirming"
+      ]
+    ],
+    "answers": [
+      "thinking",
+      "reaffirming"
+    ],
+    "explanation": "문법: ① 'stop + -ing'는 '~하는 것을 멈추다'이고 'stop to V'는 '~하기 위해 멈추다'입니다. ② 전치사 'of' 뒤에는 왜 동명사 'reaffirming'이 와야 할까요?"
+  }
+]

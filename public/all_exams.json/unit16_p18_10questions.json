@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-18-q01",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus. High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Teams Should Eliminate All Meetings and Status Updates",
+      "Quality Over Quantity: Matching Communication to Team Work",
+      "How Instant Messaging Speeds Up Complex Decision-Making",
+      "The Decline of Face-to-Face Teamwork in Modern Offices",
+      "Strategies for Hiring Faster Communicators in Project Teams"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work'을 보세요. 무조건 많은 소통이 아니라 업무 성격에 맞는 소통 설계가 왜 중요할까요?"
+  },
+  {
+    "id": "p-18-q02",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus. High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the risks of excessive synchronous communication and the value of structured team norms",
+      "methods for replacing written documentation with daily video calls",
+      "reasons why team members avoid sharing progress reports on time",
+      "the psychological effects of working alone instead of in teams",
+      "how to measure individual productivity during group brainstorming"
+    ],
+    "answer": 0,
+    "explanation": "구문: 끊임없는 메시지와 불필요한 회의가 집중력을 해치는 문제점과, 동시·비동기 소통의 구분 및 명확한 규범의 필요성을 함께 살펴보세요."
+  },
+  {
+    "id": "p-18-q03",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can <u>fragment attention and slow down deep focus</u>. High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work.",
+    "question": "밑줄 친 'fragment attention and slow down deep focus'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "divide concentration into short interruptions and hinder sustained cognitive effort",
+      "strengthen long-term memory by repeating project goals throughout the day",
+      "encourage teammates to help each other solve difficult analytical problems",
+      "reduce the total number of tasks assigned to each team member",
+      "improve emotional bonding by increasing casual conversations"
+    ],
+    "answer": 0,
+    "explanation": "구문: 잦은 메시지와 계획 없는 회의, 끝없는 현황 업데이트가 몰입을 방해하는 작용을 보세요. 주의력이 조각나고 깊은 집중이 늦어진다는 것은 어떤 상태일까요?"
+  },
+  {
+    "id": "p-18-q04",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus.\n\n(A) Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment.\n(B) High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace.\n(C) Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 문제 제기에 이어 (B)가 동시·비동기 소통의 분리를 제시합니다. 그다음 (A)가 'also'를 사용해 응답 시간·문서화 규범을 덧붙이고, 왜 (C)가 'Ultimately'로 결론을 맺을까요?"
+  },
+  {
+    "id": "p-18-q05",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nYet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus.\n\nWhen people work in teams, they often assume that more communication is always better. ( ① ) High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. ( ② ) Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. ( ③ ) Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "explanation": "구문: '소통이 많을수록 항상 좋다'는 통념을 역접 'Yet'으로 뒤집는 문장이므로, 통념 제시 직후인 ① 자리에 들어가야 고성과 팀의 대안적 소통 방식과 자연스럽게 이어집니다."
+  },
+  {
+    "id": "p-18-q06",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus. High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "how many digital channels the organization adopts",
+      "whether communication matches the nature of the work",
+      "how quickly teammates reply to every notification",
+      "whether all meetings are held synchronously",
+      "how frequently managers ask for status updates"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'not A, but B' 구조에서 'how often people talk(얼마나 자주 말하는가)'과 대비되는 핵심 원리를 찾으세요. 협업의 성패는 왜 업무의 성격에 맞췄는지에 달려 있을까요?"
+  },
+  {
+    "id": "p-18-q07",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can fragment attention and slow down deep focus. High-performing teams tend to separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on whether communication matches the nature of the work.\n\n[요약문]\nRather than relying on constant interaction that disrupts (A)________, high-performing teams pair synchronous and asynchronous channels with clear (B)________ to support effective collaboration.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) focus - (B) norms",
+      "(A) hierarchy - (B) deadlines",
+      "(A) focus - (B) incentives",
+      "(A) transparency - (B) norms",
+      "(A) autonomy - (B) budgets"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'slow down deep focus'는 'disrupts focus'로, 'Clear norms around response times and documentation'는 'clear norms'로 요약되었습니다. 왜 ⓐ가 팀 운영의 핵심 요소를 정확히 가리킬까요?"
+  },
+  {
+    "id": "p-18-q08",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "When people work in teams, they often assume that more communication is always better. Yet constant messaging, unplanned meetings, and endless status updates can ① fragment attention and slow down deep focus. High-performing teams tend to ② separate synchronous communication—used for alignment, decision-making, and complex problem-solving—from asynchronous communication, which allows members to share progress and work through tasks at their own pace. Clear norms around response times and documentation also ③ prevent misunderstandings without ④ forcing everyone to be online at the same moment. Ultimately, effective team collaboration depends not on how often people talk, but on whether communication ⑤ contradicts the nature of the work.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 효과적인 팀 협업은 소통이 업무의 성격과 모순되는지(contradicts)가 아니라 '일치하는지(matches)'에 달려 있습니다. 왜 ⑤가 문맥과 반대일까요?"
+  },
+  {
+    "id": "p-18-q09",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "응답 시간과 문서화에 관한 명확한 규범은 또한 모두가 같은 순간에 온라인 상태여야 한다고 강요하지 않으면서 오해를 방지한다.",
+    "chunks": [
+      "Clear norms around response times",
+      "and documentation also prevent misunderstandings",
+      "without forcing everyone",
+      "to be online",
+      "at the same moment."
+    ],
+    "answer": "Clear norms around response times and documentation also prevent misunderstandings without forcing everyone to be online at the same moment.",
+    "explanation": "구문: 복수 주어 'Clear norms ~'에 이어 복수 동사 'prevent'가 쓰였고, 전치사 'without' 뒤 동명사 'forcing'의 목적격보어로 'to be online'이 이어집니다. 왜 'prevents'가 아니라 'prevent'를 쓸까요?"
+  },
+  {
+    "id": "p-18-q10",
+    "passageId": "p-18",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 17번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "High-performing teams tend to separate synchronous communication—",
+      " for alignment, decision-making, and complex problem-solving—from asynchronous communication, ",
+      " allows members to share progress."
+    ],
+    "choices": [
+      [
+        "using",
+        "used"
+      ],
+      [
+        "what",
+        "which"
+      ]
+    ],
+    "answers": [
+      "used",
+      "which"
+    ],
+    "explanation": "문법: ① 'synchronous communication'이 정렬·의사결정·문제해결을 위해 '사용되는' 수동 관계이므로 과거분사 'used'가 옵니다. ② 콤마 뒤 선행사 'asynchronous communication'을 부연 설명하는 계속적 용법 관계대명사이므로 왜 'which'를 쓸까요?"
+  }
+]

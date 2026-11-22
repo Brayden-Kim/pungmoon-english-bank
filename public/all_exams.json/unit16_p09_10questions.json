@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p-09-q01",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Consumer Spending Sustains Manufacturing Employment",
+      "Consumption vs. Investment: What Makes Us Richer in the Long Run?",
+      "Why Rising College Tuition Burdens High School Graduates",
+      "The Role of Government Subsidies in Scientific Research",
+      "Luxury Goods and Their Immediate Impact on Personal Happiness"
+    ],
+    "answer": 1,
+    "explanation": "구문: 첫 문장의 'current consumption'과 마지막 문장의 'investment' 대조를 보세요. 둘 다 일자리를 만들지만 미래의 부와 생산성을 높이는 쪽은 왜 투자일까요?"
+  },
+  {
+    "id": "p-09-q02",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the economic distinction between immediate consumption and long-term investment",
+      "strategies for reducing unemployment in the automobile and electronics industries",
+      "the financial risks of investing in unproven scientific laboratories",
+      "why high school graduates prefer luxury cars over higher education",
+      "ways to balance short-term happiness with long-term retirement savings"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'The crucial difference between these scenarios is that ~'가 주제문입니다. 대학 등록금과 스포츠카 구매의 결정적 차이는 왜 '평생의 생산성'에 있을까요?"
+  },
+  {
+    "id": "p-09-q03",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Buying a television is current consumption. It makes us happy today but <u>does nothing to make us richer tomorrow</u>. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.",
+    "question": "밑줄 친 'does nothing to make us richer tomorrow'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "fails to generate any employment in the manufacturing sector",
+      "contributes nothing to increasing future wealth or long-term productivity",
+      "forces consumers to borrow money at high interest rates",
+      "prevents factories from investing in modern production equipment",
+      "reduces the immediate satisfaction we get from owning electronics"
+    ],
+    "answer": 1,
+    "explanation": "구문: 뒤 문장의 'making us richer in the long run' 및 'more productive for the rest of his or her life'와 대조하세요. 현재의 소비가 왜 미래의 부를 창출하지 못할까요?"
+  },
+  {
+    "id": "p-09-q04",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow.\n\n(A) Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers.\n(B) The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.\n(C) Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 3,
+    "explanation": "구문: 주어진 글의 'television'을 (C)가 바로 이어받아 투자와 비교합니다. 이후 (A)가 'college'와 'sports cars'라는 새 예시를 들고, 왜 (B)가 'these scenarios'로 받을까요?"
+  },
+  {
+    "id": "p-09-q05",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThink about college as an example.\n\nBuying a television is current consumption. ( ① ) It makes us happy today but does nothing to make us richer tomorrow. ( ② ) Yes, money spent on a television keeps workers employed at the television factory. ( ③ ) But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. ( ④ ) Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. ( ⑤ ) The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 텔레비전 소비와 투자의 비교가 끝나는 ③ 뒤에서 새로운 사례인 '대학(college)'을 도입해야 합니다. 왜 ④ 뒤에 곧바로 'Sending students to college~'가 이어질까요?"
+  },
+  {
+    "id": "p-09-q06",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that ________________________; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "a college education eliminates the need for future employment",
+      "a college education makes a young person more productive for the rest of his or her life",
+      "professors earn higher salaries than workers in automobile factories",
+      "buying a sports car provides greater immediate happiness than studying",
+      "universities require less initial funding than manufacturing plants"
+    ],
+    "answer": 1,
+    "explanation": "구문: 세미콜론(;) 뒤의 생략 구문 'a sports car does not (make a young person more productive ~)'가 결정적 단서입니다. 왜 대학교육은 평생의 생산성을 높인다고 볼까요?"
+  },
+  {
+    "id": "p-09-q07",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.\n\n[요약문]\nWhile both consumption and investment generate (A)________ in the present, only investment—such as paying for a college education—enhances future (B)________ and long-term wealth.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) employment - (B) productivity",
+      "(A) debt - (B) happiness",
+      "(A) employment - (B) entertainment",
+      "(A) inflation - (B) productivity",
+      "(A) profits - (B) consumption"
+    ],
+    "answer": 0,
+    "explanation": "구문: 소비(TV·스포츠카)와 투자(연구·건설·대학) 모두 일자리(employment)를 만들지만, 미래의 생산성(productivity)을 높이는 것은 투자뿐입니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-09-q08",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Buying a television is current ① consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers ② employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us ③ richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. The crucial difference between these scenarios is that a college education makes a young person less ④ productive for the rest of his or her life; a sports car does not. Thus, college tuition is an ⑤ investment; buying a sports car is consumption.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 대학교육이 투자인 이유는 젊은이를 평생 더 '생산적(more productive)'으로 만들기 때문입니다. 왜 ④의 'less productive'가 논리에 어긋날까요?"
+  },
+  {
+    "id": "p-09-q09",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "하지만 만약 그 똑같은 돈이 투자된다면, 장기적으로 우리를 더 부유하게 만들면서 동시에 어딘가 다른 곳에 일자리를 창출할 것이다.",
+    "chunks": [
+      "But if the same money",
+      "were invested,",
+      "it would create jobs somewhere else,",
+      "say for scientists in a laboratory or workers on a construction site,",
+      "while also making us richer",
+      "in the long run."
+    ],
+    "answer": "But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run.",
+    "explanation": "구문: 가정법 과거 'if + 주어 + were ~, 주어 + would + 동사원형'과 분사구문 'while also making us richer(5형식 make+목적어+형용사)'를 확인하세요. 왜 'richly'가 아니라 형용사 'richer'를 쓸까요?"
+  },
+  {
+    "id": "p-09-q10",
+    "passageId": "p-09",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 08번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Yes, money ",
+      " on a television keeps workers ",
+      " at the television factory."
+    ],
+    "choices": [
+      [
+        "spending",
+        "spent"
+      ],
+      [
+        "employing",
+        "employed"
+      ]
+    ],
+    "answers": [
+      "spent",
+      "employed"
+    ],
+    "explanation": "문법: ① 수식받는 'money'는 쓰이는 대상이므로 과거분사 'spent'가 옵니다. ② 'keep + 목적어 + 목적격보어'에서 노동자들은 고용된 상태이므로 왜 과거분사 'employed'를 쓸까요?"
+  }
+]

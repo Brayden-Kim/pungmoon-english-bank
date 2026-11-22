@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-19-q01",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly. Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How to Cut Administrative Costs During Employee Recruitment",
+      "Beyond Checklists: Building Effective Onboarding for New Hires",
+      "Why New Employees Prefer Working Independently From Day One",
+      "Standardizing Company Policies Through One-Day Orientation",
+      "The Decline of Manager Check-Ins in Modern Workplaces"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'treated as a brief checklist of administrative tasks'와 'pairs structured role guidance with intentional social connection'을 대조하세요. 단순 행정 절차를 넘어선 온보딩이 왜 중요할까요?"
+  },
+  {
+    "id": "p-19-q02",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly. Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "reasons why administrative paperwork delays new hire productivity",
+      "key elements of effective onboarding that foster clarity, connection, and commitment",
+      "methods for testing job candidates' problem-solving skills before hiring",
+      "ways to reduce turnover among senior managers in large organizations",
+      "the disadvantages of assigning buddies to newly hired employees"
+    ],
+    "answer": 1,
+    "explanation": "구문: 역할 안내와 의도적 사회적 연결, 정보 제공의 속도 조절, 초기 피드백 수렴 등 효과적 온보딩의 핵심 요소를 종합해 보세요."
+  },
+  {
+    "id": "p-19-q03",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly. Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. Ultimately, <u>thoughtful onboarding turns an anxious newcomer into a capable, connected contributor</u>.",
+    "question": "밑줄 친 'thoughtful onboarding turns an anxious newcomer into a capable, connected contributor'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "well-designed early support helps new hires gain competence and belonging rather than feeling lost and isolated",
+      "extensive company rules force new employees to conform without questioning existing workflows",
+      "immediate leadership responsibilities allow novices to master complex tasks without guidance",
+      "frequent performance evaluations eliminate all initial nervousness during the first month",
+      "short administrative orientations are sufficient for experienced professionals"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'anxious newcomer(불안한 신입)'과 'capable, connected contributor(유능하고 연결된 기여자)'의 대비를 보세요. 체계적 안내와 관계 형성이 신입의 초기 불안을 어떻게 바꿔 놓을까요?"
+  },
+  {
+    "id": "p-19-q04",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment.\n\n(A) Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager.\n(B) When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly.\n(C) Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 초기 시기의 중요성을 말한 뒤, (B)가 방치되었을 때의 문제('newcomers')를 보여 줍니다. 그다음 (A)가 효과적 온보딩의 두 축을 제시하고, 왜 (C)가 추가 실천 방안과 결론을 이어갈까요?"
+  },
+  {
+    "id": "p-19-q05",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWhen newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly.\n\nIn many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. ( ① ) Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. ( ② ) Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. ( ③ ) Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. ( ④ ) Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 초기 몇 주·몇 달의 중요성을 강조한 뒤, ② 자리에서 신입이 혼자 방치될 때 생기는 고립과 좌절감을 제시하고, ③ 뒤에서 그 해법으로서 'Effective onboarding'을 도입하는 흐름이 가장 자연스럽습니다."
+  },
+  {
+    "id": "p-19-q06",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly. Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs ________________________ and invite early feedback to refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "pace information over time",
+      "skip all informal team introductions",
+      "deliver every manual in a single morning",
+      "delay feedback until the end of the year",
+      "replace manager check-ins with automated emails"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'Rather than overwhelming recruits with every policy on day one(첫날에 모든 규정으로 신입을 압도하기보다는)'과 대조되는 행동입니다. 정보를 한꺼번에 쏟아붓지 않고 어떻게 조절해야 할까요?"
+  },
+  {
+    "id": "p-19-q07",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel discouraging and isolation can set in quickly. Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.\n\n[요약문]\nMoving beyond mere administrative formalities, effective onboarding combines structured (A)________ and social support while pacing information to build newcomers' confidence and (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) guidance - (B) commitment",
+      "(A) paperwork - (B) isolation",
+      "(A) guidance - (B) anxiety",
+      "(A) compliance - (B) turnover",
+      "(A) evaluation - (B) formality"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'structured role guidance'는 'structured guidance'로, 'long-term confidence, role clarity, and commitment'는 'confidence and commitment'로 요약되었습니다. 왜 ⓐ가 핵심 요약일까요?"
+  },
+  {
+    "id": "p-19-q08",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In many organizations, onboarding new hires is treated as a brief checklist of ① administrative tasks—signing paperwork, setting up email accounts, and sitting through a single orientation slide deck. Yet research consistently shows that the first few weeks and months profoundly shape an employee's long-term confidence, role clarity, and ② commitment. When newcomers are left to figure out unwritten norms and expectations on their own, early mistakes feel ③ encouraging and isolation can set in quickly. Effective onboarding pairs ④ structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager. Rather than overwhelming recruits with every policy on day one, strong programs pace information over time and invite early feedback to ⑤ refine the process. Ultimately, thoughtful onboarding turns an anxious newcomer into a capable, connected contributor.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 성문화되지 않은 규범과 기대를 신입 혼자 파악하게 내버려 두면 초기 실수가 의욕을 북돋우는(encouraging) 것이 아니라 '낙담스럽게(discouraging)' 느껴지고 고립감이 찾아옵니다. 왜 ③이 반의어일까요?"
+  },
+  {
+    "id": "p-19-q09",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "효과적인 온보딩은 체계적인 역할 안내와 의도적인 사회적 연결을 결합한다.",
+    "chunks": [
+      "Effective onboarding pairs",
+      "structured role guidance",
+      "with intentional social connection,",
+      "such as assigning a supportive buddy",
+      "and scheduling regular check-ins with a manager."
+    ],
+    "answer": "Effective onboarding pairs structured role guidance with intentional social connection, such as assigning a supportive buddy and scheduling regular check-ins with a manager.",
+    "explanation": "구문: 'pair A with B(A와 B를 짝짓다·결합하다)' 구문 뒤에 예시를 이끄는 'such as + 동명사구(assigning ~ and scheduling ~)'가 병렬로 이어집니다. 왜 'assign'과 'schedule'이 '-ing' 형태일까요?"
+  },
+  {
+    "id": "p-19-q10",
+    "passageId": "p-19",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 18번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "When newcomers are left ",
+      " out unwritten norms and expectations on their own, early mistakes feel ",
+      " and isolation can set in quickly."
+    ],
+    "choices": [
+      [
+        "figuring",
+        "to figure"
+      ],
+      [
+        "discouraged",
+        "discouraging"
+      ]
+    ],
+    "answers": [
+      "to figure",
+      "discouraging"
+    ],
+    "explanation": "문법: ① 수동태 'be left + to부정사(~하도록 내버려지다)' 구조이므로 'to figure'가 옵니다. ② 주어 'early mistakes'가 실망감을 '주는' 능동적 속성을 나타내므로 왜 현재분사 'discouraging'을 쓸까요?"
+  }
+]

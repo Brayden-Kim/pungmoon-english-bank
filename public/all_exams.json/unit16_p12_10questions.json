@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-12-q01",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn't account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Heavy Advertising Leads to Monopolies in Fast-Food Markets",
+      "Beyond Higher Prices: How Advertising Benefits Consumers",
+      "Why Consumers Often Ignore Commercials on Busy Streets",
+      "Strategies for Reducing Marketing Costs in Competitive Industries",
+      "The Negative Impact of Product Differentiation on Consumer Choice"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'consumers also gain information ~ Consumers also benefit from added variety'를 보세요. 광고가 가격을 올린다는 통념과 달리 소비자에게 어떤 이익을 주는지 파악해 보세요."
+  },
+  {
+    "id": "p-12-q02",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn't account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the role of advertising in providing useful information and variety to consumers",
+      "reasons why fast-food restaurants cluster together on busy streets",
+      "methods firms use to hide price increases through heavy advertising",
+      "the disadvantages of selling slightly differentiated products in crowded markets",
+      "how consumers define their vision of a perfect good"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'In markets where competitors sell slightly differentiated products, advertising enables ~'가 핵심입니다. 차별화된 상품 시장에서 광고가 소비자에게 주는 두 가지 혜택은 무엇일까요?"
+  },
+  {
+    "id": "p-12-q03",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, <u>this misconception doesn't account for why firms advertise</u>. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "밑줄 친 'this misconception doesn't account for why firms advertise'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "viewing ads merely as a cause of higher prices ignores their informative value in competitive markets",
+      "companies advertise solely to drive competing businesses out of the neighborhood",
+      "consumers rarely believe the claims made in fast-food advertisements",
+      "advertising actually lowers production costs by increasing overall sales volume",
+      "firms fail to understand why consumers prefer slightly differentiated products"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장의 'see advertising as driving up the price ~ without any benefit'이 바로 'this misconception'입니다. 이 오해가 간과하고 있는 기업의 진짜 광고 목적은 무엇일까요?"
+  },
+  {
+    "id": "p-12-q04",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily.\n\n(A) Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.\n(B) The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn't account for why firms advertise.\n(C) In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 글의 'advertise heavily'에 대한 일반적 오해를 (B)가 먼저 제시합니다. 그다음 (C)가 기업이 광고하는 진짜 이유를 밝히고, 왜 (A)가 소비자 혜택을 정리할까요?"
+  },
+  {
+    "id": "p-12-q05",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nHowever, this misconception doesn't account for why firms advertise.\n\nIf you drive down a busy street, you will find many competing businesses, often right next to one another. ( ① ) For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. ( ② ) These competing firms advertise heavily. ( ③ ) The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. ( ④ ) In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. ( ⑤ ) Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 'this misconception'은 ③ 뒤의 '광고가 아무런 혜택 없이 가격만 올린다고 보는 유혹(생각)'을 가리킵니다. 왜 ④ 자리에서 반전시킨 뒤 신제품 정보 제공 역할을 설명할까요?"
+  },
+  {
+    "id": "p-12-q06",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn't account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to ________________________. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "eliminate competing businesses on the same street",
+      "inform their customers about new products and services",
+      "lower the production costs of fast-food meals",
+      "standardize all products to reduce consumer confusion",
+      "avoid competing on product quality or variety"
+    ],
+    "answer": 1,
+    "explanation": "구문: 바로 뒤 문장의 'consumers also gain information to help make purchasing decisions'가 결정적 단서입니다. 기업이 광고를 통해 고객에게 전달하는 핵심은 무엇일까요?"
+  },
+  {
+    "id": "p-12-q07",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn't account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.\n\n[요약문]\nAlthough advertising in competitive markets increases product (A)________, it provides consumers with valuable purchasing (B)________ and greater product variety that closely matches their preferences.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) prices - (B) information",
+      "(A) scarcity - (B) subsidies",
+      "(A) prices - (B) restrictions",
+      "(A) quality - (B) confusion",
+      "(A) uniformity - (B) information"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'driving up the price / costs rise'는 'increases product prices'로, 'gain information'은 'purchasing information'으로 요약되었습니다. 왜 ⓐ가 양보절과 주절의 균형을 맞출까요?"
+  },
+  {
+    "id": "p-12-q08",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "If you drive down a busy street, you will find many ① competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fast-food restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any ② benefit to the consumer. However, this ③ misconception doesn't account for why firms advertise. In markets where competitors sell slightly ④ identical products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added ⑤ variety, and we all get a product that's pretty close to our vision of a perfect good ─ and no other market structure delivers that outcome.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 뒤에서 소비자가 '추가된 다양성(added variety)'의 혜택을 누린다고 했으므로 경쟁사들은 완전히 똑같은(identical) 상품이 아니라 '차별화된(differentiated)' 상품을 팔아야 합니다. 왜 ④가 반의어일까요?"
+  },
+  {
+    "id": "p-12-q09",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "경쟁사들이 약간 차별화된 제품을 판매하는 시장에서, 광고는 기업들이 고객에게 새로운 제품과 서비스에 대해 알릴 수 있게 해 준다.",
+    "chunks": [
+      "In markets where competitors",
+      "sell slightly differentiated products,",
+      "advertising enables firms",
+      "to inform their customers",
+      "about new products and services."
+    ],
+    "answer": "In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services.",
+    "explanation": "구문: 관계부사 'where'가 선행사 'markets'를 수식하고, 주절에 'enable + 목적어 + to부정사(~가 …할 수 있게 하다)' 5형식 구문이 쓰였습니다. 'differentiated'는 왜 과거분사 형태일까요?"
+  },
+  {
+    "id": "p-12-q10",
+    "passageId": "p-12",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 11번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "The temptation is to see advertising as ",
+      " up the price of a product without any benefit to the consumer. Yes, costs rise, but consumers also gain information ",
+      " make purchasing decisions."
+    ],
+    "choices": [
+      [
+        "drive",
+        "driving"
+      ],
+      [
+        "help",
+        "to help"
+      ]
+    ],
+    "answers": [
+      "driving",
+      "to help"
+    ],
+    "explanation": "문법: ① 'see A as B(A를 B로 여기다)'에서 'as'는 전치사이므로 동명사 'driving'이 옵니다. ② 명사 'information'을 뒤에서 수식해 목적을 나타내는 자리이므로 왜 'to help'를 쓸까요?"
+  }
+]

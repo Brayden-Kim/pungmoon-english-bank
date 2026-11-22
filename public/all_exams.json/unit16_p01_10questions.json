@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p-01-q01",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Ancient Civilizations Preferred Stone Over Wood",
+      "How Soft Paper Became the Dominant Guardian of Written Knowledge",
+      "The Decline of Oral Traditions in the Roman Empire",
+      "Various Methods of Preserving Ancient Wall Paintings",
+      "Why Scrolls Remained Superior to the Roman Codex"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'That paper ... won out as the guardian of the written word'가 주어절입니다. 왜 돌·나무보다 연약한 종이가 최종 승자가 되었는지 필자의 핵심 결론을 확인해 보세요."
+  },
+  {
+    "id": "p-01-q02",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "difficulties of transporting heavy clay tablets in ancient trade",
+      "the role of apprenticeships in passing down oral stories and songs",
+      "the evolution of writing materials culminating in paper and the codex",
+      "environmental factors causing the rapid decay of wooden records",
+      "the four great inventions of China and their impact on modern printing"
+    ],
+    "answer": 2,
+    "explanation": "구문: 'The transition from A to B was held back by ~' 구조에 주목하세요. 돌·나무·벽화의 한계를 넘어 종이와 코덱스(책)로 발전한 글의 전체 흐름을 왜 하나로 묶어야 할까요?"
+  },
+  {
+    "id": "p-01-q03",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, <u>won out as the guardian of the written word</u> is a remarkable materials story.",
+    "question": "밑줄 친 'won out as the guardian of the written word'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "became the strongest physical shield to protect ancient libraries from fire",
+      "survived as the primary and lasting medium for preserving written records",
+      "completely eliminated the need for spoken communication in human society",
+      "proved to be physically harder and more durable than stone or clay",
+      "allowed only wealthy Roman citizens to access written knowledge"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'it is still a dominant form of the written word'와 연결해 보세요. 물리적으로 부드러운 종이가 왜 '문자의 수호자'로 승리했다고 비유했을까요?"
+  },
+  {
+    "id": "p-01-q04",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material.\n\n(A) The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential.\n(B) Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited.\n(C) That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: (A)의 'solved these problems'가 가리키는 대상이 무엇인지 찾아보세요. 왜 (B)의 돌·나무·벽화의 단점들이 먼저 나열되어야 (A)가 이어질 수 있을까요?"
+  },
+  {
+    "id": "p-01-q05",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThe invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential.\n\nThe transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. ( ① ) Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. ( ② ) Wood suffers from splitting and is susceptible to decay. ( ③ ) Wall paintings are static and space is limited. ( ④ ) That was two thousand years ago, and it is still a dominant form of the written word. ( ⑤ ) That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 'it wasn't until A that B' 강조구문과 ④ 뒤의 'That was two thousand years ago'를 연결해 보세요. 'That'이 가리키는 시점이 왜 로마인의 코덱스 도입일까요?"
+  },
+  {
+    "id": "p-01-q06",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by ________________________. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the absence of a standardized spoken language",
+      "the lack of suitable writing material",
+      "people's reluctance to abandon oral storytelling",
+      "the high cost of importing Chinese silk and paper",
+      "frequent wars that destroyed ancient libraries"
+    ],
+    "answer": 1,
+    "explanation": "구문: 수동태 'was held back by ~'의 행위자(원인) 자리입니다. 뒤이어 돌·점토·나무·벽화의 물리적 결함이 나열되는 이유는 무엇이 부족했기 때문일까요?"
+  },
+  {
+    "id": "p-01-q07",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of suitable writing material. Stone and clay tablets were used, but they were prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is susceptible to decay. Wall paintings are static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.\n\n[요약문]\nAlthough early writing materials had physical (A)________ that delayed the shift to a literate culture, the invention of paper and the Roman adoption of the book format allowed it to become the (B)________ medium for written records.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) advantages - (B) temporary",
+      "(A) limitations - (B) dominant",
+      "(A) flexibility - (B) obsolete",
+      "(A) durability - (B) secondary",
+      "(A) similarities - (B) fragile"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'Although ~, S + V' 양보절과 주절의 대조 관계를 보세요. 초기 재료의 한계(limitations)를 극복하고 종이가 지배적인(dominant) 매체가 된 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-01-q08",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "The transition from an oral culture, in which knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, was held back for centuries by the lack of ① suitable writing material. Stone and clay tablets were used, but they were ② prone to fracture and were bulky and heavy to transport. Wood suffers from splitting and is ③ resistant to decay. Wall paintings are ④ static and space is limited. The invention of paper, said to be one of the four great inventions of the Chinese, solved these problems, but it wasn't until the Romans replaced the scroll with the codex ─ or, as we call it now, the book ─ that the material reached its full potential. That was two thousand years ago, and it is still a ⑤ dominant form of the written word. That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 'suffers from splitting and is ~ to decay'에서 병렬 연결된 두 서술어 모두 나무의 단점을 말해야 합니다. 왜 부패에 강한(resistant) 것이 아니라 취약한(susceptible)이 와야 할까요?"
+  },
+  {
+    "id": "p-01-q09",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "돌이나 나무보다 훨씬 더 부드러운 재료인 종이가 문자의 수호자로서 최종 승리했다는 것은 놀라운 재료 이야기이다.",
+    "chunks": [
+      "That paper,",
+      "a much softer material",
+      "than either stone or wood,",
+      "won out",
+      "as the guardian of the written word",
+      "is a remarkable materials story."
+    ],
+    "answer": "That paper, a much softer material than either stone or wood, won out as the guardian of the written word is a remarkable materials story.",
+    "explanation": "구문: 접속사 'That'이 이끄는 명사절 전체가 주어 역할을 하며 단수 동사 'is'로 이어집니다. 삽입된 동격 어구('a much softer ~')가 어디에 위치해야 문장이 매끄러울까요?"
+  },
+  {
+    "id": "p-01-q10",
+    "passageId": "p-01",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 학평ANALYSIS",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "The transition from an oral culture, ",
+      " knowledge was handed down through stories, songs, and apprenticeships, to a literate one, based on the written word, ",
+      " held back for centuries by the lack of suitable writing material."
+    ],
+    "choices": [
+      [
+        "which",
+        "in which"
+      ],
+      [
+        "was",
+        "were"
+      ]
+    ],
+    "answers": [
+      "in which",
+      "was"
+    ],
+    "explanation": "문법: ① 뒤 문장('knowledge was handed down')이 완전하므로 'in which(=where)'가 필요합니다. ② 문장의 진짜 주어는 단수 명사 'The transition'이므로 왜 'was'가 와야 할까요?"
+  }
+]

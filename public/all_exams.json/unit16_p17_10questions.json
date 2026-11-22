@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-17-q01",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why the Human Genome Project Failed to Explain Brain Complexity",
+      "Genes and Experience: How the Brain Completes Its Development",
+      "The Role of Eighty-Six Billion Neurons in Early Childhood Memory",
+      "Why Social Programs Cannot Overcome Genetic Limitations",
+      "How Biologists Discovered Hundreds of Thousands of Human Genes"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'build incompletely and let world experience refine'이 유전자의 영리한 전략입니다. 왜 약 2만 개의 적은 유전자만으로 복잡한 뇌를 완성하기 위해 환경과 경험이 필수적일까요?"
+  },
+  {
+    "id": "p-17-q02",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the necessity of environmental experiences in refining genetically incomplete brain development",
+      "methods used by biologists to count human genes during the Human Genome Project",
+      "reasons why human brains contain more neurons than those of other species",
+      "the financial cost of maintaining social protection programs for young children",
+      "how DNA mutations alter the basic structure of the human nervous system"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'brains require the right kind of environment if they are to correctly develop'와 마지막 문장을 연결해 보세요. 유전자가 뇌를 미완성 상태로 설계한 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-17-q03",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: <u>build incompletely and let world experience refine</u>.",
+    "question": "밑줄 친 'build incompletely and let world experience refine'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "design a basic neural framework genetically and allow environmental interactions to shape its final wiring",
+      "rely solely on DNA instructions while blocking external sensory influences during childhood",
+      "produce excess genes after birth to compensate for early developmental mistakes",
+      "eliminate unnecessary neurons automatically without any input from the surrounding world",
+      "delay all brain growth until children are old enough to understand social programs"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'such a small recipe book(적은 유전자 수)'의 한계를 극복하는 방법입니다. 유전자가 기초 골격만 만들고 세상 경험이 다듬게(refine) 하는 것이 왜 효율적인 전략일까요?"
+  },
+  {
+    "id": "p-17-q04",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop.\n\n(A) So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.\n(B) This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required.\n(C) When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 4,
+    "explanation": "구문: (C)에서 'twenty thousand genes'라는 놀라운 수치가 등장한 뒤, (B)가 'This number'로 받아 생물학자들이 놀란 이유를 설명합니다. 그다음 왜 (A)가 'such a small recipe book'으로 질문을 던져 결론을 내릴까요?"
+  },
+  {
+    "id": "p-17-q05",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThis number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required.\n\nIf DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. ( ① ) But brains require the right kind of environment if they are to correctly develop. ( ② ) When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. ( ③ ) So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? ( ④ ) The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'This number'는 ② 뒤 문장의 '약 2만 개의 유전자(twenty thousand genes)'를 가리킵니다. 왜 ③ 자리에 들어가야 뒤 문장의 'such a small recipe book'과 자연스럽게 이어질까요?"
+  },
+  {
+    "id": "p-17-q06",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require ________________________ if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "hundreds of thousands of additional genes",
+      "the right kind of environment",
+      "complete isolation from external stimuli",
+      "a fully finished genetic blueprint at birth",
+      "minimal interaction with social programs"
+    ],
+    "answer": 1,
+    "explanation": "구문: 첫 문장의 가정법과 역접 'But'으로 연결되는 핵심 주제문입니다. DNA만으로 충분하지 않다면 뇌가 올바르게 발달하기 위해 무엇이 반드시 필요할까요?"
+  },
+  {
+    "id": "p-17-q07",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.\n\n[요약문]\nBecause humans possess far fewer (A)________ than needed to fully wire our complex brains, our genome relies on an incomplete initial blueprint that must be refined by environmental (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) genes - (B) experience",
+      "(A) neurons - (B) isolation",
+      "(A) genes - (B) mutations",
+      "(A) programs - (B) inheritance",
+      "(A) cells - (B) protection"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'only about twenty thousand genes'와 'let world experience refine'이 요약문의 빈칸 (A), (B)에 각각 대응합니다. 왜 ⓐ가 유전자와 환경의 상호작용을 정확히 담았을까요?"
+  },
+  {
+    "id": "p-17-q08",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "If DNA were the only thing that mattered, there would be no particular reason to build ① meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of ② environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great ③ surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the ④ simplicity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty-six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build ⑤ incompletely and let world experience refine.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 수십만 개의 유전자가 필요할 것이라고 추정했던 이유는 뇌와 신체가 단순해서(simplicity)가 아니라 '복잡하기(complexity)' 때문입니다. 뒤 문장의 'massively complicated brain'과도 왜 연결될까요?"
+  },
+  {
+    "id": "p-17-q09",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "만약 DNA가 중요한 유일한 것이라면, 아이들에게 좋은 경험을 불어넣고 나쁜 경험으로부터 그들을 보호하기 위한 의미 있는 사회 프로그램을 만들 특별한 이유가 없을 것이다.",
+    "chunks": [
+      "If DNA were the only thing that mattered,",
+      "there would be no particular reason",
+      "to build meaningful social programs",
+      "to pour good experiences into children",
+      "and protect them from bad experiences."
+    ],
+    "answer": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences.",
+    "explanation": "구문: 현재 사실의 반대를 가정하는 가정법 과거('If + 주어 + were ~, 주어 + would + 동사원형') 구문입니다. 'to pour ~ and (to) protect ~'가 병렬 연결된 이유를 확인해 보세요."
+  },
+  {
+    "id": "p-17-q10",
+    "passageId": "p-17",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 16번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "So how does the massively complicated brain, with its eighty-six billion neurons, get ",
+      " from such a small recipe book? The answer relies on a clever strategy ",
+      " by the genome."
+    ],
+    "choices": [
+      [
+        "build",
+        "built"
+      ],
+      [
+        "implementing",
+        "implemented"
+      ]
+    ],
+    "answers": [
+      "built",
+      "implemented"
+    ],
+    "explanation": "문법: ① 'get + 과거분사(built)'는 수동의 의미를 나타내며 뇌가 '만들어지는' 대상이므로 'built'가 옵니다. ② 수식받는 'a clever strategy'는 유전체에 의해 '실행되는' 대상이므로 왜 과거분사 'implemented'를 쓸까요?"
+  }
+]

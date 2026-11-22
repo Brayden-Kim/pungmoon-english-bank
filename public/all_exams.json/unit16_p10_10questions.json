@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p-10-q01",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Electronic Reporting Reduces Healthcare Costs for the Elderly",
+      "The Clash Between Cost-Control Management and Relationship-Based Care",
+      "Why Home Care Workers Need Better Technological Training",
+      "Strategies for Improving Client Satisfaction in Home Care Services",
+      "The Rising Demand for Elderly Care in Aging Societies"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'in the perception of managers'와 'The home care workers, on the other hand'의 대조를 보세요. 관리자의 효율 통제 시스템과 돌봄 노동자의 관계 중심 서비스가 왜 충돌할까요?"
+  },
+  {
+    "id": "p-10-q02",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "ways to minimize budget deficits in public home care agencies",
+      "conflicting perspectives on management systems between care managers and workers",
+      "the benefits of electronic tracking tools for monitoring worker productivity",
+      "how elderly clients build emotional bonds with their caregivers",
+      "legal requirements for reporting daily medical care activities"
+    ],
+    "answer": 1,
+    "explanation": "구문: 관리자는 시스템을 '문제 해결의 기여'로 보지만, 노동자는 '필요한 서비스 제공의 장애물'로 여깁니다. 두 집단의 시각 차이가 왜 갈등을 낳을까요?"
+  },
+  {
+    "id": "p-10-q03",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as <u>a service to be provided to a client with whom they may have developed a relationship</u>. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+    "question": "밑줄 친 'a service to be provided to a client with whom they may have developed a relationship'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "strictly timed medical procedures performed without personal interaction",
+      "holistic human care grounded in emotional connection and personal concern",
+      "standardized tasks designed to maximize financial efficiency for agencies",
+      "administrative reporting duties required to document client health",
+      "temporary assistance aimed at reducing caregivers' emotional attachment"
+    ],
+    "answer": 1,
+    "explanation": "구문: 다음 문장의 'having conversations with clients and enquiring about the person's well-being'이 구체적 내용입니다. 단순 과업 수행을 넘어선 인간적 돌봄이 왜 중요할까요?"
+  },
+  {
+    "id": "p-10-q04",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks.\n\n(A) The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being.\n(B) Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem.\n(C) Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: (B)까지 관리자의 입장을 설명한 뒤, (A)가 'on the other hand'로 노동자 입장으로 전환합니다. 그다음 왜 (C)가 'Restricted time and the requirement to report'로 앞 내용을 종합해 부작용을 말할까요?"
+  },
+  {
+    "id": "p-10-q05",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThis includes having conversations with clients and enquiring about the person's well-being.\n\nIn order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. ( ① ) These systems specify tasks of home care workers and the time and budget available to perform these tasks. ( ② ) Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. ( ③ ) This, in the view of managers, has contributed to the resolution of the problem. ( ④ ) The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. ( ⑤ ) Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 주어진 문장의 'This'는 ④ 뒤의 '관계를 맺은 고객에게 제공되는 서비스'를 가리킵니다. 대화와 안부 묻기가 왜 ⑤ 앞자리에 예시로 들어가야 자연스러울까요?"
+  },
+  {
+    "id": "p-10-q06",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "gaining greater autonomy in scheduling their visits",
+      "becoming overloaded and demotivated",
+      "reducing the overall operational costs for managers",
+      "spending more time conversing with their clients",
+      "improving the accuracy of their electronic reports"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'result in + 의미상 주어(home care workers) + 동명사' 구조입니다. 관리 시스템이 지나치게 경직될 때 돌봄 노동자들이 겪게 되는 부정적 결과는 무엇일까요?"
+  },
+  {
+    "id": "p-10-q07",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.\n\n[요약문]\nWhile managers view strict time and reporting systems as effective tools for cost (A)________, home care workers often experience them as barriers to providing relational care, leading to burnout and reduced (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) control - (B) motivation",
+      "(A) expansion - (B) efficiency",
+      "(A) control - (B) workload",
+      "(A) transparency - (B) regulation",
+      "(A) reduction - (B) supervision"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'bring ~ costs ~ under control'은 'cost control'로, 'demotivated'는 'reduced motivation'으로 요약되었습니다. 왜 ⓐ가 양측의 입장을 정확히 대조할까요?"
+  },
+  {
+    "id": "p-10-q08",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money ① visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the ② resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as ③ efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as ④ incentives that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming ⑤ overloaded and demotivated.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 뒤의 관계절 'that make it impossible to deliver the service(서비스 제공을 불가능하게 만드는)'와 호응해야 합니다. 장려책(incentives)이 아니라 장애물(obstacles)이 왜 맞을까요?"
+  },
+  {
+    "id": "p-10-q09",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "제한된 시간과 보고해야 하는 요구 사항은 필요한 서비스를 제공하는 것을 불가능하게 만드는 장애물로 인식될 수 있다.",
+    "chunks": [
+      "Restricted time and",
+      "the requirement to report",
+      "may be perceived as obstacles",
+      "that make it impossible",
+      "to deliver the service",
+      "that is needed."
+    ],
+    "answer": "Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed.",
+    "explanation": "구문: 'make + 가목적어 it + 목적격보어(impossible) + 진목적어(to deliver ~)' 구문입니다. 왜 'to deliver' 앞에 가목적어 'it'을 반드시 넣어야 할까요?"
+  },
+  {
+    "id": "p-10-q10",
+    "passageId": "p-10",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 09번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Electronic reporting systems require home care workers ",
+      " on their activities and the time spent, thus ",
+      " the distribution of time and money visible and, in the perception of managers, controllable."
+    ],
+    "choices": [
+      [
+        "reporting",
+        "to report"
+      ],
+      [
+        "make",
+        "making"
+      ]
+    ],
+    "answers": [
+      "to report",
+      "making"
+    ],
+    "explanation": "문법: ① 'require + 목적어 + to부정사' 5형식 구조이므로 'to report'가 옵니다. ② 콤마 뒤 접속사 없이 결과를 나타내는 분사구문 자리이므로 왜 'making'을 쓸까요?"
+  }
+]

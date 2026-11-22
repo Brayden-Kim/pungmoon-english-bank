@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-13-q01",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Lighting and Shadows Create Depth in 3D Sculpture",
+      "The Hollow-Face Illusion: How Expectations Shape What We See",
+      "Why the Human Brain Struggles to Recognize Unfamiliar Faces",
+      "Richard Gregory's Contributions to Modern Optical Engineering",
+      "Overcoming Visual Illusions Through Conscious Knowledge"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'how expectations shape perception'과 'perception is not a passive recording of reality, but an active construction guided by what we expect to see'를 연결하세요. 오목한 가면을 볼록하게 보는 착시가 왜 기대의 힘을 보여줄까요?"
+  },
+  {
+    "id": "p-13-q02",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the role of prior knowledge and expectations in visual perception",
+      "techniques artists use to create realistic hollow-mask sculptures",
+      "reasons why head movements eliminate three-dimensional depth cues",
+      "differences between passive photography and human eye anatomy",
+      "how infants learn to distinguish convex objects from concave ones"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data'가 핵심입니다. 평생 볼록한 얼굴만 본 사전 지식이 왜 실제 깊이 단서를 압도할까요?"
+  },
+  {
+    "id": "p-13-q03",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that <u>perception is not a passive recording of reality, but an active construction guided by what we expect to see</u>.",
+    "question": "밑줄 친 'perception is not a passive recording of reality, but an active construction guided by what we expect to see'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "our eyes capture external scenes like a camera without any mental interference",
+      "the brain actively interprets sensory input using prior experience rather than merely mirroring physical facts",
+      "visual illusions disappear once viewers consciously understand the true shape of an object",
+      "people intentionally distort reality to avoid seeing unpleasant facial expressions",
+      "sensory cues from shadows are always stronger than accumulated life experiences"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'not A but B' 구조로, 현실을 그대로 찍어내는 수동적 기록(passive recording)과 사전 기대로 재구성하는 능동적 구성(active construction)을 대조합니다. 왜 알고도 착시가 사라지지 않을까요?"
+  },
+  {
+    "id": "p-13-q04",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward.\n\n(A) Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face.\n(B) Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data.\n(C) This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 착시 현상에 이어 (B)가 착시의 지속성과 Gregory의 원리 설명을 제시합니다. (A)가 'Because ~'로 그 구체적 이유를 밝힌 뒤 왜 (C)가 'This hollow-face illusion'으로 결론지을까요?"
+  },
+  {
+    "id": "p-13-q05",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nGregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data.\n\nIn the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. ( ① ) When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. ( ② ) Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. ( ③ ) Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. ( ④ ) This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ①~②에서 속이 빈 가면 착시 현상을 묘사한 뒤, ③에서 Gregory의 핵심 원리를 제시하고, 바로 뒤 'Because ~' 문장이 그 원리의 구체적 작동 방식을 부연합니다. 왜 ③이 현상과 원인 사이의 연결점일까요?"
+  },
+  {
+    "id": "p-13-q06",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain ________________________ to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "depends purely on incoming light waves without memory",
+      "overrides the actual visual cues from shadows and depth",
+      "adjusts its expectations to match the concave surface",
+      "ignores familiar facial structures when viewing masks",
+      "eliminates all depth perception when the head moves"
+    ],
+    "answer": 1,
+    "explanation": "구문: 평생 볼록한 얼굴만 보아온 경험 때문에 익숙한 돌출 얼굴 패턴을 덧씌우려면, 실제 오목함을 알려주는 그림자와 깊이 단서를 어떻게 처리해야 할까요?"
+  },
+  {
+    "id": "p-13-q07",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.\n\n[요약문]\nAs demonstrated by the hollow-face illusion, human perception is actively (A)________ by prior experience and expectations, which can override actual (B)________ cues to produce familiar visual interpretations.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) constructed - (B) sensory",
+      "(A) erased - (B) emotional",
+      "(A) constructed - (B) auditory",
+      "(A) weakened - (B) sensory",
+      "(A) recorded - (B) imaginary"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'active construction'은 'actively constructed'로, 'actual visual cues'는 'actual sensory cues'로 요약되었습니다. 왜 ⓐ가 착시 실험의 결론을 정확히 담고 있을까요?"
+  },
+  {
+    "id": "p-13-q08",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In the 1960s, the British psychologist Richard Gregory developed a classic demonstration of how expectations shape perception, using a hollow mask of a human face. When people look at the hollow inside of the mask from a short distance, they do not see a ① concave surface curving inward; instead, they perceive a normal, three-dimensional face bulging outward. Even when viewers know the mask is hollow and move their heads from side to side, the illusion ② vanishes, making the face appear to turn and follow them. Gregory explained that our brains rely heavily on prior knowledge and expectations to interpret ③ ambiguous sensory data. Because we have spent our entire lives seeing convex faces rather than hollow ones, the brain ④ overrides the actual visual cues from shadows and depth to impose the familiar pattern of a protruding face. This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an ⑤ active construction guided by what we expect to see.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 가면 속이 비어 있다는 것을 알고 머리를 좌우로 움직여도 얼굴이 따라 도는 것처럼 보인다고 했으므로 착시는 사라지는(vanishes) 것이 아니라 '지속된다(persists)'가 맞습니다. 왜 ②가 문맥과 반대일까요?"
+  },
+  {
+    "id": "p-13-q09",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이 속이 빈 얼굴 착시는 지각이 현실의 수동적인 기록이 아니라 우리가 보기를 기대하는 것에 의해 안내되는 능동적인 구성임을 생생하게 보여 준다.",
+    "chunks": [
+      "This hollow-face illusion vividly shows",
+      "that perception is not",
+      "a passive recording of reality,",
+      "but an active construction",
+      "guided by what we expect to see."
+    ],
+    "answer": "This hollow-face illusion vividly shows that perception is not a passive recording of reality, but an active construction guided by what we expect to see.",
+    "explanation": "구문: 'not A but B(A가 아니라 B)' 상관접속사 구조와 과거분사구 'guided by what we expect to see'가 앞의 명사 'an active construction'을 수식합니다. 관계대명사 'what'은 왜 'the thing that'의 의미를 가질까요?"
+  },
+  {
+    "id": "p-13-q10",
+    "passageId": "p-13",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 12번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Even when viewers know the mask is hollow and move their heads from side to side, the illusion persists, ",
+      " the face ",
+      " to turn and follow them."
+    ],
+    "choices": [
+      [
+        "make",
+        "making"
+      ],
+      [
+        "appear",
+        "to appear"
+      ]
+    ],
+    "answers": [
+      "making",
+      "appear"
+    ],
+    "explanation": "문법: ① 콤마 뒤 접속사 없이 부대상황·결과를 나타내는 분사구문 자리이므로 'making'이 옵니다. ② 사역동사 'make + 목적어(the face) + 동사원형' 구조이므로 왜 'appear'를 쓸까요?"
+  }
+]

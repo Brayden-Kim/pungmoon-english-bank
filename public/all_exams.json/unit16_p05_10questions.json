@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p-05-q01",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How the Hippocampus Enhances Short-Term Memory Storage",
+      "The Structural Impact of Chronic Stress on the Brain's Hippocampus",
+      "Practical Ways to Activate the Parasympathetic Nervous System",
+      "Why Cortisol Is Essential for Daily Mood Regulation",
+      "Physical Diseases Caused by Acute Emotional Trauma"
+    ],
+    "answer": 1,
+    "explanation": "구문: 첫 문장의 'affects ~ the very structure of our brains'와 해마(hippocampus)의 크기 감소·오작동을 연결하세요. 왜 만성 스트레스가 뇌 구조를 물리적으로 변화시킬까요?"
+  },
+  {
+    "id": "p-05-q02",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the role of long-term memory in predicting future physical illnesses",
+      "how long-lasting stress shrinks and disrupts the hippocampus",
+      "differences between sympathetic and parasympathetic nervous responses",
+      "methods for measuring cortisol levels in healthy individuals",
+      "evolutionary benefits of the fight, flight, or freeze response"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'a smaller hippocampus'와 'chronic stress can confuse the hippocampus'가 핵심입니다. 스트레스에 저항하도록 돕는 해마가 왜 만성 스트레스 앞에서는 혼란에 빠질까요?"
+  },
+  {
+    "id": "p-05-q03",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can <u>trap you in a constant state of fight, flight, or freeze</u>.",
+    "question": "밑줄 친 'trap you in a constant state of fight, flight, or freeze'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "prevent your brain from storing any new memories of dangerous events",
+      "keep your body locked in an ongoing emergency stress response without recovery",
+      "force you to make overly rational decisions during sudden crises",
+      "permanently shut down both your sympathetic and parasympathetic systems",
+      "make you completely insensitive to actual threats in your environment"
+    ],
+    "answer": 1,
+    "explanation": "구문: 코르티솔 신호를 '끄지(off) 않고 켜게(on)' 만든다는 앞절이 원인입니다. 스트레스 호르몬 스위치가 계속 켜져 있으면 왜 몸이 비상 경계 상태에 갇히게 될까요?"
+  },
+  {
+    "id": "p-05-q04",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful.\n\n(A) It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems.\n(B) One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation.\n(C) But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글의 'A number of studies'를 (B)가 'One study'로 구체화합니다. (B)에서 해마의 첫 번째 기능을 말한 뒤 왜 (A)가 'It also helps~'로 추가 기능을 이어받을까요?"
+  },
+  {
+    "id": "p-05-q05",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWhy does this matter?\n\nStress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. ( ① ) A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. ( ② ) One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. ( ③ ) This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. ( ④ ) It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. ( ⑤ ) It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 문장의 'this'는 ② 뒤의 '장기 스트레스 경험자의 더 작은 해마'라는 연구 결과를 가리킵니다. 왜 ③ 자리에서 질문을 던진 후 해마의 중요성을 설명해야 할까요?"
+  },
+  {
+    "id": "p-05-q06",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Stress not only affects physical disease but also ________________________, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "enhances our ability to regulate daily moods",
+      "the very structure of our brains",
+      "reduces the production of cortisol in the body",
+      "protects the hippocampus from long-term damage",
+      "balances our sympathetic and parasympathetic systems"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'not only A but also B' 상관접속사 구조에서 명사구 'physical disease'와 병렬을 이루는 자리입니다. 해마 크기가 작아진다는 연구 결과는 뇌의 무엇이 변한다는 뜻일까요?"
+  },
+  {
+    "id": "p-05-q07",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain resilient in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.\n\n[요약문]\nChronic stress physically (A)________ the hippocampus—a brain region vital for stress resilience and nervous system regulation—thereby (B)________ its cortisol control and leaving the body stuck in a survival response.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) shrinks - (B) disrupting",
+      "(A) expands - (B) restoring",
+      "(A) strengthens - (B) confusing",
+      "(A) shrinks - (B) stabilizing",
+      "(A) protects - (B) activating"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'a smaller hippocampus'는 'shrinks(축소시키다)'로, 'confuse the hippocampus'는 'disrupting(교란하다)'으로 요약되었습니다. 왜 ⓐ가 인과관계에 부합할까요?"
+  },
+  {
+    "id": "p-05-q08",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a ① drained brain. A number of studies have been done to reveal what happens in healthy people's brains when they go through something stressful. One study demonstrated a link between a ② smaller hippocampus and people who had experienced long-lasting stress. Why does this matter? This part of the brain helps you remain ③ vulnerable in the face of stress and is involved in mood regulation. It also helps you to monitor the safety of your environment and store ④ dangerous images in your long-term memory so you can avoid them in the future. It does all these things as part of its duties of regulating your sympathetic and parasympathetic nervous systems. But chronic stress can ⑤ confuse the hippocampus and lead to turning signals for cortisol \"on\" instead of \"off,\" which can trap you in a constant state of fight, flight, or freeze.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 건강한 해마가 원래 수행하는 긍정적 기능을 설명하는 문장입니다. 스트레스 앞에서 취약하게(vulnerable) 만드는 것이 아니라 회복탄력적으로(resilient) 유지하도록 돕지 않을까요?"
+  },
+  {
+    "id": "p-05-q09",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "스트레스는 신체적 질병뿐만 아니라 우리 뇌의 구조 자체에도 영향을 미쳐, 우리가 기진맥진한 뇌를 경험할 가능성을 훨씬 더 높인다.",
+    "chunks": [
+      "Stress not only affects",
+      "physical disease",
+      "but also the very structure",
+      "of our brains,",
+      "making us even more likely",
+      "to experience a drained brain."
+    ],
+    "answer": "Stress not only affects physical disease but also the very structure of our brains, making us even more likely to experience a drained brain.",
+    "explanation": "구문: 콤마 뒤 분사구문 'making us ~ likely to V(우리가 ~할 가능성을 더 높게 만들면서)'가 연속 동작/결과를 나타냅니다. 비교급 'more' 앞에서 'even'은 왜 '훨씬'이라는 강조 역할을 할까요?"
+  },
+  {
+    "id": "p-05-q10",
+    "passageId": "p-05",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 04번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "But chronic stress can confuse the hippocampus and lead to ",
+      " signals for cortisol \"on\" instead of \"off,\" ",
+      " can trap you in a constant state of fight, flight, or freeze."
+    ],
+    "choices": [
+      [
+        "turn",
+        "turning"
+      ],
+      [
+        "that",
+        "which"
+      ]
+    ],
+    "answers": [
+      "turning",
+      "which"
+    ],
+    "explanation": "문법: ① 'lead to'의 'to'는 전치사이므로 뒤에 동명사 'turning'이 옵니다. ② 콤마(,) 뒤에서 앞 절 전체를 선행사로 받는 계속적 용법의 관계대명사는 왜 'which'일까요?"
+  }
+]

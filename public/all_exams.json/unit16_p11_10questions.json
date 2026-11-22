@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p-11-q01",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "The size of a species is not accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Marine Animals Grew 150 Times Larger Over Millions of Years",
+      "Rising Temperatures Are Causing Animals Around the World to Shrink",
+      "How Chamois Goats Survive Harsh Winters in the Italian Alps",
+      "The Evolutionary Advantages of Having a Larger Body Size",
+      "Dietary Changes Among Alpine Animals Since the 1980s"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'many animals are shrinking ~ and one major cause appears to be the heat'가 핵심입니다. 수억 년간 커지던 동물들의 몸집이 왜 최근 작아지고 있을까요?"
+  },
+  {
+    "id": "p-11-q02",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "The size of a species is not accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the historical factors behind the rapid growth of marine species",
+      "the impact of global warming on the decreasing body size of animals",
+      "strategies animals use to find food in extreme mountain climates",
+      "why environmental changes rarely affect the physical size of species",
+      "the competition for food resources among goats in the Italian Alps"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'a fine-tuned interaction between a species and the world it inhabits'가 전제입니다. 기온 상승이라는 환경 변화가 동물의 섭식 행동과 크기에 왜 영향을 미쳤을까요?"
+  },
+  {
+    "id": "p-11-q03",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "The size of a species is not accidental. It's <u>a fine-tuned interaction between a species and the world it inhabits</u>. Over large periods of time, size fluctuations have often signalled significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "밑줄 친 'a fine-tuned interaction between a species and the world it inhabits'가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "a random genetic mutation unrelated to surrounding climate conditions",
+      "an adaptive adjustment of an organism's physical traits to its environment",
+      "an effort by animals to deliberately alter the temperature of their habitat",
+      "a fixed biological characteristic that remains unchanged over millions of years",
+      "a competitive struggle among different species living in the same ecosystem"
+    ],
+    "answer": 1,
+    "explanation": "구문: 첫 문장 'not accidental(우연이 아니다)'과 연결해 보세요. 종의 크기가 서식 환경과 '정교하게 조율된 상호작용'이라는 것은 환경에 맞춘 적응 결과라는 뜻이 아닐까요?"
+  },
+  {
+    "id": "p-11-q04",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "The size of a species is not accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment.\n\n(A) But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat.\n(B) Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.\n(C) Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 3,
+    "explanation": "구문: (C)에서 과거의 대형화 경향('the trend')을 제시한 뒤, (A)가 'changes in this trend'로 반전시킵니다. 그다음 왜 (B)가 'for example'로 샤모아 염소 사례를 들었을까요?"
+  },
+  {
+    "id": "p-11-q05",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nBut we are beginning to see changes in this trend.\n\nThe size of a species is not accidental. ( ① ) It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment. ( ② ) Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. ( ③ ) It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. ( ④ ) Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. ( ⑤ ) Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 'this trend'는 ②~③에서 설명한 '동물의 몸집이 커지는 경향'을 가리킵니다. ④ 뒤에서부터 동물들이 작아지고 있다는 반대 흐름이 시작되므로 왜 ④가 정답일까요?"
+  },
+  {
+    "id": "p-11-q06",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "The size of a species is not accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be ________________________. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the scarcity of marine habitats",
+      "the heat",
+      "genetic isolation in mountain areas",
+      "an increase in natural predators",
+      "competition over shrinking territories"
+    ],
+    "answer": 1,
+    "explanation": "구문: 바로 다음 문장의 'temperatures rise by three to four degrees Celsius'와 'To avoid overheating'이 결정적 근거입니다. 샤모아 염소가 먹이 활동을 줄인 직접 원인은 무엇일까요?"
+  },
+  {
+    "id": "p-11-q07",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "The size of a species is not accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days resting rather than searching for food, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.\n\n[요약문]\nReversing a long evolutionary trend toward larger bodies, many animal species are now (A)________ in size as rising temperatures force them to reduce (B)________ activity to prevent overheating.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) shrinking - (B) foraging",
+      "(A) expanding - (B) resting",
+      "(A) shrinking - (B) reproductive",
+      "(A) stabilizing - (B) foraging",
+      "(A) migrating - (B) metabolic"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'getting smaller'는 'shrinking'으로, 'searching for food'는 'foraging(먹이 찾기)'으로 압축되었습니다. 왜 더위를 피하려는 행동이 크기 감소로 이어졌을까요?"
+  },
+  {
+    "id": "p-11-q08",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "The size of a species is not ① accidental. It's a fine-tuned interaction between a species and the world it inhabits. Over large periods of time, size fluctuations have often signalled ② significant changes in the environment. Generally speaking, over the last five hundred million years, the trend has been towards animals getting larger. It's particularly notable in marine animals, whose average body size has ③ increased 150-fold in this time. But we are beginning to see changes in this trend. Scientists have discovered that many animals are ④ shrinking. Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat. Animals living in the Italian Alps, for example, have seen temperatures rise by three to four degrees Celsius since the 1980s. To avoid overheating, chamois goats now spend more of their days ⑤ searching for food rather than resting, and as a result, in just a few decades, the new generations of chamois are 25 percent smaller.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 과열을 피하려면 활동량을 줄여야 하므로 먹이를 찾는 것(searching for food)보다 휴식하는(resting) 데 더 많은 시간을 써야 합니다. 왜 ⑤는 앞뒤 단어가 바뀌었을까요?"
+  },
+  {
+    "id": "p-11-q09",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "전 세계적으로 모든 범주의 종들이 더 작아지고 있는 것으로 발견되었으며, 한 가지 주요 원인은 더위인 것으로 보인다.",
+    "chunks": [
+      "Around the world,",
+      "species in every category",
+      "have been found",
+      "to be getting smaller,",
+      "and one major cause",
+      "appears to be the heat."
+    ],
+    "answer": "Around the world, species in every category have been found to be getting smaller, and one major cause appears to be the heat.",
+    "explanation": "구문: 'have been found + to be getting(진행형 부정사)'은 '현재 ~하고 있는 것으로 발견되어 왔다'는 의미입니다. 왜 단순 부정사 대신 진행형 부정사를 썼는지 시제 느낌을 살펴보세요."
+  },
+  {
+    "id": "p-11-q10",
+    "passageId": "p-11",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 10번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "It's particularly notable in marine animals, ",
+      " average body size has increased 150-fold in this time. To avoid overheating, chamois goats now spend more of their days ",
+      " rather than searching for food."
+    ],
+    "choices": [
+      [
+        "which",
+        "whose"
+      ],
+      [
+        "resting",
+        "to rest"
+      ]
+    ],
+    "answers": [
+      "whose",
+      "resting"
+    ],
+    "explanation": "문법: ① 선행사 'marine animals'의 '평균 몸집(average body size)'이라는 소유 관계이므로 소유격 관계대명사 'whose'가 옵니다. ② 'spend + 시간 + -ing' 관용표현이므로 왜 'resting'을 쓸까요?"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "p-08-q01",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Magicians Train Their Hands to Move Faster Than the Eye",
+      "Looking Without Seeing: The Brain's Energy-Saving Visual Filter",
+      "Why Human Brains Consume More Calories Than Any Other Organ",
+      "Effective Driving Habits to Prevent Pedestrian Traffic Accidents",
+      "Recent Breakthroughs in Neuroscience on Visual Attention"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'fixing your gaze on something is no guarantee of seeing it'과 에너지 효율성 개념을 연결해 보세요. 눈이 대상을 향해 있어도 뇌가 보지 못하는 이유는 무엇일까요?"
+  },
+  {
+    "id": "p-08-q02",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "methods magicians use to deceive neuroscientists during experiments",
+      "the selective visual processing of the brain to conserve energy",
+      "ways to increase calorie intake to improve brain concentration",
+      "legal responsibilities of drivers in plain-view traffic collisions",
+      "differences between human vision and animal sensory systems"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'processing only the minimum amount of information ~ to navigate the world'가 핵심입니다. 뇌가 감각 정보의 최소한만 처리하는 근본 원인은 무엇일까요?"
+  },
+  {
+    "id": "p-08-q03",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. <u>Their actions should give away the game</u>, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.",
+    "question": "밑줄 친 'Their actions should give away the game'이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "their hand movements ought to expose the secret of their tricks",
+      "their performance should entertain the audience until the end",
+      "their tricks require hiding objects completely out of sight",
+      "their gestures force spectators to lose interest in the show",
+      "their speed makes it physically impossible for eyes to track them"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장의 'perform tricks with their hands in full view(훤히 보이는 곳에서 트릭을 행하다)'와 역접 'but'을 보세요. 다 보이는 손동작이 원래라면 무엇을 드러내야 마땅할까요?"
+  },
+  {
+    "id": "p-08-q04",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world.\n\n(A) This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.\n(B) Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago.\n(C) By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 2,
+    "explanation": "구문: (B)의 'Magicians'를 (C)가 'they'와 'their attention'으로 받아 구체화합니다. 그다음 왜 (A)가 'This all helps to explain ~'로 현실의 교통사고 사례까지 확장할까요?"
+  },
+  {
+    "id": "p-08-q05",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nMagicians figured this out long ago.\n\nBrains are expensive in terms of energy. ( ① ) Twenty percent of the calories we consume are used to power the brain. ( ② ) So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. ( ③ ) Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. ( ④ ) By directing your attention, they perform tricks with their hands in full view. ( ⑤ ) Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 주어진 문장의 'this'는 ③ 뒤의 '시선을 고정한다고 해서 보는 것이 보장되지는 않는다'는 사실을 가리키며, ④ 뒤의 'they'가 마술사들을 받습니다. 왜 ④가 유일한 연결고리일까요?"
+  },
+  {
+    "id": "p-08-q06",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the brain isn't seeing what's really out there",
+      "pedestrians fail to notice oncoming vehicles",
+      "the eyes are unable to focus on moving objects",
+      "drivers consume too much energy while driving",
+      "the visual scene contains too few sensory details"
+    ],
+    "answer": 0,
+    "explanation": "구문: 역접 접속사 'but'을 사이에 두고 '눈은 올바른 방향을 향하고 있다(the eyes are pointed ~)'와 대조되는 내용입니다. 시선 고정과 실제 인지의 불일치를 어떻게 표현했을까요?"
+  },
+  {
+    "id": "p-08-q07",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.\n\n[요약문]\nTo conserve (A)________, the brain selectively processes only minimal sensory input, meaning that simply looking at an object does not guarantee conscious (B)________ of it.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) energy - (B) perception",
+      "(A) time - (B) manipulation",
+      "(A) energy - (B) distortion",
+      "(A) memory - (B) avoidance",
+      "(A) attention - (B) exaggeration"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'energy-efficient'는 'conserve energy'로, 'guarantee of seeing it'은 'guarantee conscious perception'으로 재진술되었습니다. 왜 ⓐ가 글 전체를 관통할까요?"
+  },
+  {
+    "id": "p-08-q08",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Brains are ① expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the ② minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren't the first to discover that fixing your gaze on something is no ③ guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only ④ small bits of the visual scene. This all helps to explain the ⑤ rarity of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn't seeing what's really out there.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 운전자가 훤히 보이는 보행자를 치거나 바로 앞 차와 충돌하는 사고가 흔하게 발생하는 이유를 설명하고 있습니다. 희귀함(rarity)이 아니라 만연함(prevalence)이 왜 맞을까요?"
+  },
+  {
+    "id": "p-08-q09",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "신경과학자들이 무언가에 시선을 고정하는 것이 그것을 보는 것을 보장하지 않는다는 사실을 처음 발견한 것은 아니었다.",
+    "chunks": [
+      "Neuroscientists weren't the first",
+      "to discover that",
+      "fixing your gaze on something",
+      "is no guarantee",
+      "of seeing it."
+    ],
+    "answer": "Neuroscientists weren't the first to discover that fixing your gaze on something is no guarantee of seeing it.",
+    "explanation": "구문: 'the first + to부정사(~한 최초의 사람)' 구조와 접속사 'that' 뒤의 동명사 주어 'fixing your gaze on something'을 확인하세요. 동명사 주어 뒤에 왜 단수 동사 'is'가 올까요?"
+  },
+  {
+    "id": "p-08-q10",
+    "passageId": "p-08",
+    "unit": "Unit 16",
+    "passageTitle": "Unit 16 - 07번",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "This all helps to explain the prevalence of traffic accidents ",
+      " drivers hit pedestrians in plain view, or ",
+      " with cars directly in front of them."
+    ],
+    "choices": [
+      [
+        "which",
+        "in which"
+      ],
+      [
+        "collide",
+        "colliding"
+      ]
+    ],
+    "answers": [
+      "in which",
+      "collide"
+    ],
+    "explanation": "문법: ① 선행사 'traffic accidents' 뒤에 완전한 절이 이어지므로 '전치사+관계대명사(in which)'가 필요합니다. ② 주어 'drivers'의 첫 번째 동사 'hit'과 'or'로 병렬 연결되므로 왜 동사원형 'collide'를 쓸까요?"
+  }
+]
