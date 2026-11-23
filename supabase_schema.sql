@@ -18,6 +18,16 @@ create table if not exists public.student_progress (
   updated_at timestamptz not null default now()
 );
 
+alter table public.submissions
+  add column if not exists student_key text;
+
+update public.submissions
+set student_key = regexp_replace(lower(trim(coalesce(student_name, ''))), '\s+', '', 'g')
+where student_key is null or btrim(student_key) = '';
+
+alter table public.submissions
+  alter column student_key set not null;
+
 create index if not exists submissions_student_key_idx
   on public.submissions (student_key);
 create index if not exists submissions_submitted_at_idx
