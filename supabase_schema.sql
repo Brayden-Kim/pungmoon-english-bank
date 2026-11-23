@@ -11,6 +11,9 @@ create table if not exists public.submissions (
   question_results jsonb not null default '[]'::jsonb
 );
 
+alter table public.submissions
+  alter column id type text using id::text;
+
 create table if not exists public.student_progress (
   student_key text primary key,
   student_name text not null,
