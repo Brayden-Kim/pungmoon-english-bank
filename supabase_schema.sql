@@ -62,5 +62,5 @@ begin
       and tablename = 'submissions'
   ) then
     alter publication supabase_realtime add table public.submissions;
-  end;
+  end if;
 end $$;
