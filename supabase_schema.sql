@@ -95,3 +95,60 @@ begin
     alter publication supabase_realtime add table public.submissions;
   end if;
 end $$;
+
+create table if not exists public.student_submissions (
+  id text primary key,
+  exam_title text not null,
+  mode text not null,
+  student_name text not null,
+  student_key text not null,
+  submitted_at timestamptz not null,
+  total_score integer not null,
+  correct_count integer not null,
+  total_questions integer not null,
+  question_results jsonb not null default '[]'::jsonb
+);
+
+create table if not exists public.student_progress_v2 (
+  student_key text primary key,
+  student_name text not null,
+  incorrect_questions jsonb not null default '[]'::jsonb,
+  updated_at timestamptz not null default now()
+);
+
+create index if not exists student_submissions_student_key_idx
+  on public.student_submissions (student_key);
+create index if not exists student_submissions_submitted_at_idx
+  on public.student_submissions (submitted_at desc);
+
+alter table public.student_submissions enable row level security;
+alter table public.student_progress_v2 enable row level security;
+
+drop policy if exists "Allow public student submissions" on public.student_submissions;
+create policy "Allow public student submissions"
+  on public.student_submissions
+  for all
+  to anon, authenticated
+  using (true)
+  with check (true);
+
+drop policy if exists "Allow public student progress v2" on public.student_progress_v2;
+create policy "Allow public student progress v2"
+  on public.student_progress_v2
+  for all
+  to anon, authenticated
+  using (true)
+  with check (true);
+
+do $$
+begin
+  if not exists (
+    select 1
+    from pg_publication_tables
+    where pubname = 'supabase_realtime'
+      and schemaname = 'public'
+      and tablename = 'student_submissions'
+  ) then
+    alter publication supabase_realtime add table public.student_submissions;
+  end if;
+end $$;

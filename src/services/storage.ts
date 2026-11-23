@@ -146,7 +146,7 @@ class LocalStorageService {
     if (!studentName.trim()) return [];
     if (supabaseConfigured && supabase) {
       const { data, error } = await supabase
-        .from('student_progress')
+        .from('student_progress_v2')
         .select('incorrect_questions')
         .eq('student_key', this.getStudentKey(studentName))
         .maybeSingle();
@@ -193,7 +193,7 @@ class LocalStorageService {
 
   private async saveStudentProgress(studentName: string, incorrectQuestions: Question[]): Promise<void> {
     if (!supabaseConfigured || !supabase) return;
-    const { error } = await supabase.from('student_progress').upsert({
+    const { error } = await supabase.from('student_progress_v2').upsert({
       student_key: this.getStudentKey(studentName),
       student_name: studentName.trim(),
       incorrect_questions: incorrectQuestions,
@@ -206,7 +206,7 @@ class LocalStorageService {
   async getSubmissions(): Promise<StudentSubmission[]> {
     if (supabaseConfigured && supabase) {
       const { data, error } = await supabase
-        .from('submissions')
+        .from('student_submissions')
         .select('*')
         .order('submitted_at', { ascending: false });
       if (!error && data) {
@@ -238,7 +238,7 @@ class LocalStorageService {
 
   async saveSubmission(submission: StudentSubmission): Promise<void> {
     if (supabaseConfigured && supabase) {
-      const { error } = await supabase.from('submissions').upsert({
+      const { error } = await supabase.from('student_submissions').upsert({
         id: submission.id,
         exam_title: submission.examTitle,
         exam_set_id: 'bundled-all-exams',
@@ -261,7 +261,7 @@ class LocalStorageService {
 
   async deleteSubmission(id: string): Promise<void> {
     if (supabaseConfigured && supabase) {
-      const { error } = await supabase.from('submissions').delete().eq('id', id);
+      const { error } = await supabase.from('student_submissions').delete().eq('id', id);
       if (error) console.error('Failed to delete cloud submission:', error);
     }
     const submissions = await this.getLocalSubmissions();
@@ -285,7 +285,7 @@ class LocalStorageService {
       .channel('submissions-live')
       .on(
         'postgres_changes',
-        { event: '*', schema: 'public', table: 'submissions' },
+        { event: '*', schema: 'public', table: 'student_submissions' },
         onChange,
       )
       .subscribe();
