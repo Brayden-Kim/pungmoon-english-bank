@@ -6,6 +6,7 @@ import { ExamTaking } from './components/student/ExamTaking';
 import { ExamResult } from './components/student/ExamResult';
 import { TeacherDashboard } from './components/teacher/TeacherDashboard';
 import { storage } from './services/storage';
+import { supabaseConfigured } from './services/supabase';
 import { ExamSet, Question, StudentSubmission } from './types/exam';
 
 export const App: React.FC = () => {
@@ -40,6 +41,13 @@ export const App: React.FC = () => {
 
   useEffect(() => {
     loadData();
+  }, []);
+
+  useEffect(() => {
+    if (!supabaseConfigured) return;
+    return storage.subscribeToSubmissions(() => {
+      void loadData();
+    }) || undefined;
   }, []);
 
   const handleStudentNameChange = (name: string) => {

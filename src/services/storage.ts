@@ -1,5 +1,6 @@
 import { ExamSet, Question, StudentSubmission } from '../types/exam';
 import { parseAndValidateExamJson } from '../utils/jsonValidator';
+import { supabase, supabaseConfigured } from './supabase';
 
 const STORAGE_KEYS = {
   EXAM_SETS: 'pungmoon_exam_sets_v3',
@@ -137,8 +138,23 @@ class LocalStorageService {
     return `${STORAGE_KEYS.INCORRECT_VAULT_PREFIX}${cleanName}`;
   }
 
+  private getStudentKey(studentName: string): string {
+    return studentName.trim().replace(/\s+/g, '').toLowerCase();
+  }
+
   async getIncorrectQuestions(studentName: string): Promise<Question[]> {
     if (!studentName.trim()) return [];
+    if (supabaseConfigured && supabase) {
+      const { data, error } = await supabase
+        .from('student_progress')
+        .select('incorrect_questions')
+        .eq('student_key', this.getStudentKey(studentName))
+        .maybeSingle();
+      if (!error && data?.incorrect_questions) {
+        localStorage.setItem(this.getVaultKey(studentName), JSON.stringify(data.incorrect_questions));
+        return data.incorrect_questions as Question[];
+      }
+    }
     try {
       const key = this.getVaultKey(studentName);
       const data = localStorage.getItem(key);
@@ -155,7 +171,9 @@ class LocalStorageService {
     const map = new Map<string, Question>();
     current.forEach((q) => map.set(q.id, q));
     questions.forEach((q) => map.set(q.id, q));
-    localStorage.setItem(this.getVaultKey(studentName), JSON.stringify(Array.from(map.values())));
+    const updated = Array.from(map.values());
+    localStorage.setItem(this.getVaultKey(studentName), JSON.stringify(updated));
+    await this.saveStudentProgress(studentName, updated);
   }
 
   async removeCorrectQuestions(studentName: string, correctQuestionIds: string[]): Promise<void> {
@@ -164,15 +182,50 @@ class LocalStorageService {
     const removeSet = new Set(correctQuestionIds);
     const updated = current.filter((q) => !removeSet.has(q.id));
     localStorage.setItem(this.getVaultKey(studentName), JSON.stringify(updated));
+    await this.saveStudentProgress(studentName, updated);
   }
 
   async clearIncorrectVault(studentName: string): Promise<void> {
     if (!studentName.trim()) return;
     localStorage.removeItem(this.getVaultKey(studentName));
+    await this.saveStudentProgress(studentName, []);
+  }
+
+  private async saveStudentProgress(studentName: string, incorrectQuestions: Question[]): Promise<void> {
+    if (!supabaseConfigured || !supabase) return;
+    const { error } = await supabase.from('student_progress').upsert({
+      student_key: this.getStudentKey(studentName),
+      student_name: studentName.trim(),
+      incorrect_questions: incorrectQuestions,
+      updated_at: new Date().toISOString(),
+    }, { onConflict: 'student_key' });
+    if (error) console.error('Failed to save student progress:', error);
   }
 
   // ================= SUBMISSIONS =================
   async getSubmissions(): Promise<StudentSubmission[]> {
+    if (supabaseConfigured && supabase) {
+      const { data, error } = await supabase
+        .from('submissions')
+        .select('*')
+        .order('submitted_at', { ascending: false });
+      if (!error && data) {
+        const mapped = data.map((row: any) => ({
+          id: row.id,
+          examTitle: row.exam_title,
+          mode: row.mode,
+          studentName: row.student_name,
+          submittedAt: row.submitted_at,
+          totalScore: row.total_score,
+          correctCount: row.correct_count,
+          totalQuestions: row.total_questions,
+          questionResults: row.question_results || [],
+        })) as StudentSubmission[];
+        localStorage.setItem(STORAGE_KEYS.SUBMISSIONS, JSON.stringify(mapped));
+        return mapped;
+      }
+      console.error('Failed to load cloud submissions:', error);
+    }
     try {
       const data = localStorage.getItem(STORAGE_KEYS.SUBMISSIONS);
       if (!data) return [];
@@ -184,15 +237,59 @@ class LocalStorageService {
   }
 
   async saveSubmission(submission: StudentSubmission): Promise<void> {
-    const submissions = await this.getSubmissions();
+    if (supabaseConfigured && supabase) {
+      const { error } = await supabase.from('submissions').upsert({
+        id: submission.id,
+        exam_title: submission.examTitle,
+        mode: submission.mode,
+        student_name: submission.studentName,
+        student_key: this.getStudentKey(submission.studentName),
+        submitted_at: submission.submittedAt,
+        total_score: submission.totalScore,
+        correct_count: submission.correctCount,
+        total_questions: submission.totalQuestions,
+        question_results: submission.questionResults,
+      });
+      if (error) console.error('Failed to save cloud submission:', error);
+    }
+    const submissions = await this.getLocalSubmissions();
     submissions.unshift(submission);
     localStorage.setItem(STORAGE_KEYS.SUBMISSIONS, JSON.stringify(submissions));
   }
 
   async deleteSubmission(id: string): Promise<void> {
-    const submissions = await this.getSubmissions();
+    if (supabaseConfigured && supabase) {
+      const { error } = await supabase.from('submissions').delete().eq('id', id);
+      if (error) console.error('Failed to delete cloud submission:', error);
+    }
+    const submissions = await this.getLocalSubmissions();
     const filtered = submissions.filter((s) => s.id !== id);
     localStorage.setItem(STORAGE_KEYS.SUBMISSIONS, JSON.stringify(filtered));
+  }
+
+  private async getLocalSubmissions(): Promise<StudentSubmission[]> {
+    try {
+      const data = localStorage.getItem(STORAGE_KEYS.SUBMISSIONS);
+      return data ? JSON.parse(data) : [];
+    } catch {
+      return [];
+    }
+  }
+
+  subscribeToSubmissions(onChange: () => void): (() => void) | null {
+    if (!supabaseConfigured || !supabase) return null;
+    const client = supabase;
+    const channel = client
+      .channel('submissions-live')
+      .on(
+        'postgres_changes',
+        { event: '*', schema: 'public', table: 'submissions' },
+        onChange,
+      )
+      .subscribe();
+    return () => {
+      void client.removeChannel(channel);
+    };
   }
 
   // ================= TEACHER PASSWORD =================
