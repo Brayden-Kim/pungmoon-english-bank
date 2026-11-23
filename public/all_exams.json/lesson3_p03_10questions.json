@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p03-q01",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him. Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations. Eventually, silk production grew to become quite a large industry in China.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Chinese Emperors Maintained Strict Clothing Laws",
+      "From Imperial Luxury to Major Industry: The Rise of Silk in China",
+      "Why Silk Decorations Replaced Wooden Furniture in Ancient China",
+      "The Decline of Domestic Silk Consumption in Imperial Palaces",
+      "How Foreign Merchants Monopolized Chinese Silk Production"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'silk was a material reserved for the Emperor ~ Gradually, the restrictions ~ were eased ~ Eventually, silk production grew to become quite a large industry in China'를 보세요. 황실 전용품에서 대중화되며 대규모 산업으로 성장한 비단의 변화를 나타낸 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p03-q02",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him. Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations. Eventually, silk production grew to become quite a large industry in China.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the gradual spread of silk use in China and its growth into a major industry",
+      "methods artisans used to weave silk decorations for imperial palaces",
+      "reasons why commoners refused to wear silk clothing in early China",
+      "differences between royal garments and everyday household textiles",
+      "how strict sumptuary laws prevented the expansion of silk farming"
+    ],
+    "answer": 0,
+    "explanation": "구문: 황제와 측근에게만 허용되던 비단 사용 제한이 점차 완화되면서 일반 대중의 의복과 실내 장식으로 퍼져 나가 중국의 큰 산업으로 자리 잡은 과정을 종합해 보세요."
+  },
+  {
+    "id": "L3-p03-q03",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him. Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations. Eventually, silk production grew to become quite a large industry in China.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "오랜 기간 동안 비단은 황제와 그와 매우 가까운 사람들을 위해 유보된 소재였다.",
+      "누가 비단을 입고 사용할 수 있는지에 대한 제한이 점차 완화되었다.",
+      "제한이 완화된 후에도 비단은 오직 왕실의 의복 제작에만 사용되었다.",
+      "점점 더 많은 사람들이 비단옷을 입고 집을 비단 장식으로 꾸미는 모습을 볼 수 있었다.",
+      "결국 비단 생산은 중국에서 상당히 큰 산업으로 성장하게 되었다."
+    ],
+    "answer": 2,
+    "explanation": "구문: 'more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations'를 보세요. 왕실 의복에만 한정된 것이 아니라 점점 더 많은 사람들의 의복과 가정 장식에 널리 쓰였습니다."
+  },
+  {
+    "id": "L3-p03-q04",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him.\n\n(A) Eventually, silk production grew to become quite a large industry in China.\n(B) Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations.\n(C) This widespread adoption among ordinary households transformed what had once been an exclusive royal privilege into a cornerstone of domestic commerce.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 초기 황실 독점을 언급한 뒤, (B)가 'Gradually'로 제한 완화와 대중 확산을 설명하고, (A)가 'Eventually'로 대규모 산업 성장을 제시합니다."
+  },
+  {
+    "id": "L3-p03-q05",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nGradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations.\n\n( ① ) For a long time, silk was a material reserved for the Emperor and those very close to him. ( ② ) Eventually, silk production grew to become quite a large industry in China. ( ③ ) Today, historians recognize this transition as a pivotal moment in ancient Chinese economic history. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤의 황실 독점 시기와 ② 뒤의 대규모 산업 성장('Eventually ~') 사이에서 점진적인 제한 완화('Gradually ~')를 설명하는 ② 자리가 가장 자연스럽습니다."
+  },
+  {
+    "id": "L3-p03-q06",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him. Gradually, ________________________, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations. Eventually, silk production grew to become quite a large industry in China.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the restrictions on who could wear and use silk were eased",
+      "all silk workshops were closed by imperial decree",
+      "commoners were forbidden from decorating their homes",
+      "silk became too expensive for anyone outside the palace",
+      "the Emperor banned the use of silk in daily clothing"
+    ],
+    "answer": 0,
+    "explanation": "구문: 첫 문장의 황제 전용 소재에서 뒤 내용('more and more people could be seen to wear silk clothing ~')으로 전환되기 위한 조건은 착용 및 사용 제한이 완화된 것입니다."
+  },
+  {
+    "id": "L3-p03-q07",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "For a long time, silk was a material reserved for the Emperor and those very close to him. Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations. Eventually, silk production grew to become quite a large industry in China.\n\n[요약문]\nOnce strictly reserved for the Emperor and his inner circle, silk became widely used for clothing and home decor as (A)________ were relaxed, eventually developing into a major Chinese (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) restrictions - (B) industry",
+      "(A) decorations - (B) dynasty",
+      "(A) restrictions - (B) secret",
+      "(A) prices - (B) tradition",
+      "(A) emperors - (B) fabric"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'the restrictions ~ were eased'와 'quite a large industry in China'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p03-q08",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "For a long time, silk was a material ① reserved for the Emperor and those very ② close to him. Gradually, the restrictions on who could wear and use silk were ③ tightened, and more and more people could be seen to wear silk clothing and to ④ dress up their homes with silk decorations. Eventually, silk production grew to become quite a ⑤ large industry in China.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 점점 더 많은 사람들이 비단옷을 입고 집을 장식할 수 있었으므로 비단 사용에 대한 제한이 강화된(tightened) 것이 아니라 '완화되었습니다(eased)'."
+  },
+  {
+    "id": "L3-p03-q09",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "점차적으로, 누가 비단을 입고 사용할 수 있는지에 대한 제한이 완화되었고, 점점 더 많은 사람들이 비단옷을 입고 비단 장식으로 집을 꾸미는 것을 볼 수 있었다.",
+    "chunks": [
+      "Gradually, the restrictions on who could wear and use silk were eased,",
+      "and more and more people could be seen",
+      "to wear silk clothing",
+      "and to dress up their homes with silk decorations."
+    ],
+    "answer": "Gradually, the restrictions on who could wear and use silk were eased, and more and more people could be seen to wear silk clothing and to dress up their homes with silk decorations.",
+    "explanation": "구문: 전치사 'on'의 목적어로 간접의문문 'who could wear and use silk'가 쓰였고, 지각동사 수동태 'could be seen' 뒤에 두 개의 to부정사 'to wear ~ and to dress up ~'가 병렬 연결되어 있습니다."
+  },
+  {
+    "id": "L3-p03-q10",
+    "passageId": "L3-p03",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 3 (p.66 하단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "For a long time, silk was a material ",
+      " for the Emperor, and later more people could be seen ",
+      " silk clothing."
+    ],
+    "choices": [
+      [
+        "reserving",
+        "reserved"
+      ],
+      [
+        "wear",
+        "to wear"
+      ]
+    ],
+    "answers": [
+      "reserved",
+      "to wear"
+    ],
+    "explanation": "문법: ① 수식받는 'a material'이 황제를 위해 '따로 남겨진(유보된)' 수동 관계이므로 과거분사 'reserved'가 옵니다. ② 지각동사 'see'의 수동태('be seen') 뒤에는 목적격보어로 'to부정사(to wear)'를 씁니다."
+  }
+]

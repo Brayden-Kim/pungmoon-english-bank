@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p01-q01",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "The History of Early Computing Devices Before AI",
+      "The Rise of AI: Transforming Sectors and Shaping Our Future",
+      "Why Healthcare Sectors Reject Automated Medical Treatments",
+      "The Financial Risks of Investing in Self-Driving Technology",
+      "How Experts Solved Controversies Over Artificial Intelligence"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'the implementation of AI is transforming a wide range of sectors ~ it is crucial that each of us understand the rise of AI and its impacts on our world'를 보세요. AI의 부상과 다양한 분야의 혁신, 그리고 미래 형성의 중요성을 담은 제목은 무엇일까요?"
+  },
+  {
+    "id": "L4-p01-q02",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the transformative impact of AI across various fields and the necessity of understanding its rise",
+      "methods engineers use to design personalized medical treatments for patients",
+      "reasons why self-driving cars remain controversial among transportation experts",
+      "differences between healthcare and finance in adopting new digital technologies",
+      "how decades of public debate slowed down the development of modern AI"
+    ],
+    "answer": 0,
+    "explanation": "구문: 의료에서 금융, 자율주행차에 이르기까지 광범위한 분야를 변화시키고 미래를 형성하는 AI의 영향력과, 새로운 시대를 맞아 우리 각자가 AI의 부상을 이해해야 할 필요성을 종합해 보세요."
+  },
+  {
+    "id": "L4-p01-q03",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and <u>pushing the envelope</u> like never before. As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.",
+    "question": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "going beyond existing limits to achieve unprecedented innovation",
+      "returning to traditional methods to avoid technological controversy",
+      "sending confidential medical and financial records by postal mail",
+      "restricting the use of self-driving cars to experimental laboratories",
+      "reducing the scale of AI implementation across major industries"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'pushing the envelope'는 기존의 한계나 경계를 뛰어넘어 전례 없는 혁신을 이끌어 낸다는 관용적 표현입니다."
+  },
+  {
+    "id": "L4-p01-q04",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life.\n\n(A) As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.\n(B) From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways.\n(C) From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 글에서 AI의 생활 방식 혁신 전망을 제시한 뒤, (B)가 의료부터 금융까지 광범위한 분야의 변화와 미래 잠재력 활용을 설명합니다. 그다음 (C)가 자율주행차와 맞춤형 치료의 구체적 사례를 들고, (A)가 새 시대의 문턱에서 AI 이해의 중요성으로 마무리합니다."
+  },
+  {
+    "id": "L4-p01-q05",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nEmbracing AI means tapping into the potential of tomorrow in unprecedented ways.\n\nArtificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. ( ① ) From healthcare to finance, the implementation of AI is transforming a wide range of sectors. ( ② ) From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. ( ③ ) As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 AI 도입이 광범위한 분야를 변화시키고 있다고 언급한 뒤, ② 자리에서 AI를 수용하는 것이 전례 없는 방식으로 미래의 잠재력을 활용하는 것임을 밝히고, 뒤이어 자율주행차와 맞춤형 의료 등 구체적 미래 모습을 제시하는 흐름이 자연스럽습니다."
+  },
+  {
+    "id": "L4-p01-q06",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. As we stand on the brink of a new era, it is crucial that each of us ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "understand the rise of AI and its impacts on our world",
+      "avoid implementing new technologies in healthcare and finance",
+      "limit AI development to prevent changes in our daily lives",
+      "depend entirely on traditional methods rather than innovation",
+      "ignore the controversies surrounding artificial intelligence"
+    ],
+    "answer": 0,
+    "explanation": "구문: 새로운 시대의 문턱에 서 있는 지금, AI가 우리 삶과 여러 분야를 혁신하고 있으므로 우리 각자가 AI의 부상과 그것이 세상에 미치는 영향을 이해하는 것이 매우 중요합니다."
+  },
+  {
+    "id": "L4-p01-q07",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will revolutionize our way of life. From healthcare to finance, the implementation of AI is transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.\n\n[요약문]\nAs AI rapidly (A)________ diverse sectors from healthcare to finance and shapes our future in unprecedented ways, it is essential for everyone to (B)________ its rise and global impact.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) transforms - (B) understand",
+      "(A) restricts - (B) prevent",
+      "(A) transforms - (B) ignore",
+      "(A) abandons - (B) question",
+      "(A) simplifies - (B) delay"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'is transforming a wide range of sectors'와 'understand the rise of AI and its impacts on our world'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p01-q08",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Artificial Intelligence (AI) has been the subject of much discussion and controversy for many decades, with many experts predicting that it will ① revolutionize our way of life. From healthcare to finance, the implementation of AI is ② transforming a wide range of sectors. Embracing AI means tapping into the potential of tomorrow in ③ unprecedented ways. From self-driving cars to personalized medical treatments, AI is shaping our future and pushing the envelope like never before. As we stand on the ④ brink of a new era, it is ⑤ trivial that each of us understand the rise of AI and its impacts on our world.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: AI가 우리 삶의 방식을 혁명적으로 바꾸고 새로운 시대의 문턱에 서 있으므로, 우리 각자가 AI의 부상과 영향을 이해하는 것은 사소한(trivial) 일이 아니라 '매우 중요한(crucial)' 일입니다."
+  },
+  {
+    "id": "L4-p01-q09",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "우리가 새로운 시대의 문턱에 서 있는 지금, 우리 각자가 AI의 부상과 그것이 우리 세상에 미치는 영향을 이해하는 것이 매우 중요하다.",
+    "chunks": [
+      "As we stand on the brink of a new era,",
+      "it is crucial",
+      "that each of us understand",
+      "the rise of AI and its impacts on our world."
+    ],
+    "answer": "As we stand on the brink of a new era, it is crucial that each of us understand the rise of AI and its impacts on our world.",
+    "explanation": "구문: 가주어 'it'과 진주어 'that'절 구문으로, 중요성을 나타내는 형용사 'crucial' 뒤의 'that'절에서는 '(should) + 동사원형(understand)'을 사용합니다."
+  },
+  {
+    "id": "L4-p01-q10",
+    "passageId": "L4-p01",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 1 (p.91)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "AI has been the subject of much controversy, with many experts ",
+      " that it will revolutionize our way of life, so it is crucial that each of us ",
+      " its impacts."
+    ],
+    "choices": [
+      [
+        "predicting",
+        "predicted"
+      ],
+      [
+        "understand",
+        "understands"
+      ]
+    ],
+    "answers": [
+      "predicting",
+      "understand"
+    ],
+    "explanation": "문법: ① 'with + 목적어(many experts) + 분사' 부대상황 구문에서 많은 전문가들이 예측하는 능동 관계이므로 현재분사 'predicting'이 옵니다. ② 당위·중요성 형용사 'crucial' 뒤의 'that'절에서는 주어 'each of us' 뒤에 '(should) + 동사원형'인 'understand'를 씁니다."
+  }
+]

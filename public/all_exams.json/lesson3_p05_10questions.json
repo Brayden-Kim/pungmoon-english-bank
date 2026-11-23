@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p05-q01",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. However, such a technology did not exist in 1969.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Apollo 11 Broadcasted Live Images from the Moon",
+      "The Ultimate Engineering Challenge of the Apollo 11 Space Suit",
+      "Why Lunar Temperatures Fluctuate Between Day and Night",
+      "The History of Space Exploration Before July 1969",
+      "How Astronauts Adapted to Low Air Pressure in Space"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts ~ However, such a technology did not exist in 1969'를 보세요. 아폴로 11호 달 착륙을 위한 가장 큰 과제였던 우주복 제작의 어려움을 나타낸 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p05-q02",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. However, such a technology did not exist in 1969.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the extreme protective requirements and technological challenge of creating the Apollo 11 space suit",
+      "methods scientists used to measure surface temperatures on the moon",
+      "reasons why 528 million viewers watched the Apollo 11 broadcast",
+      "differences between direct sunlight and shaded craters on the moon",
+      "how air pressure inside spacecraft cabins was regulated in 1969"
+    ],
+    "answer": 0,
+    "explanation": "구문: 1969년 아폴로 11호 달 착륙 성취를 위해 우주비행사에게 적절한 기압을 제공하고 영하 233도에서 영상 150도에 이르는 극한의 온도를 견디는 우주복을 제작해야 했던 기술적 과제를 종합해 보세요."
+  },
+  {
+    "id": "L3-p05-q03",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. However, such a technology did not exist in 1969.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "1969년 7월 21일에 5억 2천8백만 명이 달 표면에 남겨진 첫 인간의 발자국을 보기 위해 채널을 맞췄다.",
+      "아폴로 11호는 인간을 달에 데려간 최초의 우주 임무였다.",
+      "우주복은 우주비행사들에게 적절한 기압을 제공하고 극한의 온도를 견딜 수 있어야 했다.",
+      "달 표면은 직사광선에서 최고 150°C, 최저 -233°C의 극단적 온도를 보인다.",
+      "극한의 온도를 견디는 우주복 제작 기술은 1969년 당시에 이미 널리 상용화되어 있었다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 문장 'However, such a technology did not exist in 1969'를 보세요. 그러한 기술은 1969년 당시에 존재하지 않았습니다."
+  },
+  {
+    "id": "L3-p05-q04",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon.\n\n(A) However, such a technology did not exist in 1969.\n(B) One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C.\n(C) Engineers therefore had to invent entirely new ways of layering materials to keep astronauts alive in the harsh lunar environment.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 아폴로 11호 달 착륙을 소개한 뒤, (B)가 이 성취의 가장 큰 난제인 우주복의 요구 조건을 설명하고, (A)가 'However, such a technology did not exist in 1969'로 기술 부재의 반전을 제시합니다."
+  },
+  {
+    "id": "L3-p05-q05",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nHowever, such a technology did not exist in 1969.\n\nOn July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. ( ① ) Apollo 11 was the first space mission to take humans to the moon. ( ② ) One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. ( ③ ) Solving this problem required looking beyond traditional aerospace engineering. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 우주복이 갖춰야 할 기압 유지와 극한 온도 내성 조건을 제시한 직후, ③ 자리에서 'such a technology(그러한 기술)'로 받아 1969년에는 그 기술이 존재하지 않았다고 전환하는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "L3-p05-q06",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. However, ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "such a technology did not exist in 1969",
+      "astronauts preferred walking on the moon without heavy suits",
+      "the moon's surface temperature remained constant throughout the day",
+      "engineers had already tested the suit on previous lunar landings",
+      "air pressure on the moon was identical to that on Earth"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장에서 달 착륙의 가장 큰 난제 중 하나가 우주복 제작이었다고 언급한 뒤 'However(그러나)'로 이어지므로, 당시에는 그러한 기술이 존재하지 않았다는 내용이 가장 적절합니다."
+  },
+  {
+    "id": "L3-p05-q07",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts; it would need to provide the astronauts with adequate air pressure and be able to withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C. However, such a technology did not exist in 1969.\n\n[요약문]\nFor the historic Apollo 11 moon landing, engineers faced the major challenge of creating a space suit capable of maintaining proper (A)________ and enduring extreme lunar (B)________, even though the required technology did not yet exist in 1969.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) air pressure - (B) temperatures",
+      "(A) sunlight - (B) broadcasts",
+      "(A) air pressure - (B) gravity",
+      "(A) fabrics - (B) impressions",
+      "(A) technology - (B) missions"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'adequate air pressure'와 'withstand extreme temperatures'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p05-q08",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "On July 21, 1969, 528 million people tuned in to watch the first human ① impression on the surface of the moon. Apollo 11 was the first space mission to take humans to the moon. One of the greatest ② challenges for this achievement involved manufacturing a space suit that could ③ protect the astronauts; it would need to provide the astronauts with ④ insufficient air pressure and be able to ⑤ withstand extreme temperatures—a maximum of 150°C in direct sunlight and a minimum of -233°C.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 우주복은 우주비행사를 보호해야 하므로 불충분한(insufficient) 기압이 아니라 '적절한(adequate)' 기압을 제공해야 합니다."
+  },
+  {
+    "id": "L3-p05-q09",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이 성취를 위한 가장 큰 난제들 중 하나는 우주비행사들을 보호할 수 있는 우주복을 제작하는 것을 포함했다.",
+    "chunks": [
+      "One of the greatest challenges for this achievement",
+      "involved manufacturing a space suit",
+      "that could protect",
+      "the astronauts;"
+    ],
+    "answer": "One of the greatest challenges for this achievement involved manufacturing a space suit that could protect the astronauts;",
+    "explanation": "구문: 'One of the + 최상급 + 복수명사(challenges)'가 주어이고, 동사 'involved'의 목적어로 동명사 'manufacturing'이 쓰였으며, 뒤에서 주격 관계대명사절 'that could protect the astronauts'가 'a space suit'를 수식합니다."
+  },
+  {
+    "id": "L3-p05-q10",
+    "passageId": "L3-p05",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 5 (p.68)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "One of the greatest challenges involved ",
+      " a space suit that would need to provide adequate air pressure and ",
+      " able to withstand extreme temperatures."
+    ],
+    "choices": [
+      [
+        "to manufacture",
+        "manufacturing"
+      ],
+      [
+        "be",
+        "being"
+      ]
+    ],
+    "answers": [
+      "manufacturing",
+      "be"
+    ],
+    "explanation": "문법: ① 동사 'involve'는 목적어로 동명사를 취하므로 'manufacturing'이 옵니다. ② 조동사구 'would need to' 뒤에서 앞의 동사원형 'provide'와 등위접속사 'and'로 병렬 연결되므로 동사원형 'be'를 씁니다."
+  }
+]

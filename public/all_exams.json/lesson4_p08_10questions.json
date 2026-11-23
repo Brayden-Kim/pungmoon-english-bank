@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p08-q01",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output. For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones. As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police. This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Facial Recognition Systems Improved Police Accuracy",
+      "Biased Data, Biased AI: Addressing Ethical Issues in Artificial Intelligence",
+      "Why Computer Systems Are Always Completely Objective",
+      "The History of Photography and Skin Tone Lighting Techniques",
+      "How AI Algorithms Eliminated Racial Discrimination in Law Enforcement"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output'와 안면 인식 오류 사례 및 부정적 영향 축소 노력을 포괄하는 제목은 ②입니다."
+  },
+  {
+    "id": "L4-p08-q02",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output. For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones. As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police. This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "ethical concerns over AI reproducing training data biases and the need to mitigate its negative impacts",
+      "methods software engineers use to collect facial images from diverse populations",
+      "reasons why police departments rely heavily on automated surveillance systems",
+      "differences between human judgment and computer objectivity in criminal trials",
+      "how lighter skin tones affect camera sensors in facial recognition devices"
+    ],
+    "answer": 0,
+    "explanation": "구문: 학습 데이터에 내재된 편향을 AI가 그대로 재생산하여 안면 인식 오인 체포 같은 차별 문제를 초래한다는 윤리적 우려와 이를 줄이기 위한 사회적 조치의 필요성을 종합해 보세요."
+  },
+  {
+    "id": "L4-p08-q03",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output. For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones. As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police. This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "일부 비판론자들은 AI가 기존의 편견과 차별을 유지할 가능성을 포함한 윤리적 문제에 대해 우려한다.",
+      "AI 시스템은 학습에 사용된 데이터만큼만 편향되지 않으며, 데이터에 편향이 있으면 결과물에도 편향을 재생산할 가능성이 높다.",
+      "안면 인식 알고리즘은 특정 유형의 피부색을 가진 개인들을 인식하는 데 덜 정확한 것으로 밝혀졌다.",
+      "안면 인식 알고리즘은 주로 어두운 피부색을 가진 얼굴들이 포함된 데이터 세트로 학습되었다.",
+      "미국에서는 인종적 소수자들이 안면 인식 시스템에 의해 수배범으로 오인되어 경찰에 부당하게 체포된 사건들이 있었다."
+    ],
+    "answer": 3,
+    "explanation": "구문: 'This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones'를 보세요. 주로 어두운 피부색이 아니라 '더 밝은 피부색(lighter skin tones)'을 가진 얼굴들이 포함된 데이터 세트로 학습되었습니다."
+  },
+  {
+    "id": "L4-p08-q04",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output.\n\n(A) As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police.\n(B) For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones.\n(C) This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 학습 데이터 편향 재생산 원리를 설명한 뒤, (B)가 'For example'로 안면 인식 알고리즘의 정확도 차이와 원인을 제시하고, (A)가 'As a result'로 미국 내 오인 체포 사건이라는 결과를 이어가며, (C)가 사회적 대응 필요성으로 마무리합니다."
+  },
+  {
+    "id": "L4-p08-q05",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nThis is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones.\n\nSome critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output. ( ① ) For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. ( ② ) As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police. ( ③ ) This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 안면 인식 알고리즘이 특정 피부색 인식에 덜 정확하다는 현상을 언급한 직후, ② 자리에서 그 원인('This is because ~')을 밝혀야 뒤 문장의 'As a result(그 결과)'로 인종적 소수자 오인 체포 사례가 자연스럽게 이어집니다."
+  },
+  {
+    "id": "L4-p08-q06",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, ________________________; if that data contains biases, the AI system will likely reproduce those biases in its output. For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "AI systems are only as unbiased as the data they are trained on",
+      "computer algorithms automatically eliminate all human prejudices",
+      "facial recognition software works equally well on every skin tone",
+      "critics rarely question the objectivity of automated police systems",
+      "modern data sets always represent diverse racial minorities equally"
+    ],
+    "answer": 0,
+    "explanation": "구문: 사람들이 컴퓨터 시스템을 객관적이라고 여기는 통념에 'However(그러나)'로 반박하며, 데이터에 편향이 있으면 AI도 결과물에서 그 편향을 재생산한다는 뒤 내용과 논리적으로 연결되는 말은 ①입니다."
+  },
+  {
+    "id": "L4-p08-q07",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Some critics worry about ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely reproduce those biases in its output. For example, facial recognition algorithms have been found to be less accurate at recognizing individuals with certain types of skin tones. This is because the algorithms were trained on data sets that mostly contained faces with lighter skin tones. As a result, in the U.S., there have been incidents where people of racial minorities have been mistakenly identified as wanted criminals by facial recognition systems and wrongfully arrested by the police. This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.\n\n[요약문]\nBecause AI systems can reproduce existing (A)________ from skewed training data—as seen in inaccurate facial recognition leading to wrongful arrests—society must take action to (B)________ AI's potential harms.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) biases - (B) diminish",
+      "(A) objectivity - (B) amplify",
+      "(A) biases - (B) ignore",
+      "(A) crimes - (B) diminish",
+      "(A) accuracy - (B) prevent"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'reproduce those biases in its output'과 'take steps to diminish the potential negative impacts of AI'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p08-q08",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Some critics worry about ① ethical issues that are tied to AI, including its potential to maintain existing biases and discrimination. People often view computer systems as ② objective. However, AI systems are only as unbiased as the data they are trained on; if that data contains biases, the AI system will likely ③ reproduce those biases in its output. For example, facial recognition algorithms have been found to be less ④ accurate at recognizing individuals with certain types of skin tones. This is a valid concern, and it is important for society to take steps to ⑤ maximize the potential negative impacts of AI.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 편향된 데이터로 인한 부당 체포 등 윤리적 우려가 타당하므로 사회가 AI의 잠재적 부정적 영향을 극대화하는(maximize) 조치를 취해야 하는 것이 아니라 '줄이기(diminish)' 위한 조치를 취해야 합니다."
+  },
+  {
+    "id": "L4-p08-q09",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이것은 타당한 우려이며, 사회가 AI의 잠재적인 부정적 영향을 줄이기 위한 조치를 취하는 것이 중요하다.",
+    "chunks": [
+      "This is a valid concern,",
+      "and it is important for society",
+      "to take steps to diminish",
+      "the potential negative impacts of AI."
+    ],
+    "answer": "This is a valid concern, and it is important for society to take steps to diminish the potential negative impacts of AI.",
+    "explanation": "구문: 가주어 'it'과 의미상 주어 'for society', 그리고 진주어 to부정사구 'to take steps to diminish ~'가 연결된 구조입니다."
+  },
+  {
+    "id": "L4-p08-q10",
+    "passageId": "L4-p08",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 8 (p.96)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "There have been incidents ",
+      " people of racial minorities have been mistakenly identified as wanted criminals and ",
+      " arrested by the police."
+    ],
+    "choices": [
+      [
+        "which",
+        "where"
+      ],
+      [
+        "wrongful",
+        "wrongfully"
+      ]
+    ],
+    "answers": [
+      "where",
+      "wrongfully"
+    ],
+    "explanation": "문법: ① 추상적 상황 선행사 'incidents' 뒤에서 완전한 절이 이어지므로 관계부사 'where'가 옵니다. ② 수동태 동사 'arrested'를 수식하는 자리이므로 부사 'wrongfully'를 씁니다."
+  }
+]

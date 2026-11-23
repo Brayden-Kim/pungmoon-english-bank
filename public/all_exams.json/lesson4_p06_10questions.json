@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p06-q01",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones. For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service. The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Carriage Drivers Refused to Work in Automobile Factories",
+      "The Dual Nature of Automation: Displacing Old Jobs While Creating New Ones",
+      "How the Computer Industry Eliminated All Manual Labor Jobs",
+      "Why Economic Growth Slows Down During Technological Revolutions",
+      "The Decline of Manufacturing and Service Sectors in the 20th Century"
+    ],
+    "answer": 1,
+    "explanation": "구문: 자동화가 기존 일자리를 줄이는 동시에 수 세기 동안 경제 성장의 원동력이 되어 새로운 일자리 기회를 꾸준히 창출해 왔다는 양면성과 자동차·컴퓨터 산업의 역사적 사례를 포괄하는 제목은 ②입니다."
+  },
+  {
+    "id": "L4-p06-q02",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones. For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service. The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "historical evidence showing that automation both eliminates existing jobs and generates new employment opportunities",
+      "methods automobile manufacturers used to retrain carriage drivers in the early 20th century",
+      "reasons why manual labor industries grew faster than information technology in the late 20th century",
+      "differences between mechanical automation and modern artificial intelligence algorithms",
+      "how sales and service workers resisted the introduction of personal computers"
+    ],
+    "answer": 0,
+    "explanation": "구문: 자동화가 일자리를 대체한다는 주장의 타당성을 인정하면서도, 역사적으로 자동차와 컴퓨터 산업이 기존 직종을 대체하는 동시에 새로운 일자리를 창출해 온 사실을 종합해 보세요."
+  },
+  {
+    "id": "L4-p06-q03",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones. For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service. The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "자동화는 이미 여러 산업에서 노동자들을 대체해 왔으며, AI가 널리 퍼짐에 따라 이러한 추세는 계속될 가능성이 높다.",
+      "자동화는 수 세기 동안 경제 성장의 원동력이 되어 왔으며 꾸준히 새로운 일자리 기회를 창출해 왔다.",
+      "20세기 초 자동차 산업의 부상은 마차 운전사들의 실직을 초래했지만 제조, 판매, 서비스 분야의 새 일자리를 만들었다.",
+      "20세기 후반 컴퓨터 산업의 부상은 육체노동 산업의 노동자들을 대체했지만 소프트웨어 개발 및 IT 분야의 새 일자리를 창출했다.",
+      "컴퓨터 산업의 성장은 기존 육체노동 일자리를 줄였을 뿐 새로운 분야의 고용 창출에는 전혀 기여하지 못했다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 문장 'which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields'를 보세요. 소프트웨어 개발, 정보 기술 및 관련 분야의 새로운 일자리를 창출했습니다."
+  },
+  {
+    "id": "L4-p06-q04",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread.\n\n(A) For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service.\n(B) However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones.\n(C) The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 일자리 대체 추세를 인정한 뒤, (B)가 'However'로 반전하여 자동화의 경제 성장 및 신규 일자리 창출 역할을 제시합니다. 그다음 (A)가 'For example'로 20세기 초 자동차 산업 사례를 들고, (C)가 'The same can be said for ~'로 20세기 후반 컴퓨터 산업 사례를 덧붙입니다."
+  },
+  {
+    "id": "L4-p06-q05",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nFor example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service.\n\nThis argument is not without merit. ( ① ) Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. ( ② ) However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones. ( ③ ) The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 자동화가 기존 일자리를 줄이는 동시에 새 일자리를 창출해 왔다는 일반 진술이 나온 뒤, ③ 자리에서 첫 번째 역사적 예시인 'For example, the rise of the automobile industry ~'가 들어가야 뒤 문장의 'The same can be said for ~'와 자연스럽게 이어집니다."
+  },
+  {
+    "id": "L4-p06-q06",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and ________________________, even as it has decreased existing ones. For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "has consistently created new job opportunities",
+      "has permanently prevented workers from changing careers",
+      "has eliminated the need for manufacturing and service sectors",
+      "has slowed down technological innovation in modern economies",
+      "has restricted economic growth to manual labor industries"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'even as it has decreased existing ones(기존 일자리를 줄이는 와중에도)'와 대조되며 뒤의 자동차 산업 예시로 뒷받침되는 내용은 새로운 일자리 기회를 꾸준히 창출해 왔다는 것입니다."
+  },
+  {
+    "id": "L4-p06-q07",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "This argument is not without merit. Automation has already displaced workers in several industries, and it is likely that this trend will continue as AI becomes more widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has consistently created new job opportunities, even as it has decreased existing ones. For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service. The same can be said for the rise of the computer industry in the late 20th century, which displaced workers in manual labor industries, but also created new jobs in software development, information technology, and related fields.\n\n[요약문]\nAlthough automation has historically (A)________ workers in traditional sectors, technological shifts like the automobile and computer industries show that it also fuels economic growth and creates new (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) displaced - (B) jobs",
+      "(A) promoted - (B) carriages",
+      "(A) displaced - (B) barriers",
+      "(A) hired - (B) industries",
+      "(A) protected - (B) trends"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'Automation has already displaced workers'와 'consistently created new job opportunities'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p06-q08",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "This argument is not without ① merit. Automation has already ② displaced workers in several industries, and it is likely that this trend will continue as AI becomes more ③ widespread. However, it is also important to consider that automation has been a driving force behind economic growth for centuries and has ④ rarely created new job opportunities, even as it has ⑤ decreased existing ones.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 자동화가 수 세기 동안 경제 성장의 원동력이 되어 왔고 자동차·컴퓨터 산업이 새 일자리를 만들었다는 예시로 이어지므로, 새 일자리 기회를 거의 창출하지 못했다(rarely)가 아니라 '꾸준히, 일관되게(consistently)' 창출해 왔다가 적절합니다."
+  },
+  {
+    "id": "L4-p06-q09",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "예를 들어, 20세기 초 자동차 산업의 부상은 마차 운전사들의 실직을 초래했지만, 제조, 판매, 서비스 분야의 새로운 일자리 또한 창출했다.",
+    "chunks": [
+      "For example, the rise of the automobile industry in the early 20th century",
+      "led to the displacement of carriage drivers,",
+      "but it also created new jobs",
+      "in manufacturing, sales, and service."
+    ],
+    "answer": "For example, the rise of the automobile industry in the early 20th century led to the displacement of carriage drivers, but it also created new jobs in manufacturing, sales, and service.",
+    "explanation": "구문: 주어 'the rise of the automobile industry in the early 20th century'에 동사 'led to ~'가 이어지고, 접속사 'but' 뒤에 대명사 'it(the rise of the automobile industry)'을 주어로 하는 절이 연결되어 있습니다."
+  },
+  {
+    "id": "L4-p06-q10",
+    "passageId": "L4-p06",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 6 (p.94 중·하단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Automation has consistently created new job opportunities, even as it has decreased existing ",
+      ", and the rise of the computer industry, ",
+      " displaced workers in manual labor industries, created new jobs in IT."
+    ],
+    "choices": [
+      [
+        "one",
+        "ones"
+      ],
+      [
+        "that",
+        "which"
+      ]
+    ],
+    "answers": [
+      "ones",
+      "which"
+    ],
+    "explanation": "문법: ① 앞의 복수명사 'job opportunities'를 대신 받는 부정대명사 자리이므로 복수형 'ones'가 옵니다. ② 콤마(,) 뒤에서 앞의 선행사 'the rise of the computer industry'를 부연 설명하는 계속적 용법의 주격 관계대명사 자리이므로 'which'를 씁니다."
+  }
+]

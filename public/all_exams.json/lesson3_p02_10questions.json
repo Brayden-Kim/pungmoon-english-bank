@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p02-q01",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How the Yellow Emperor Regulated Chinese Silk Exports",
+      "A Cup of Tea and a Cocoon: The Legend of Silk's Origin",
+      "Why Ancient Chinese Gardens Grew Mulberry Trees for Shade",
+      "The Scientific Process of Dissolving Silk Fibers in Modern Labs",
+      "Differences Between Chinese Tea Ceremonies and Silk Weaving"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'It is said that silk production began with the most Chinese of things: tea ~ This Chinese legend is only one of many woven around the production of silk'을 보세요. 찻잔에 떨어진 누에고치로부터 비단 직조가 시작되었다는 전설을 가장 잘 요약한 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p02-q02",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the Chinese legend explaining how Leizu accidentally discovered silk weaving through a cup of tea",
+      "methods ancient farmers used to cultivate silkworms inside imperial palaces",
+      "reasons why Chinese silk felt warmer than wool during winter months",
+      "differences among various regional legends about ancient tea cultivation",
+      "how long a single silk thread can stretch when boiled in salt water"
+    ],
+    "answer": 0,
+    "explanation": "구문: 황제의 젊은 아내 누조(Leizu)가 찻잔에 떨어진 누에고치를 건져 올리며 실을 풀어 직물을 짜게 되었다는 비단 기원 전설을 종합해 보세요."
+  },
+  {
+    "id": "L3-p02-q03",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "황제의 젊은 아내인 Leizu는 찻잔을 손에 들고 나무 아래에 앉아 있었다.",
+      "나뭇가지 중 하나에서 누에고치 하나가 그녀의 찻잔 속으로 직접 떨어졌다.",
+      "차(tea)가 누에고치의 겉껍질(코팅)을 녹여 부드러운 섬유 덩어리가 나타났다.",
+      "Leizu가 고치 실을 풀자 정원 이쪽 끝에서 저쪽 끝까지 600미터 넘게 뻗어 나갔다.",
+      "이 전설은 비단 생산에 관해 전해 내려오는 유일한 중국 이야기이다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 문장 'This Chinese legend is only one of many woven around the production of silk'을 보세요. 비단 생산에 관해 엮인 수많은 전설 중 하나일 뿐, 유일한 이야기가 아닙니다."
+  },
+  {
+    "id": "L3-p02-q04",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup.\n\n(A) Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch.\n(B) Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters.\n(C) This Chinese legend is only one of many woven around the production of silk.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 고치가 찻잔에 떨어진 직후, (B)가 찻잔에서 고치를 건져 내 실을 600미터 넘게 풀어낸 과정을 설명합니다. 그다음 (A)가 흥미를 느껴 더 많은 고치를 모아 천으로 짠 결과를 제시하고, (C)가 전설의 성격을 정리하며 마무리합니다."
+  },
+  {
+    "id": "L3-p02-q05",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nIntrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth.\n\nIt is said that silk production began with the most Chinese of things: tea. ( ① ) Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. ( ② ) Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. ( ③ ) What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. ( ④ ) The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: ③ 뒤에서 첫 고치의 실을 600미터 넘게 풀어낸 직후, ④ 자리에서 흥미를 느낀 그녀가 더 많은 고치를 모아 실을 천으로 짰다는 문장이 들어가야 뒤 문장의 'The result was a soft and shiny fabric'과 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "L3-p02-q06",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her amazement, she found that ________________________. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the tea had dissolved the coating of the cocoon",
+      "the hot water had burned the silk threads completely",
+      "the branches were covered with rough woolen fibers",
+      "the cocoon had turned into a hard wooden shell",
+      "the emperor had already woven the threads into a robe"
+    ],
+    "answer": 0,
+    "explanation": "구문: 찻잔에서 불청객(누에고치)을 건져 올렸을 때 부드러운 섬유 덩어리가 손에 잡힌 이유는 뜨거운 차가 고치의 겉껍질(코팅)을 녹였기 때문입니다."
+  },
+  {
+    "id": "L3-p02-q07",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her amazement, she found that the tea had dissolved the coating of the cocoon. What she held was a little lump of soft fibers. Leizu unraveled it until it stretched from end to end of her garden, over 600 meters. Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was cool to the touch. This Chinese legend is only one of many woven around the production of silk.\n\n[요약문]\nAccording to a well-known Chinese legend, silk production began when Leizu discovered that hot (A)________ dissolved a fallen cocoon's coating, allowing her to unravel the fibers and weave them into soft, cool (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) tea - (B) cloth",
+      "(A) water - (B) paper",
+      "(A) tea - (B) branches",
+      "(A) oil - (B) fibers",
+      "(A) ink - (B) legends"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'a cup of tea'와 'worked the threads into cloth'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p02-q08",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "It is said that silk production began with the most Chinese of things: tea. Leizu, the young wife of the Yellow Emperor, was sitting under a tree, with a cup of tea in her hand. A cocoon fell from one of the branches directly into the cup. Naturally, she fished the offending object out, and to her ① amazement, she found that the tea had ② hardened the coating of the cocoon. What she held was a little lump of soft fibers. Leizu ③ unraveled it until it stretched from end to end of her garden, over 600 meters. ④ Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth. The result was a soft and shiny fabric that was ⑤ cool to the touch.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: 차가 고치의 코팅을 딱딱하게 굳혔다면(hardened) 부드러운 섬유 덩어리를 풀 수 없었을 것입니다. 문맥상 '녹였다(dissolved)'가 적절합니다."
+  },
+  {
+    "id": "L3-p02-q09",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "흥미를 느껴, 그녀는 실을 풀기 위해 나무에서 더 많은 누에고치를 모았고, 그 실들을 짜서 천으로 만들었다.",
+    "chunks": [
+      "Intrigued,",
+      "she gathered more cocoons from the tree",
+      "to unravel,",
+      "and worked the threads into cloth."
+    ],
+    "answer": "Intrigued, she gathered more cocoons from the tree to unravel, and worked the threads into cloth.",
+    "explanation": "구문: 주어 'she'가 흥미를 느낀 수동 감정을 나타내는 분사구문 'Intrigued'가 문두에 오고, 두 동사 'gathered'와 'worked'가 'and'로 병렬 연결되어 있습니다."
+  },
+  {
+    "id": "L3-p02-q10",
+    "passageId": "L3-p02",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 2 (p.66 상단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "She found that the tea ",
+      " the coating of the cocoon, and ",
+      " she held was a little lump of soft fibers."
+    ],
+    "choices": [
+      [
+        "has dissolved",
+        "had dissolved"
+      ],
+      [
+        "that",
+        "what"
+      ]
+    ],
+    "answers": [
+      "had dissolved",
+      "what"
+    ],
+    "explanation": "문법: ① 그녀가 발견한 과거 시점('found')보다 차가 고치 코팅을 녹인 것이 먼저 일어난 일이므로 대과거(과거완료) 'had dissolved'가 옵니다. ② 선행사 없이 'she held'의 목적어 역할을 하는 관계대명사 자리이므로 'what'을 씁니다."
+  }
+]

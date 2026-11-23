@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p03-q01",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity. Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work. In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses. In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How AI Boosts Efficiency and Transforms Key Industries",
+      "Why Repetitive Jobs Are Preferred by Modern Workers",
+      "The Ethical Dangers of Automated Investment Decisions",
+      "How Doctors Collect Vast Amounts of Medical Records",
+      "Why Automation Fails to Improve Workplace Productivity"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'Some of the most significant impacts of AI are increased efficiency and productivity'를 중심 문장으로, 자동화의 이점과 의료·금융 분야에서의 구체적 활용 사례를 포괄하는 제목은 ①입니다."
+  },
+  {
+    "id": "L4-p03-q02",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity. Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work. In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses. In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "how AI enhances efficiency and productivity across workplaces, healthcare, and finance",
+      "methods hospitals use to protect patient privacy in medical databases",
+      "reasons why financial fraud has increased due to automated algorithms",
+      "differences between industrial robots and human strategic planners",
+      "how boring administrative tasks reduce employee motivation in banks"
+    ],
+    "answer": 0,
+    "explanation": "구문: 자동화를 통해 인간이 혁신적이고 전략적인 업무에 집중하도록 돕고, 의료 진단 개선 및 금융 업무 자동화·사기 탐지·투자 결정에 기여하는 AI의 효율성과 생산성 향상 효과를 종합해 보세요."
+  },
+  {
+    "id": "L4-p03-q03",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity. Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work. In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses. In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "AI의 가장 중요한 영향 중 일부는 향상된 효율성과 생산성이다.",
+      "AI 시스템과 로봇은 반복적이고 지루하며 위험한 작업을 쉽게 수행할 수 있다.",
+      "자동화를 통해 인간은 더 혁신적이고 전략적인 업무에 집중할 여유를 갖게 된다.",
+      "의료 분야에서는 진단을 개선하기 위해 방대한 양의 의료 데이터를 분석하는 데 AI가 사용된다.",
+      "금융 분야에서는 투자 결정을 내리는 업무만은 여전히 AI 알고리즘의 활용 대상에서 제외된다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 문장 'In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions'를 보세요. 금융 분야에서 AI 알고리즘은 '투자 결정을 내리는 일(make investment decisions)'에도 사용되고 있습니다."
+  },
+  {
+    "id": "L4-p03-q04",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity.\n\n(A) In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses.\n(B) Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work.\n(C) In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 효율성과 생산성 증대라는 핵심 주제를 제시한 뒤, (B)가 자동화를 통한 일반적 업무 대체 원리를 설명하고, 이어서 구체적 산업 사례로 (A) 의료 분야와 (C) 금융 분야가 차례로 제시됩니다."
+  },
+  {
+    "id": "L4-p03-q05",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nIn the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses.\n\n( ① ) Some of the most significant impacts of AI are increased efficiency and productivity. ( ② ) Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work. ( ③ ) In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 자동화가 인간을 혁신적·전략적 업무에 집중하게 한다는 일반적 설명이 끝난 뒤, ③ 자리에서 첫 번째 구체적 산업 예시인 'In the healthcare sector ~'가 들어가야 뒤 문장의 'In finance ~'와 대구를 이루며 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "L4-p03-q06",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity. Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, ________________________. In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses. In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "freeing up humans to focus on more innovative and strategic work",
+      "forcing workers to spend more hours on routine manual labor",
+      "preventing doctors from accessing complex patient medical records",
+      "reducing the accuracy of financial fraud detection in major banks",
+      "eliminating the need for human creativity in strategic planning"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI와 로봇이 반복적이고 지루하며 위험한 일을 대신 처리해 줌으로써 얻게 되는 결과는 인간이 더 혁신적이고 전략적인 일에 집중할 수 있도록 여유를 주는 것입니다."
+  },
+  {
+    "id": "L4-p03-q07",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Some of the most significant impacts of AI are increased efficiency and productivity. Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work. In the healthcare sector, AI is being used to analyze vast amounts of medical data to improve diagnoses. In finance, AI algorithms are being used to automate administrative tasks, detect fraud, and make investment decisions.\n\n[요약문]\nBy automating routine or hazardous work, AI boosts (A)________ and enables humans to pursue strategic tasks, while also improving medical (B)________ and streamlining financial operations.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) productivity - (B) diagnoses",
+      "(A) boredom - (B) algorithms",
+      "(A) productivity - (B) fraud",
+      "(A) danger - (B) investments",
+      "(A) repetition - (B) automation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'increased efficiency and productivity'와 'to improve diagnoses'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p03-q08",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Some of the most ① significant impacts of AI are increased efficiency and productivity. Through ② automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more ③ innovative and strategic work. In the healthcare sector, AI is being used to analyze vast amounts of medical data to ④ worsen diagnoses. In finance, AI algorithms are being used to automate administrative tasks, ⑤ detect fraud, and make investment decisions.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 의료 분야에서 AI가 방대한 의료 데이터를 분석하는 목적은 진단을 악화시키는(worsen) 것이 아니라 '개선하기(improve)' 위함입니다."
+  },
+  {
+    "id": "L4-p03-q09",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "자동화를 통해 AI 시스템과 로봇은 반복적이고 지루하며 위험한 작업을 쉽게 수행할 수 있으며, 인간이 더 혁신적이고 전략적인 업무에 집중할 수 있도록 해 준다.",
+    "chunks": [
+      "Through automation, AI systems and robots",
+      "can perform repetitive, boring, and dangerous tasks easily,",
+      "freeing up humans to focus on",
+      "more innovative and strategic work."
+    ],
+    "answer": "Through automation, AI systems and robots can perform repetitive, boring, and dangerous tasks easily, freeing up humans to focus on more innovative and strategic work.",
+    "explanation": "구문: 주절 'AI systems and robots can perform ~ easily' 뒤에 앞 절의 결과를 나타내는 능동 분사구문 'freeing up humans to focus on ~'가 콤마로 연결되어 있습니다."
+  },
+  {
+    "id": "L4-p03-q10",
+    "passageId": "L4-p03",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 3 (p.92 하단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Some of the most significant impacts of AI ",
+      " increased efficiency and productivity, and AI algorithms are being used to automate administrative tasks, detect fraud, and ",
+      " investment decisions."
+    ],
+    "choices": [
+      [
+        "is",
+        "are"
+      ],
+      [
+        "make",
+        "making"
+      ]
+    ],
+    "answers": [
+      "are",
+      "make"
+    ],
+    "explanation": "문법: ① 'Some of + 복수명사(the most significant impacts)'가 주어이므로 복수 동사 'are'가 옵니다. ② 'to automate ~, detect ~, and make ~'에서 앞의 동사원형 'automate', 'detect'와 병렬 구조를 이루므로 동사원형 'make'를 씁니다."
+  }
+]

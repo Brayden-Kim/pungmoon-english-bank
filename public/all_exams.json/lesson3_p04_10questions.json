@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p04-q01",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. The Silk Road significantly shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How Egyptian Mummies Preserved Ancient Silk Fibers",
+      "The Silk Road: Beyond Trade to Cultural and Civilizational Exchange",
+      "Why Spices Were More Valuable Than Silk in Ancient Times",
+      "The Decline of Silk Trade After the Second Century B.C.",
+      "How Ancient Societies Built Paved Highways Across Deserts"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'The Silk Road significantly shaped the societies and cultures of the regions that it connected ~ Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations'를 보세요. 실크로드를 통한 물품 교역을 넘어선 문화·문명 교류의 의미를 담은 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p04-q02",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. The Silk Road significantly shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the early history of the silk trade and the cultural and civilizational exchanges along the Silk Road",
+      "methods ancient traders used to transport exotic animals across mountains",
+      "reasons why Egyptian mummies were wrapped in silk rather than linen",
+      "differences between religious art and technological inventions in antiquity",
+      "how rare metals replaced silk as the main currency along trade routes"
+    ],
+    "answer": 0,
+    "explanation": "구문: 실크로드 공식 개통 이전부터 이어진 비단 교역의 초기 흔적과 실크로드를 통한 상품·종교·예술·기술 공유가 문명 발전에 미친 영향을 종합해 보세요."
+  },
+  {
+    "id": "L3-p04-q03",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. The Silk Road significantly shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "비단은 아주 이른 시기부터 다른 나라들이 간절히 원했던 귀중한 상품이 되었다.",
+      "비단 무역은 실크로드가 기원전 2세기에 공식 개통된 이후에야 비로소 시작되었다.",
+      "기원전 1070년경 이집트 미라의 머리카락에서 발견된 비단실은 비단 무역의 가장 이른 증거일 가능성이 있다.",
+      "실크로드는 연결된 지역들의 사회와 문화를 형성하는 데 큰 영향을 미쳤다.",
+      "비단뿐만 아니라 향신료, 희귀 금속, 이국적인 동물들도 그 길에서 거래되었다."
+    ],
+    "answer": 1,
+    "explanation": "구문: 'it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C.'를 보세요. 기원전 2세기 공식 개통 '이전'에 이미 시작된 것으로 여겨집니다."
+  },
+  {
+    "id": "L3-p04-q04",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C.\n\n(A) Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.\n(B) The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade.\n(C) The Silk Road significantly shaped the societies and cultures of the regions that it connected.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 2,
+    "explanation": "구문: 주어진 글에서 실크로드 개통 이전 무역 가능성을 제시한 뒤, (B)가 기원전 1070년경 이집트 미라 사례로 초기 증거를 뒷받침합니다. 그다음 (C)가 실크로드의 지역 문화·사회 형성 역할을 언급하고, (A)가 교류 품목 및 문명 발전 효과로 이어집니다."
+  },
+  {
+    "id": "L3-p04-q05",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nNot only silk, but spices, rare metals, and exotic animals were also exchanged on the road.\n\nSilk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. ( ① ) The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. ( ② ) The Silk Road significantly shaped the societies and cultures of the regions that it connected. ( ③ ) Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 실크로드가 연결된 지역의 사회와 문화를 형성했다는 언급을 받은 뒤, ③ 자리에서 비단 외에 다른 물품들도 거래되었다는 문장이 나와야 뒤 문장의 'as well(역시/뿐만 아니라)'로 종교·예술·기술 공유가 자연스럽게 더해집니다."
+  },
+  {
+    "id": "L3-p04-q06",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. The Silk Road significantly shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "prompting the development of the civilizations",
+      "preventing cultural contact among distant regions",
+      "limiting trade strictly to royal palace officials",
+      "erasing local artistic styles across Asia and Europe",
+      "stopping the exchange of rare metals and spices"
+    ],
+    "answer": 0,
+    "explanation": "구문: 실크로드를 통해 상품뿐만 아니라 종교, 예술 양식, 기술까지 공유되면서 연결된 지역들의 문명 발전을 촉진했다는 흐름이 자연스럽습니다."
+  },
+  {
+    "id": "L3-p04-q07",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Silk became a valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest evidence of the silk trade. The Silk Road significantly shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also exchanged on the road. Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.\n\n[요약문]\nDating back before the Silk Road's official opening, silk trade was accompanied by exchanges of goods, religions, art, and (A)________ that shaped connected societies and spurred the growth of (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) technologies - (B) civilizations",
+      "(A) mummies - (B) monopolies",
+      "(A) currencies - (B) borders",
+      "(A) technologies - (B) deserts",
+      "(A) textiles - (B) isolation"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'Religions, artistic styles, and technologies were shared'와 'prompting the development of the civilizations'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p04-q08",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Silk became a ① valuable commodity highly sought after by other countries at a very early time, and it is believed that the silk trade was actually started before the Silk Road was officially opened in the second century B.C. The threads of silk found in the hair of an Egyptian mummy from around 1070 B.C. are probably the earliest ② evidence of the silk trade. The Silk Road significantly ③ shaped the societies and cultures of the regions that it connected. Not only silk, but spices, rare metals, and exotic animals were also ④ withheld on the road. Religions, artistic styles, and technologies were shared as well, ⑤ prompting the development of the civilizations.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 종교, 예술 양식, 기술도 함께 공유되었고 문명 발전을 촉진했으므로, 향신료와 희귀 금속, 이국적 동물들도 그 길에서 보류·보관된(withheld) 것이 아니라 '교환되었습니다(exchanged)'."
+  },
+  {
+    "id": "L3-p04-q09",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "종교, 예술 양식, 그리고 기술 역시 공유되었으며, 문명의 발전을 촉진했다.",
+    "chunks": [
+      "Religions, artistic styles, and technologies",
+      "were shared as well,",
+      "prompting the development",
+      "of the civilizations."
+    ],
+    "answer": "Religions, artistic styles, and technologies were shared as well, prompting the development of the civilizations.",
+    "explanation": "구문: 복수 주어 'Religions, artistic styles, and technologies'에 수동태 동사 'were shared as well'이 오고, 콤마 뒤에 앞 절의 결과를 나타내는 현재분사구 'prompting the development of the civilizations'가 이어집니다."
+  },
+  {
+    "id": "L3-p04-q10",
+    "passageId": "L3-p04",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 4 (p.67)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "The threads of silk ",
+      " in the hair of an Egyptian mummy are probably the earliest evidence, and the Silk Road shaped the regions ",
+      " it connected."
+    ],
+    "choices": [
+      [
+        "finding",
+        "found"
+      ],
+      [
+        "that",
+        "what"
+      ]
+    ],
+    "answers": [
+      "found",
+      "that"
+    ],
+    "explanation": "문법: ① 수식받는 'The threads of silk'가 미라 머리카락에서 '발견된' 수동 관계이므로 과거분사 'found'가 옵니다. ② 선행사 'the regions'를 수식하며 'it connected'의 목적어 역할을 하는 목적격 관계대명사 자리이므로 'that'을 씁니다."
+  }
+]

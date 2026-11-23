@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p02-q01",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art. AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "What Is AI and What Fuels Its Rapid Growth?",
+      "Why AI Art Generators Cannot Replace Human Painters",
+      "The Decline of Computing Power in Modern Data Storage",
+      "How Language Translation Replaced Speech Recognition",
+      "A Brief History of Mechanical Robots in the 19th Century"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI의 정의('the ability of computers and machines to perform tasks that typically require human intelligence')와 창의적 역할 확대, 그리고 급속한 성장을 이끈 세 가지 요인('computing power, data storage, and machine learning algorithms')을 포괄하는 제목은 ①입니다."
+  },
+  {
+    "id": "L4-p02-q02",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art. AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the definition of AI, its expanding creative capabilities, and the key drivers behind its rapid advancement",
+      "methods programmers use to limit data storage in machine learning models",
+      "reasons why visual perception is harder for computers than language translation",
+      "differences between traditional painting techniques and digital art software",
+      "how speech recognition devices operate without internet connections"
+    ],
+    "answer": 0,
+    "explanation": "구문: 인간 지능이 필요한 과업을 수행하는 AI의 정의, 예술 생성 등 창의적 역할 수행, 그리고 컴퓨팅 파워·데이터 저장·머신러닝 알고리즘 발전이 이끈 급성장을 종합해 보세요."
+  },
+  {
+    "id": "L4-p02-q03",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art. AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "AI는 시각적 인식, 음성 인식, 의사 결정, 언어 번역처럼 보통 인간의 지능을 필요로 하는 과업을 수행하는 컴퓨터와 기계의 능력이다.",
+      "최근의 발전으로 AI가 더욱 창의적인 역할을 맡는 모습도 볼 수 있게 되었다.",
+      "AI 예술 생성기는 말로 된 인간의 설명을 받아 그것을 직접 예술 작품으로 변환할 수 있다.",
+      "AI는 최근 몇 년 사이에 처음으로 등장한 완전히 새로운 개념이다.",
+      "컴퓨팅 파워, 데이터 저장, 그리고 머신러닝 알고리즘의 최근 발전이 AI의 급속한 성장을 촉진했다."
+    ],
+    "answer": 3,
+    "explanation": "구문: 'AI has been around for several decades'를 보세요. AI는 최근에 처음 등장한 것이 아니라 '수십 년 동안 존재해 왔습니다'."
+  },
+  {
+    "id": "L4-p02-q04",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.\n\n(A) AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth.\n(B) Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art.\n(C) Together, these technological breakthroughs have allowed modern AI systems to process complex information at unprecedented speeds.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 AI의 기본 정의와 과업을 제시한 뒤, (B)가 'also'를 통해 창의적 역할 확장을 추가로 설명하고, (A)가 AI의 급속한 성장을 이끈 기술적 동력을 밝히는 흐름이 자연스럽습니다."
+  },
+  {
+    "id": "L4-p02-q05",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nRecent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art.\n\n( ① ) AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. ( ② ) AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth. ( ③ ) These core technologies continue to expand what machines can accomplish in everyday life. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 시각 인식·번역 등 AI의 기본 지능 과업을 나열한 직후, ② 자리에서 'also(또한)'를 사용해 창의적 역할까지 수행하게 된 최근 발전을 덧붙이고, 이어서 AI 급성장의 배경을 설명하는 것이 가장 자연스럽습니다."
+  },
+  {
+    "id": "L4-p02-q06",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art. AI has been around for several decades, but ________________________ have fueled its rapid growth.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "recent advancements in computing power, data storage, and machine learning algorithms",
+      "strict limitations on computer memory and manual data entry",
+      "a decline in the number of researchers studying human intelligence",
+      "public efforts to ban digital art generators from creative industries",
+      "traditional methods of storing printed documents in physical libraries"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI가 수십 년 동안 존재해 왔음에도 최근 들어 급속하게 성장할 수 있었던 원동력은 컴퓨팅 파워, 데이터 저장, 머신러닝 알고리즘의 최근 발전입니다."
+  },
+  {
+    "id": "L4-p02-q07",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more creative roles; AI art generators, for example, are able to take a human's description in words and transform it directly into art. AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have fueled its rapid growth.\n\n[요약문]\nCapable of tasks requiring human (A)________ and even creative work like generating art, AI has experienced rapid growth driven by recent advances in computing power, data (B)________, and machine learning algorithms.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) intelligence - (B) storage",
+      "(A) emotion - (B) deletion",
+      "(A) intelligence - (B) restriction",
+      "(A) labor - (B) printing",
+      "(A) perception - (B) reduction"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'tasks that typically require human intelligence'와 'advancements in computing power, data storage, and machine learning algorithms'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p02-q08",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "AI is the ability of computers and machines to ① perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Recent developments have also seen AI taking on more ② creative roles; AI art generators, for example, are able to take a human's description in words and ③ transform it directly into art. AI has been around for several decades, but recent advancements in computing power, data storage, and machine learning algorithms have ④ hindered its ⑤ rapid growth.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 컴퓨팅 파워와 데이터 저장, 머신러닝 알고리즘의 최근 발전은 AI의 급속한 성장을 방해한(hindered) 것이 아니라 '촉진했습니다(fueled)'."
+  },
+  {
+    "id": "L4-p02-q09",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "AI는 시각적 인식, 음성 인식, 의사 결정, 그리고 언어 번역과 같이 일반적으로 인간의 지능을 필요로 하는 과업을 수행하는 컴퓨터와 기계의 능력이다.",
+    "chunks": [
+      "AI is the ability of computers and machines",
+      "to perform tasks",
+      "that typically require human intelligence,",
+      "such as visual perception, speech recognition, decision-making, and language translation."
+    ],
+    "answer": "AI is the ability of computers and machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.",
+    "explanation": "구문: 'the ability ~ to perform tasks'의 형용사적 to부정사구 뒤에 복수 선행사 'tasks'를 수식하는 주격 관계대명사절 'that typically require human intelligence'가 이어집니다."
+  },
+  {
+    "id": "L4-p02-q10",
+    "passageId": "L4-p02",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 2 (p.92 상단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Recent developments have also seen AI ",
+      " on more creative roles; AI art generators are able to take a human's description in words and ",
+      " it directly into art."
+    ],
+    "choices": [
+      [
+        "taking",
+        "taken"
+      ],
+      [
+        "transform",
+        "transforming"
+      ]
+    ],
+    "answers": [
+      "taking",
+      "transform"
+    ],
+    "explanation": "문법: ① 지각동사 'see'의 목적어 'AI'가 창의적 역할을 맡는 능동 진행 관계이므로 현재분사 'taking'이 옵니다. ② 'are able to' 뒤에서 앞의 동사원형 'take'와 접속사 'and'로 병렬 연결되므로 동사원형 'transform'을 씁니다."
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p01-q01",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. Exploring how textiles have changed the world helps us understand how human civilization has evolved.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "The Differences Between Artificial and Natural Fibers",
+      "Textiles: The Fabric Woven into Human Civilization",
+      "Why Ancient Societies Preferred Natural Clothing Materials",
+      "How Burial Customs Influenced Modern Fashion Trends",
+      "The Economic History of Global Textile Manufacturing"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'The history of textiles is almost as old as human civilization ~ Exploring how textiles have changed the world helps us understand how human civilization has evolved'를 보세요. 직물(섬유)과 인류 문명의 밀접한 관계를 나타내는 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p01-q02",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. Exploring how textiles have changed the world helps us understand how human civilization has evolved.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the lifelong presence of textiles and their close connection to the evolution of human civilization",
+      "methods ancient weavers used to produce shrouds and ceremonial garments",
+      "reasons why synthetic textiles replaced natural cloth in modern societies",
+      "differences in clothing traditions across isolated human civilizations",
+      "how environmental changes forced early humans to invent woven fabrics"
+    ],
+    "answer": 0,
+    "explanation": "구문: 태어나서 죽을 때까지 인간과 함께해 온 직물이 세상을 변화시켜 왔으며, 직물의 역사를 탐구하는 것이 인류 문명의 발전을 이해하는 데 도움이 된다는 핵심 내용을 종합해 보세요."
+  },
+  {
+    "id": "L3-p01-q03",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "밑줄 함축의미",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. <u>Exploring how textiles have changed the world helps us understand how human civilization has evolved.</u>",
+    "question": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "options": [
+      "studying the history and impact of fabrics reveals the developmental path of human society",
+      "replacing traditional clothing with artificial textiles accelerates technological evolution",
+      "modern archaeologists rely solely on ancient shrouds to date prehistoric settlements",
+      "human civilization could not have survived without inventing synthetic cloth first",
+      "comparing fashion styles across countries prevents cultural misunderstandings"
+    ],
+    "answer": 0,
+    "explanation": "구문: 직물이 세상을 바꾼 방식을 탐구하는 것이 인류 문명이 어떻게 진화했는지 이해하도록 돕는다는 것은 직물의 역사가 곧 인류 문명 발전의 거울임을 뜻합니다."
+  },
+  {
+    "id": "L3-p01-q04",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death.\n\n(A) The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched.\n(B) Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in.\n(C) Exploring how textiles have changed the world helps us understand how human civilization has evolved.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 탄생부터 죽음까지 직물과 함께하는 삶을 언급한 뒤, (B)가 의복 착용의 인간 고유성과 직물의 세계 변화 역할을 설명합니다. 그다음 (A)가 직물의 유구한 역사를 제시하고, (C)가 문명 이해로의 확장으로 마무리합니다."
+  },
+  {
+    "id": "L3-p01-q05",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nTextiles—artificial and natural—have shaped and changed the world we live in.\n\nWe live surrounded by cloth. ( ① ) We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. ( ② ) Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. ( ③ ) The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. ( ④ ) Exploring how textiles have changed the world helps us understand how human civilization has evolved. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 인간 사회의 의복 사용을 언급한 뒤, ③ 자리에서 직물이 우리가 사는 세상을 형성하고 변화시켜 왔다는 문장이 들어가야 뒤 문장의 유구한 역사와 세상 변화 탐구 내용과 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "L3-p01-q06",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. Exploring how textiles have changed the world helps us understand ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "how human civilization has evolved",
+      "why natural fibers are superior to artificial ones",
+      "when ancient humans stopped wearing ceremonial shrouds",
+      "how modern factories manufacture synthetic clothing",
+      "why some societies avoid using any form of cloth"
+    ],
+    "answer": 0,
+    "explanation": "구문: 앞 문장의 'The history of textiles is almost as old as human civilization'과 연결됩니다. 직물이 세상을 변화시킨 과정을 탐구하면 무엇을 이해할 수 있을까요?"
+  },
+  {
+    "id": "L3-p01-q07",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "We live surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more enriched. Exploring how textiles have changed the world helps us understand how human civilization has evolved.\n\n[요약문]\nAccompanying humans from birth to death, (A)________ have continuously shaped our world, making their rich history a key to understanding the evolution of human (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) textiles - (B) civilization",
+      "(A) shrouds - (B) technology",
+      "(A) textiles - (B) nature",
+      "(A) societies - (B) clothing",
+      "(A) characteristics - (B) history"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'Textiles'와 'how human civilization has evolved'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p01-q08",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "We live ① surrounded by cloth. We are covered with it at birth, we are made to wear clothes throughout our lives, and shrouds are drawn over our faces in death. Wearing clothes is a ② specifically human characteristic, and most human societies use some form of clothing. Textiles—artificial and natural—have ③ shaped and changed the world we live in. The history of textiles is almost as old as human civilization, and as time has passed, it has been more and more ④ impoverished. Exploring how textiles have changed the world helps us understand how human civilization has ⑤ evolved.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 직물의 역사는 인류 문명만큼이나 오래되었고 시간이 흐르면서 점점 더 빈곤해진(impoverished) 것이 아니라 '풍요로워졌습니다(enriched)'."
+  },
+  {
+    "id": "L3-p01-q09",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "직물이 세상을 어떻게 변화시켜 왔는지 탐구하는 것은 우리가 인류 문명이 어떻게 진화해 왔는지 이해하도록 돕는다.",
+    "chunks": [
+      "Exploring how textiles have changed the world",
+      "helps us understand",
+      "how human civilization",
+      "has evolved."
+    ],
+    "answer": "Exploring how textiles have changed the world helps us understand how human civilization has evolved.",
+    "explanation": "구문: 동명사구 주어 'Exploring ~' 뒤에 단수 동사 'helps + 목적어(us) + 목적격보어(understand)'와 간접의문문 'how + 주어 + 동사(has evolved)'가 이어집니다."
+  },
+  {
+    "id": "L3-p01-q10",
+    "passageId": "L3-p01",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 1 (p.65)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "We live ",
+      " by cloth, and we are made ",
+      " clothes throughout our lives."
+    ],
+    "choices": [
+      [
+        "surrounding",
+        "surrounded"
+      ],
+      [
+        "wear",
+        "to wear"
+      ]
+    ],
+    "answers": [
+      "surrounded",
+      "to wear"
+    ],
+    "explanation": "문법: ① 주어 'We'가 천에 의해 '둘러싸인' 수동 상태이므로 과거분사 'surrounded'가 옵니다. ② 사역동사 'make'가 수동태('are made')로 쓰일 때는 목적격보어로 'to부정사(to wear)'를 취합니다."
+  }
+]

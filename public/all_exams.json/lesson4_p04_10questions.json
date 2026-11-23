@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p04-q01",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "The Optimistic Vision: How AI Can Empower Society and Solve Global Crises",
+      "Why Critics Believe AI Will Increase Global Unemployment",
+      "How Weather Forecasting Replaced Traditional Medical Research",
+      "The Limitations of Data Analysis in Treating Rare Illnesses",
+      "Why Individuals Have Less Free Time in a Technical Society"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI 옹호론자들이 주장하는 두 가지 핵심 긍정적 전망(개인이 더 의미 있는 일에 집중할 수 있는 효율적 사회 구현 + 기후 변화 및 난치병 같은 복합 난제 해결)을 포괄하는 제목은 ①입니다."
+  },
+  {
+    "id": "L4-p04-q02",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "advocates' arguments regarding AI's potential to improve human life and solve complex global challenges",
+      "methods meteorologists use to prevent sudden changes in global weather patterns",
+      "reasons why untreatable illnesses spread faster in modern technical societies",
+      "differences between climate change data and infectious disease statistics",
+      "how individuals manage personal finances using advanced computing resources"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI 발전을 지지하는 사람들이 제시하는 사회적·인류적 이점(의미 있는 일에 대한 집중 여유 확보 및 방대한 데이터 분석을 통한 기후 변화·질병 해결책 모색)을 종합해 보세요."
+  },
+  {
+    "id": "L4-p04-q03",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "AI 옹호론자들은 AI의 발전이 더 효율적이고 생산적이며 기술적인 사회로 이어질 것이라고 주장한다.",
+      "AI가 발전한 사회에서는 개인들이 더 의미 있는 일에 집중할 더 많은 시간과 자원을 갖게 된다.",
+      "옹호론자들은 AI가 과거에는 불가능했던 방식으로 기후 변화와 질병 같은 복잡한 문제를 해결할 잠재력이 있다고 본다.",
+      "AI는 날씨 변화나 질병 확산의 패턴을 찾기 위해 방대한 양의 데이터를 빠르게 분석할 수 있다.",
+      "AI의 데이터 분석 속도는 인간의 수작업 분석보다 느리지만 장기적인 기후 해결책을 찾는 데는 유리하다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 'AI can analyze huge amounts of data quickly ~ This could lead to finding solutions ~ much quicker'를 보세요. AI는 방대한 데이터를 '빠르게(quickly)' 분석하여 훨씬 더 신속하게 해결책을 찾도록 이끕니다."
+  },
+  {
+    "id": "L4-p04-q04",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work.\n\n(A) For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease.\n(B) They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible.\n(C) This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 AI 옹호론자들의 첫 번째 주장(의미 있는 일에 집중하는 사회)을 제시한 뒤, (B)가 'They also argue'로 두 번째 주장(기후 변화·질병 같은 복합 문제 해결 잠재력)을 덧붙이고, (A)가 구체적 데이터 분석 예시를 들며, (C)가 'This'로 받아 신속한 해결책 도출 결과로 마무리합니다."
+  },
+  {
+    "id": "L4-p04-q05",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nFor example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease.\n\nAdvocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. ( ① ) They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible. ( ② ) This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker. ( ③ ) Such breakthroughs demonstrate why supporters remain optimistic about AI's role in human progress. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 AI가 기후 변화와 질병 같은 복합 문제를 해결할 잠재력이 있다고 주장한 뒤, ② 자리에서 'For example'로 날씨 변화와 질병 확산 패턴을 찾는 구체적 데이터 분석 방식을 제시해야 뒤 문장의 'This(이것)'가 자연스럽게 지시할 수 있습니다."
+  },
+  {
+    "id": "L4-p04-q06",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. They also argue that AI has the potential to ________________________, in ways that were previously impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "solve complex problems, such as climate change and disease",
+      "replace all forms of human interaction in daily life",
+      "slow down scientific research on infectious diseases",
+      "reduce the amount of data available to modern scientists",
+      "eliminate the need for medical treatments and healthcare"
+    ],
+    "answer": 0,
+    "explanation": "구문: 뒤 문장의 'For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease'가 기후 변화와 질병이라는 복합 난제를 해결하는 구체적 근거로 이어집니다."
+  },
+  {
+    "id": "L4-p04-q07",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Advocates of AI argue that these advancements will lead to a more efficient, productive, and technical society, where individuals have more time and resources to focus on more meaningful work. They also argue that AI has the potential to solve complex problems, such as climate change and disease, in ways that were previously impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.\n\n[요약문]\nSupporters of AI believe it will create a society where people can focus on (A)________ work while rapidly analyzing vast data to find solutions to global challenges like climate change and untreatable (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) meaningful - (B) illnesses",
+      "(A) repetitive - (B) accidents",
+      "(A) meaningful - (B) poverty",
+      "(A) manual - (B) illnesses",
+      "(A) technical - (B) conflicts"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'focus on more meaningful work'와 'cures for untreatable illnesses'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p04-q08",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Advocates of AI argue that these advancements will lead to a more ① efficient, productive, and technical society, where individuals have more time and resources to focus on more ② meaningful work. They also argue that AI has the potential to solve ③ complex problems, such as climate change and disease, in ways that were previously ④ impossible. For example, AI can analyze huge amounts of data quickly to find patterns in weather changes or the spread of a disease. This could lead to finding solutions to climate change and cures for ⑤ curable illnesses much quicker.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 이전에는 불가능했던 방식으로 질병 문제를 해결해 치료법을 훨씬 빠르게 찾는다는 맥락이므로 이미 치료 가능한(curable) 질병이 아니라 '치료 불가능한, 난치성의(untreatable)' 질병이 적절합니다."
+  },
+  {
+    "id": "L4-p04-q09",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이것은 기후 변화에 대한 해결책과 치료 불가능한 질병에 대한 치료법을 훨씬 더 빠르게 찾는 것으로 이어질 수 있다.",
+    "chunks": [
+      "This could lead to",
+      "finding solutions to climate change",
+      "and cures for untreatable illnesses",
+      "much quicker."
+    ],
+    "answer": "This could lead to finding solutions to climate change and cures for untreatable illnesses much quicker.",
+    "explanation": "구문: '~로 이어지다'를 뜻하는 'lead to'의 'to'는 전치사이므로 뒤에 동명사 'finding'이 오며, 목적어로 'solutions to ~ and cures for ~'가 병렬 연결되어 있습니다."
+  },
+  {
+    "id": "L4-p04-q10",
+    "passageId": "L4-p04",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 4 (p.93)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "AI will lead to a technical society, ",
+      " individuals have more time to focus on meaningful work, and it has the potential to solve complex problems in ways that ",
+      " previously impossible."
+    ],
+    "choices": [
+      [
+        "which",
+        "where"
+      ],
+      [
+        "was",
+        "were"
+      ]
+    ],
+    "answers": [
+      "where",
+      "were"
+    ],
+    "explanation": "문법: ① 선행사 'a technical society' 뒤에서 주어·동사·목적어를 모두 갖춘 완전한 절('individuals have more time ~')이 이어지므로 관계부사 'where'가 옵니다. ② 주격 관계대명사 'that'의 선행사가 복수명사 'ways'이므로 복수 동사 'were'를 씁니다."
+  }
+]

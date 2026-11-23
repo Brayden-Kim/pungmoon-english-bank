@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p07-q01",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways. At the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities. By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Preparing for New AI-Driven Careers Through Evolving Education",
+      "Why Data Scientists Will Soon Be Replaced by Robots",
+      "The Decline of Traditional Universities in the Digital Era",
+      "How AI Ethics Experts Prevent Technological Innovation",
+      "Why Adaptation Is Unnecessary in an Automated Job Market"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI의 부상이 데이터 과학자·머신러닝 엔지니어·AI 윤리 전문가 등 새로운 일자리 기회를 창출함에 따라, 이에 대비하기 위해 교육과 훈련이 진화하고 사람들이 적응·학습해야 한다는 내용의 제목은 ①입니다."
+  },
+  {
+    "id": "L4-p07-q02",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways. At the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities. By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the emergence of new AI-related jobs and the necessity of evolving education and continuous learning",
+      "methods companies use to reduce training costs for machine learning engineers",
+      "reasons why AI ethics experts disagree with data scientists on privacy laws",
+      "differences between academic research and corporate software engineering",
+      "how society restricts the growth of new occupations in the AI industry"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI 부상으로 생겨날 새로운 직업군(데이터 과학자, 머신러닝 엔지니어, AI 윤리 전문가 등)과 새로운 역량 요구에 맞춘 교육·훈련의 진화 및 개인의 적응·학습 필요성을 종합해 보세요."
+  },
+  {
+    "id": "L4-p07-q03",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways. At the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities. By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "AI의 부상은 새로운 일자리 기회를 낳을 가능성이 높다.",
+      "데이터 과학자, 머신러닝 엔지니어, AI 윤리 전문가 등에 대한 수요가 증가할 것이다.",
+      "새로운 직업들은 개인들이 의미 있는 방식으로 사회에 기여할 수 있게 해 줄 것이다.",
+      "새로운 직업들은 기존과 동일한 기술만을 요구하므로 교육과 훈련이 변화할 필요는 없다.",
+      "적응하고 학습함으로써 사람들은 AI가 주요한 역할을 하는 세상에서 길을 찾을 수 있다."
+    ],
+    "answer": 3,
+    "explanation": "구문: 'since they require new skills, education and training will need to evolve to help people prepare for these new opportunities'를 보세요. 새로운 직업들은 '새로운 기술(new skills)'을 요구하므로 교육과 훈련이 진화할 필요가 있습니다."
+  },
+  {
+    "id": "L4-p07-q04",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities.\n\n(A) At the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities.\n(B) There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways.\n(C) By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 새로운 일자리 기회 창출을 전망한 뒤, (B)가 구체적 유망 직종(데이터 과학자 등)과 사회적 기여 의의를 설명합니다. 이어서 (A)가 'These jobs'를 'they'로 받아 교육·훈련의 진화 필요성을 제시하고, (C)가 개인의 적응과 학습을 통한 진로 모색으로 마무리합니다."
+  },
+  {
+    "id": "L4-p07-q05",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nAt the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities.\n\nTherefore, it is likely that the rise of AI will also give rise to new job opportunities. ( ① ) There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. ( ② ) These jobs will allow individuals to contribute to society in meaningful ways. ( ③ ) By adapting and learning, people can find paths in a world where AI plays a major role. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤의 'These jobs'를 주어진 문장의 'they'로 받아, 새로운 직업들이 새 기술을 요구하므로 교육과 훈련이 진화해야 한다는 내용이 ③ 자리에 들어가야 뒤 문장의 'By adapting and learning ~'과 자연스럽게 이어집니다."
+  },
+  {
+    "id": "L4-p07-q06",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways. At the same time, since they require new skills, ________________________ to help people prepare for these new opportunities. By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "education and training will need to evolve",
+      "governments should limit the use of machine learning",
+      "companies must reduce investments in worker development",
+      "traditional degrees will remain completely unchanged",
+      "individuals should avoid careers related to technology"
+    ],
+    "answer": 0,
+    "explanation": "구문: 새로 생겨나는 직업들이 새로운 기술(new skills)을 요구하기 때문에 사람들이 이러한 새로운 기회에 대비하도록 돕기 위해 교육과 훈련이 진화할 필요가 있습니다."
+  },
+  {
+    "id": "L4-p07-q07",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to contribute to society in meaningful ways. At the same time, since they require new skills, education and training will need to evolve to help people prepare for these new opportunities. By adapting and learning, people can find paths in a world where AI plays a major role.\n\n[요약문]\nAs AI creates new careers such as data scientists and AI ethics experts, (A)________ and training must evolve so that individuals can (B)________ and thrive in an AI-driven world.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) education - (B) adapt",
+      "(A) competition - (B) retire",
+      "(A) education - (B) resist",
+      "(A) regulation - (B) adapt",
+      "(A) automation - (B) compete"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'education and training will need to evolve'와 'By adapting and learning, people can find paths'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p07-q08",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Therefore, it is likely that the rise of AI will also give rise to new job opportunities. There will be a ① growing demand for data scientists, machine learning engineers, and AI ethics experts, among others. These jobs will allow individuals to ② contribute to society in meaningful ways. At the same time, since they require new skills, education and training will need to ③ stagnate to help people ④ prepare for these new opportunities. By ⑤ adapting and learning, people can find paths in a world where AI plays a major role.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: 새로운 직업들이 새로운 역량을 요구하므로 사람들이 새로운 기회에 대비할 수 있도록 교육과 훈련은 정체되어야(stagnate) 하는 것이 아니라 '진화할(evolve)' 필요가 있습니다."
+  },
+  {
+    "id": "L4-p07-q09",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "적응하고 학습함으로써, 사람들은 AI가 주요한 역할을 하는 세상에서 길을 찾을 수 있다.",
+    "chunks": [
+      "By adapting and learning,",
+      "people can find paths",
+      "in a world",
+      "where AI plays a major role."
+    ],
+    "answer": "By adapting and learning, people can find paths in a world where AI plays a major role.",
+    "explanation": "구문: 'by + 동명사(~함으로써)' 구문 뒤에 주절이 오고, 선행사 'a world'를 완전한 절로 수식하는 관계부사절 'where AI plays a major role'이 연결되어 있습니다."
+  },
+  {
+    "id": "L4-p07-q10",
+    "passageId": "L4-p07",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 7 (p.95)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "These jobs will allow individuals ",
+      " to society in meaningful ways, and people can find paths in a world ",
+      " AI plays a major role."
+    ],
+    "choices": [
+      [
+        "contribute",
+        "to contribute"
+      ],
+      [
+        "which",
+        "where"
+      ]
+    ],
+    "answers": [
+      "to contribute",
+      "where"
+    ],
+    "explanation": "문법: ① 'allow + 목적어(individuals) + to부정사' 구문이므로 'to contribute'가 옵니다. ② 선행사 'a world' 뒤에 주어·동사·목적어를 모두 갖춘 완전한 문장('AI plays a major role')이 이어지므로 관계부사 'where'를 씁니다."
+  }
+]

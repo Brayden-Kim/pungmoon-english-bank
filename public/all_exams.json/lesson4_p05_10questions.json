@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p05-q01",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries. This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How AI Automation Creates High-Paying Jobs for Everyone",
+      "Critics' Concerns: AI-Driven Job Losses and Economic Inequality",
+      "Why Robots Cannot Replace Human Workers in Service Industries",
+      "Strategies for Reducing Competition in the Modern Job Market",
+      "How Government Policies Eliminated Poverty in Industrial Sectors"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'many critics of AI raise concerns about its impact on employment ~ widespread job losses ~ increased poverty and income gap'을 보세요. AI 자동화로 인한 대규모 실직과 빈곤·소득 격차 심화 우려를 담은 제목은 ②입니다."
+  },
+  {
+    "id": "L4-p05-q02",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries. This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "critics' worries about widespread unemployment and widening income inequality caused by AI automation",
+      "methods displaced workers use to start their own technology companies",
+      "reasons why competitive job markets encourage workers to learn robotics",
+      "differences between industrial robots and office automation software",
+      "how machines and robots collaborate with human workers to boost wages"
+    ],
+    "answer": 0,
+    "explanation": "구문: 기계와 로봇이 인간 노동자를 대체하면서 발생하는 광범위한 일자리 상실과, 재취업 난항에 따른 빈곤 및 소득 격차 확대에 대한 AI 비판론자들의 우려를 종합해 보세요."
+  },
+  {
+    "id": "L4-p05-q03",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries. This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "많은 AI 비판론자들은 고용에 미치는 AI의 영향에 대해 우려를 제기한다.",
+      "비판론자들은 자동화가 많은 산업에서 기계와 로봇이 인간 노동자를 대체함에 따라 광범위한 일자리 상실로 이어질 것이라고 주장한다.",
+      "일자리 상실은 빈곤 증가와 소득 격차 확대로 이어질 수 있다.",
+      "일자리를 잃은 사람들은 이미 경쟁이 치열한 노동 시장에서 새로운 일자리를 찾는 데 어려움을 겪는다.",
+      "비판론자들은 실직한 노동자들이 경쟁이 없는 노동 시장에서 손쉽게 새 직장을 구할 것이라고 본다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 부분 'as those who lose their jobs struggle to find new employment in an already competitive job market'를 보세요. 이미 경쟁이 치열한 노동 시장에서 새 일자리를 찾는 데 '고군분투한다(struggle)'고 했습니다."
+  },
+  {
+    "id": "L4-p05-q04",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment.\n\n(A) This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.\n(B) Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries.\n(C) Without adequate social support or retraining programs, long-term unemployment could become a pressing issue for vulnerable communities.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 고용 영향에 대한 우려를 제기한 뒤, (B)가 구체적 내용인 자동화로 인한 대규모 일자리 상실을 설명하고, (A)가 'This'로 그 실직 사태를 받아 빈곤과 소득 격차 심화라는 파급 효과로 이어집니다."
+  },
+  {
+    "id": "L4-p05-q05",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nAutomation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries.\n\n( ① ) Meanwhile, many critics of AI raise concerns about its impact on employment. ( ② ) This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market. ( ③ ) Economists warn that rapid technological displacement requires proactive policy responses. ( ④ ) ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤의 'many critics of AI'를 'they'로 받아 자동화로 인한 대규모 실직 주장을 제시하는 ② 자리에 들어가야 뒤 문장의 'This(광범위한 일자리 상실)'와 자연스럽게 연결됩니다."
+  },
+  {
+    "id": "L4-p05-q06",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries. This could lead to ________________________, as those who lose their jobs struggle to find new employment in an already competitive job market.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "increased poverty and income gap",
+      "equal wealth distribution across all industries",
+      "a severe shortage of automated machines and robots",
+      "higher wages and reduced competition for job seekers",
+      "immediate reemployment for every displaced worker"
+    ],
+    "answer": 0,
+    "explanation": "구문: 실직자들이 이미 경쟁이 치열한 노동 시장에서 새 일자리를 구하는 데 어려움을 겪게 되면 그 결과로 빈곤이 증가하고 소득 격차가 벌어질 수 있습니다."
+  },
+  {
+    "id": "L4-p05-q07",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Meanwhile, many critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to widespread job losses, as machines and robots replace human workers in many industries. This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.\n\n[요약문]\nCritics warn that AI-driven (A)________ could replace human workers across industries, causing widespread unemployment that deepens (B)________ and widens the income gap.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) automation - (B) poverty",
+      "(A) competition - (B) productivity",
+      "(A) automation - (B) innovation",
+      "(A) education - (B) poverty",
+      "(A) investment - (B) employment"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'Automation ~ replace human workers'와 'increased poverty and income gap'이 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p05-q08",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Meanwhile, many ① critics of AI raise concerns about its impact on employment. Automation, they argue, will lead to ② widespread job losses, as machines and robots ③ replace human workers in many industries. This could lead to increased poverty and income gap, as those who lose their jobs ④ struggle to find new employment in an already ⑤ uncompetitive job market.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: 일자리를 잃은 사람들이 새 직장을 구하는 데 고군분투하는 이유는 노동 시장이 경쟁이 없는(uncompetitive) 상태가 아니라 '이미 경쟁이 치열한(competitive)' 상태이기 때문입니다."
+  },
+  {
+    "id": "L4-p05-q09",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "이것은 일자리를 잃은 사람들이 이미 경쟁이 치열한 노동 시장에서 새로운 일자리를 찾기 위해 고군분투함에 따라 빈곤 증가와 소득 격차로 이어질 수 있다.",
+    "chunks": [
+      "This could lead to increased poverty and income gap,",
+      "as those who lose their jobs",
+      "struggle to find new employment",
+      "in an already competitive job market."
+    ],
+    "answer": "This could lead to increased poverty and income gap, as those who lose their jobs struggle to find new employment in an already competitive job market.",
+    "explanation": "구문: 접속사 'as'절의 주어로 '~하는 사람들'을 뜻하는 'those who lose their jobs'가 쓰였고, 'struggle + to부정사(to find)' 구문이 이어집니다."
+  },
+  {
+    "id": "L4-p05-q10",
+    "passageId": "L4-p05",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 5 (p.94 상단)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "This could lead to ",
+      " poverty and income gap, as those who lose their jobs ",
+      " to find new employment."
+    ],
+    "choices": [
+      [
+        "increasing",
+        "increased"
+      ],
+      [
+        "struggle",
+        "struggles"
+      ]
+    ],
+    "answers": [
+      "increased",
+      "struggle"
+    ],
+    "explanation": "문법: ① 수식받는 'poverty and income gap'이 '증가된' 상태이므로 과거분사 'increased'가 옵니다. ② 'as'절의 주어가 복수 대명사 'those'이므로 복수 동사 'struggle'을 씁니다."
+  }
+]

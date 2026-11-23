@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L3-p06-q01",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "How NASA Designed Metallic Armor for Lunar Astronauts",
+      "Stitched by Hand: The Seamstresses Behind the Apollo Space Suit",
+      "Why Large Aerospace Firms Won the Apollo Contract",
+      "The Decline of Traditional Sewing Techniques in Space Engineering",
+      "How Astronauts Tested Space Suits in Underwater Tanks"
+    ],
+    "answer": 1,
+    "explanation": "구문: 'it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise'를 보세요. 여성 속옷 제작 기술을 가진 재봉사들의 장인정신이 아폴로 우주복을 탄생시켰다는 내용을 담은 제목은 무엇일까요?"
+  },
+  {
+    "id": "L3-p06-q02",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "how skilled seamstresses from an underwear manufacturer crafted the complex fabric Apollo space suits",
+      "methods NASA engineers used to reduce the weight of lunar space suits",
+      "reasons why eight aerospace companies competed for government contracts",
+      "differences between hand sewing and industrial metal welding in spacecraft",
+      "how female underwear fashion changed after the 1969 moon landing"
+    ],
+    "answer": 0,
+    "explanation": "구문: 여성 속옷 회사 소속 재봉사들이 수천 개의 천 조각과 21개 층의 소재를 바느질해 인류 역사상 가장 정교한 아폴로 우주복을 완성한 과정을 종합해 보세요."
+  },
+  {
+    "id": "L3-p06-q03",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "여덟 개의 회사가 NASA에 자신들의 해결책을 제시했다.",
+      "아폴로 우주복 계약을 따낸 회사는 다른 회사들만큼 크지 않았고 여성 속옷 제품군으로 명성을 얻었다.",
+      "각 우주복은 재봉사들이 손과 재봉틀을 사용하여 제작했다.",
+      "달에서 착용된 각 우주복은 약 4천 개의 천 조각과 21개 층의 서로 다른 소재로 구성되었고 당시 무게가 82kg이었다.",
+      "아폴로 우주복은 재봉사의 기술이 아니라 오직 NASA의 첨단 기술 전문성만으로 완성된 결과물이었다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 마지막 문장 'it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise'를 보세요. NASA의 기술 전문성이라기보다는 바느질과 속옷 제작에 숙련된 여성들의 장인정신의 결실이었습니다."
+  },
+  {
+    "id": "L3-p06-q04",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear.\n\n(A) What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time.\n(B) The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear.\n(C) It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 속옷 회사의 계약 수주를 밝힌 뒤, (B)가 그 회사가 제안한 천 소재 우주복과 재봉사들의 기술을 소개합니다. 그다음 (A)가 작업의 어려움과 구체적인 층·부품 구성을 설명하고, (C)가 장인정신의 결실이라는 평가로 마무리합니다."
+  },
+  {
+    "id": "L3-p06-q05",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nWhat made the work so hard was the number of layers and components involved.\n\nEight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. ( ① ) The company came up with a softer and more flexible space suit made almost entirely of fabric. ( ② ) Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. ( ③ ) In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. ( ④ ) It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "explanation": "구문: ② 뒤에서 재봉사들의 제작 방식과 경력을 설명한 뒤, ③ 자리에서 작업을 매우 어렵게 만든 요인이 층과 부품의 수였다고 제시해야 뒤 문장의 4천 개 천 조각과 21개 층이라는 구체적 수치가 자연스럽게 이어집니다."
+  },
+  {
+    "id": "L3-p06-q06",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. It remains the most complex space suit to have been used to date, and it was ________________________, rather than NASA's technological expertise.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the fruit of the craftsmanship of the women skilled in sewing and making underwear",
+      "the result of automated robotic assembly lines built by aerospace engineers",
+      "a temporary prototype abandoned before astronauts reached the lunar surface",
+      "a rigid metallic shell designed exclusively by NASA's laboratory physicists",
+      "an inexpensive garment mass-produced by large industrial corporations"
+    ],
+    "answer": 0,
+    "explanation": "구문: 'rather than NASA's technological expertise(NASA의 기술 전문성이라기보다는)'와 대조되는 핵심 원동력은 바느질과 속옷 제작에 능숙한 여성들의 장인정신입니다."
+  },
+  {
+    "id": "L3-p06-q07",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its reputation to its product line of female underwear. The company came up with a softer and more flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of distinct materials, weighing 82 kg at the time. It remains the most complex space suit to have been used to date, and it was the fruit of the craftsmanship of the women skilled in sewing and making underwear, rather than NASA's technological expertise.\n\n[요약문]\nSurprisingly won by a female underwear manufacturer, the Apollo space suit combined thousands of (A)________ pieces across twenty-one layers and owed its historic success to the sewing (B)________ of skilled seamstresses.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) fabric - (B) craftsmanship",
+      "(A) metallic - (B) computers",
+      "(A) fabric - (B) advertising",
+      "(A) plastic - (B) expertise",
+      "(A) wooden - (B) machinery"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'four thousand pieces of fabric'과 'the craftsmanship of the women skilled in sewing'이 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L3-p06-q08",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "Eight companies presented their solutions to NASA. To everyone's surprise, the company which won the contract for the Apollo suits wasn't as big as the others and owed its ① reputation to its product line of female underwear. The company came up with a softer and more ② flexible space suit made almost entirely of fabric. Each suit was made by seamstresses using their hands and sewing machines. Their skills were ③ acquired from years of making women's underwear. What made the work so hard was the number of layers and components involved. In the end, each suit worn on the moon was comprised of some four thousand pieces of fabric and twenty-one layers of ④ identical materials, weighing 82 kg at the time. It remains the most ⑤ complex space suit to have been used to date.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "explanation": "구문: 가장 복잡하고 정교한 우주복을 만들기 위해 21개 층의 동일한(identical) 소재가 아니라 '서로 다른, 별개의(distinct)' 소재가 사용되었습니다."
+  },
+  {
+    "id": "L3-p06-q09",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "그 작업을 매우 어렵게 만든 것은 관련된 층과 부품의 수였다.",
+    "chunks": [
+      "What made the work so hard",
+      "was the number",
+      "of layers and components",
+      "involved."
+    ],
+    "answer": "What made the work so hard was the number of layers and components involved.",
+    "explanation": "구문: 선행사를 포함한 관계대명사절 주어 'What made the work so hard' 뒤에 단수 동사 'was'와 보어 'the number of ~', 그리고 뒤에서 수식하는 과거분사 'involved'가 이어집니다."
+  },
+  {
+    "id": "L3-p06-q10",
+    "passageId": "L3-p06",
+    "unit": "Lesson 3",
+    "passageTitle": "Lesson 3 - 본문 6 (p.69)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "Each suit ",
+      " on the moon was comprised of twenty-one layers of distinct materials, ",
+      " 82 kg at the time."
+    ],
+    "choices": [
+      [
+        "wearing",
+        "worn"
+      ],
+      [
+        "weighing",
+        "weighed"
+      ]
+    ],
+    "answers": [
+      "worn",
+      "weighing"
+    ],
+    "explanation": "문법: ① 수식받는 'each suit'가 달에서 '착용된' 수동 관계이므로 과거분사 'worn'이 옵니다. ② 콤마 뒤에서 우주복의 무게를 부연 설명하는 능동 분사구문 자리이므로 'weighing'을 씁니다."
+  }
+]

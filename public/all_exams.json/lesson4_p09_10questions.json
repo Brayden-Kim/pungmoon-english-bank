@@ -1,0 +1,199 @@
+[
+  {
+    "id": "L4-p09-q01",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "제목",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth. It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally. The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.",
+    "question": "다음 글의 제목으로 가장 적절한 것은?",
+    "options": [
+      "Why Governments Alone Must Control Artificial Intelligence",
+      "Shaping an Ethical AI Future Through Collective Responsibility",
+      "How AI Eliminated All Economic Challenges in Modern Society",
+      "The End of Human Collaboration in the Age of Automation",
+      "Why the Benefits of AI Outweigh All Potential Ethical Risks"
+    ],
+    "answer": 1,
+    "explanation": "구문: AI의 혜택과 도전 과제를 균형 있게 살피며 책임감 있고 윤리적인 AI 발전과 혜택의 공평한 분배를 위해 정부·기업·개인이 협력해야 한다는 결론부의 핵심을 담은 제목은 ②입니다."
+  },
+  {
+    "id": "L4-p09-q02",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "주제",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth. It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally. The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.",
+    "question": "다음 글의 주제로 가장 적절한 것은?",
+    "options": [
+      "the need for collaborative societal responsibility to ensure ethical AI development and equitable benefits",
+      "methods corporations use to bypass government regulations on AI standards",
+      "reasons why individuals cannot influence the future direction of AI",
+      "differences between economic growth and job creation in previous eras",
+      "how training programs slow down the implementation of new technologies"
+    ],
+    "answer": 0,
+    "explanation": "구문: AI의 잠재적 혜택과 도전을 함께 고려하면서, 책임감 있고 윤리적인 개발·구현과 혜택의 공평한 공유를 위해 정부·기업·개인이 협력해야 할 사회적 책임을 종합해 보세요."
+  },
+  {
+    "id": "L4-p09-q03",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "세부내용 불일치",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth. It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally. The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.",
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "options": [
+      "AI의 부상은 사회의 미래를 심오한 방식으로 형성하고 있으며, 이 기술이 제시하는 잠재적 혜택과 도전을 모두 고려하는 것이 중요하다.",
+      "AI는 효율성과 생산성을 높이고 복잡한 문제를 해결할 잠재력이 있는 반면, 일자리 상실을 초래하고 기존 편견을 지속시킬 잠재력도 있다.",
+      "AI의 부상은 새로운 일자리 기회를 창출하고 경제 성장에 기여할 가능성이 높다.",
+      "AI의 개발과 구현이 책임감 있고 윤리적인 방식으로 이루어지도록 보장하는 것은 사회의 책임이다.",
+      "AI의 혜택이 공평하게 공유되도록 보장하는 일은 오직 기업의 자율적 결정에만 맡겨야 한다."
+    ],
+    "answer": 4,
+    "explanation": "구문: 'This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally'를 보세요. 기업의 단독 결정이 아니라 '정부, 기업, 개인 간의 협력(collaboration)'이 필요합니다."
+  },
+  {
+    "id": "L4-p09-q04",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "순서배열",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents.\n\n(A) It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally.\n(B) While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth.\n(C) The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.",
+    "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+    "options": [
+      "(A) - (C) - (B)",
+      "(B) - (A) - (C)",
+      "(B) - (C) - (A)",
+      "(C) - (A) - (B)",
+      "(C) - (B) - (A)"
+    ],
+    "answer": 1,
+    "explanation": "구문: 주어진 글에서 혜택과 도전의 균형적 고려를 제시한 뒤, (B)가 혜택·도전·일자리 창출과 경제 성장을 구체적으로 정리하고, (A)가 윤리적 발전과 혜택 공유를 위한 사회적 책임과 협력을 강조하며, (C)가 인류 미래에 미칠 심오한 영향으로 최종 마무리합니다."
+  },
+  {
+    "id": "L4-p09-q05",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "문장삽입",
+    "passage": "[주어진 문장]\nHowever, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth.\n\nIn conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. ( ① ) While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. ( ② ) It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. ( ③ ) This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally. ( ④ ) The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity. ( ⑤ )",
+    "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "explanation": "구문: ① 뒤에서 일자리 상실과 기존 편향 지속이라는 부정적 측면을 언급한 직후, ② 자리에서 'However'로 역접하여 새로운 일자리 기회 창출과 경제 성장 기여라는 긍정적 전망을 제시하는 흐름이 가장 자연스럽습니다."
+  },
+  {
+    "id": "L4-p09-q06",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "빈칸추론",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth. It is the responsibility of society to ensure that ________________________.",
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "the development and implementation of AI are done in a responsible and ethical manner",
+      "governments prohibit corporations from developing new AI technologies",
+      "individuals rely solely on machines without any education or training",
+      "economic growth takes priority over regulations and ethical standards",
+      "the benefits of AI remain exclusive to major technology corporations"
+    ],
+    "answer": 0,
+    "explanation": "구문: 뒤 문장의 'collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally'가 뒷받침하는 핵심 목표는 AI의 개발과 구현이 책임감 있고 윤리적인 방식으로 이루어지도록 보장하는 것입니다."
+  },
+  {
+    "id": "L4-p09-q07",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "지문요약",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and contribute to economic growth. It is the responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared equally. The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.\n\n[요약문]\nBalancing AI's benefits and challenges requires (A)________ among governments, businesses, and individuals to ensure ethical development, provide training, and share AI's benefits (B)________.",
+    "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+    "options": [
+      "(A) collaboration - (B) equally",
+      "(A) competition - (B) selectively",
+      "(A) collaboration - (B) secretly",
+      "(A) isolation - (B) equally",
+      "(A) regulation - (B) unevenly"
+    ],
+    "answer": 0,
+    "explanation": "구문: 본문의 'collaboration between governments, corporations, and individuals'와 'ensure that the benefits of AI are shared equally'가 요약문의 빈칸 (A), (B)에 각각 대응합니다."
+  },
+  {
+    "id": "L4-p09-q08",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "multiple_choice",
+    "subType": "적절한 어휘",
+    "passage": "In conclusion, the rise of AI is shaping the future of society in ① profound ways, and it is important that we consider both the potential benefits and challenges this technology presents. While AI has the potential to increase efficiency and productivity and solve complex problems, it also has the potential to cause job losses and continue existing biases. However, as with any revolutionary technology, it is likely that the rise of AI will also create new job opportunities and ② contribute to economic growth. It is the ③ responsibility of society to ensure that the development and implementation of AI are done in a responsible and ethical manner. This will require ④ collaboration between governments, corporations, and individuals to establish regulations and standards, provide education and training programs, and ensure that the benefits of AI are shared ⑤ unequally.",
+    "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "explanation": "구문: AI의 개발과 구현이 책임감 있고 윤리적인 방식으로 이루어지도록 사회가 협력해야 하므로, AI의 혜택이 불공평하게(unequally) 공유되는 것이 아니라 '공평하게(equally)' 공유되도록 보장해야 합니다."
+  },
+  {
+    "id": "L4-p09-q09",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "scramble",
+    "subType": "서술형-문장배열",
+    "korean": "미래는 지금이며, 우리가 우리 삶에서 AI의 역할을 형성하는 방식은 인류의 미래에 심오한 영향을 미칠 것이다.",
+    "chunks": [
+      "The future is now,",
+      "and the way we shape the role of AI in our lives",
+      "will have a profound impact",
+      "on the future of humanity."
+    ],
+    "answer": "The future is now, and the way we shape the role of AI in our lives will have a profound impact on the future of humanity.",
+    "explanation": "구문: 두 번째 절의 주어 'the way (that/in which) we shape the role of AI in our lives' 뒤에 단수 동사구 'will have a profound impact on ~'이 연결된 구조입니다."
+  },
+  {
+    "id": "L4-p09-q10",
+    "passageId": "L4-p09",
+    "unit": "Lesson 4",
+    "passageTitle": "Lesson 4 - 본문 9 (p.97)",
+    "type": "grammar_select",
+    "subType": "서술형-어법선택",
+    "sentenceParts": [
+      "This will require collaboration between governments, corporations, and individuals to establish regulations, provide training programs, and ",
+      " that the benefits of AI are shared ",
+      "."
+    ],
+    "choices": [
+      [
+        "ensure",
+        "ensuring"
+      ],
+      [
+        "equal",
+        "equally"
+      ]
+    ],
+    "answers": [
+      "ensure",
+      "equally"
+    ],
+    "explanation": "문법: ① 'to establish ~, provide ~, and ensure ~'에서 앞의 동사원형 'establish', 'provide'와 병렬 연결되므로 동사원형 'ensure'가 옵니다. ② 수동태 동사 'are shared'를 수식하는 자리이므로 부사 'equally'를 씁니다."
+  }
+]
