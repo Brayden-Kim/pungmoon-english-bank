@@ -21,6 +21,22 @@ create table if not exists public.student_progress (
 alter table public.submissions
   add column if not exists student_key text;
 
+alter table public.submissions
+  add column if not exists exam_title text not null default '',
+  add column if not exists mode text not null default 'random_shuffle',
+  add column if not exists student_name text not null default '',
+  add column if not exists submitted_at timestamptz not null default now(),
+  add column if not exists total_score integer not null default 0,
+  add column if not exists correct_count integer not null default 0,
+  add column if not exists total_questions integer not null default 0,
+  add column if not exists question_results jsonb not null default '[]'::jsonb;
+
+alter table public.student_progress
+  add column if not exists student_key text,
+  add column if not exists student_name text not null default '',
+  add column if not exists incorrect_questions jsonb not null default '[]'::jsonb,
+  add column if not exists updated_at timestamptz not null default now();
+
 update public.submissions
 set student_key = regexp_replace(lower(trim(coalesce(student_name, ''))), '\s+', '', 'g')
 where student_key is null or btrim(student_key) = '';
