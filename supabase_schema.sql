@@ -14,6 +14,12 @@ create table if not exists public.submissions (
 alter table public.submissions
   alter column id type text using id::text;
 
+alter table public.submissions
+  add column if not exists exam_set_id text;
+
+alter table public.submissions
+  alter column exam_set_id drop not null;
+
 create table if not exists public.student_progress (
   student_key text primary key,
   student_name text not null,
