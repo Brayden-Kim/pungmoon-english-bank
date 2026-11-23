@@ -241,6 +241,8 @@ class LocalStorageService {
       const { error } = await supabase.from('submissions').upsert({
         id: submission.id,
         exam_title: submission.examTitle,
+        exam_set_id: 'bundled-all-exams',
+        exam_set_title: submission.examTitle,
         mode: submission.mode,
         student_name: submission.studentName,
         student_key: this.getStudentKey(submission.studentName),
