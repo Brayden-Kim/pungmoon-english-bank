@@ -53,6 +53,11 @@ export const StudentHome: React.FC<StudentHomeProps> = ({
 
   // 오답 보관함 상태
   const [incorrectList, setIncorrectList] = useState<Question[]>([]);
+  const studentSubmissions = submissions.filter(
+    (submission) =>
+      submission.studentName.trim().replace(/\s+/g, '').toLowerCase()
+      === studentName.trim().replace(/\s+/g, '').toLowerCase(),
+  );
 
   // 학생 이름에 따른 오답 보관함 로드
   useEffect(() => {
@@ -415,18 +420,18 @@ export const StudentHome: React.FC<StudentHomeProps> = ({
       </div>
 
       {/* Submissions History */}
-      {submissions.length > 0 && (
+      {studentSubmissions.length > 0 && (
         <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-xs space-y-4">
           <div className="flex items-center justify-between">
             <h3 className="text-lg sm:text-xl font-bold text-slate-900 flex items-center gap-2">
               <Award className="w-5 h-5 text-amber-500" />
               <span>최근 응시 성적 및 '왜?' 코칭 다시보기</span>
             </h3>
-            <span className="text-xs text-slate-400">총 {submissions.length}회 기록</span>
+            <span className="text-xs text-slate-400">총 {studentSubmissions.length}회 기록</span>
           </div>
 
           <div className="divide-y divide-slate-100">
-            {submissions.slice(0, 5).map((sub) => (
+            {studentSubmissions.slice(0, 5).map((sub) => (
               <div
                 key={sub.id}
                 className="py-3.5 flex items-center justify-between gap-3 hover:bg-slate-50 rounded-xl px-2 transition-colors"
